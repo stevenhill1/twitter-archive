@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 10:42:37 +0000 2016",
+		"id": 773833915085779000,
+		"id_str": "773833915085778944",
+		"text": "Incr citation is a good thing &amp; a +ve reason for OA but it doesn’t mean ‘higher quality’ https://t.co/CdiCVzPnnL https://t.co/5caQlYpHm6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CdiCVzPnnL",
+					"expanded_url": "http://stevenhill.org.uk/citations-and-the-attention-loop/",
+					"display_url": "stevenhill.org.uk/citations-and-…",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/5caQlYpHm6",
+					"expanded_url": "https://twitter.com/timeshighered/status/773823473521045504",
+					"display_url": "twitter.com/timeshighered/…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3254,
+			"friends_count": 900,
+			"listed_count": 171,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 773823473521045500,
+		"quoted_status_id_str": "773823473521045504",
+		"quoted_status": {
+			"created_at": "Thu Sep 08 10:01:07 +0000 2016",
+			"id": 773823473521045500,
+			"id_str": "773823473521045504",
+			"text": "Open access 'boosts citations by a fifth'\nhttps://t.co/KKNnWmxcFk https://t.co/4J4UNoM9GR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KKNnWmxcFk",
+						"expanded_url": "http://bit.ly/2c9A0zh",
+						"display_url": "bit.ly/2c9A0zh",
+						"indices": [
+							42,
+							65
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 773823471264510000,
+						"id_str": "773823471264509952",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr0sWOOUsAAYATs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr0sWOOUsAAYATs.jpg",
+						"url": "https://t.co/4J4UNoM9GR",
+						"display_url": "pic.twitter.com/4J4UNoM9GR",
+						"expanded_url": "https://twitter.com/timeshighered/status/773823473521045504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 620,
+								"h": 413,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 620,
+								"h": 413,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 413,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 773823471264510000,
+						"id_str": "773823471264509952",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/Cr0sWOOUsAAYATs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cr0sWOOUsAAYATs.jpg",
+						"url": "https://t.co/4J4UNoM9GR",
+						"display_url": "pic.twitter.com/4J4UNoM9GR",
+						"expanded_url": "https://twitter.com/timeshighered/status/773823473521045504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 620,
+								"h": 413,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 620,
+								"h": 413,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 413,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://percolate.com\" rel=\"nofollow\">Percolate</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23602600,
+				"id_str": "23602600",
+				"name": "TimesHigherEducation",
+				"screen_name": "timeshighered",
+				"location": "Global",
+				"description": "Global higher education news, comment and in-depth features. Publisher of the Times Higher Education World University Rankings (@THEworldunirank).",
+				"url": "http://t.co/SHlBxmu5aC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SHlBxmu5aC",
+								"expanded_url": "http://www.timeshighereducation.com",
+								"display_url": "timeshighereducation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 202901,
+				"friends_count": 3251,
+				"listed_count": 5315,
+				"created_at": "Tue Mar 10 15:08:03 +0000 2009",
+				"favourites_count": 3453,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 53548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453099437443653633/5NUZy3yC.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453099437443653633/5NUZy3yC.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/603886320860168193/kwgv0xmm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/603886320860168193/kwgv0xmm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23602600/1473173603",
+				"profile_link_color": "E02200",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7F1D2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 08 10:25:43 +0000 2016",
+		"id": 773829665584742400,
+		"id_str": "773829665584742400",
+		"text": "@DavidDye9 @Phil_Baty but RCUK funding is _more_ concentrated than QR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidDye9",
+					"name": "David Dye",
+					"id": 1357757023,
+					"id_str": "1357757023",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Phil_Baty",
+					"name": "Phil Baty",
+					"id": 354880191,
+					"id_str": "354880191",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 773789795860570100,
+		"in_reply_to_status_id_str": "773789795860570112",
+		"in_reply_to_user_id": 1357757023,
+		"in_reply_to_user_id_str": "1357757023",
+		"in_reply_to_screen_name": "DavidDye9",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3254,
+			"friends_count": 900,
+			"listed_count": 171,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 07 18:43:01 +0000 2016",
 		"id": 773592426372038700,
 		"id_str": "773592426372038656",
