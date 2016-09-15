@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 18:02:31 +0000 2016",
+		"id": 776118948068720600,
+		"id_str": "776118948068720640",
+		"text": "new post: On participation and impact https://t.co/60j9kYN0Sg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/60j9kYN0Sg",
+					"expanded_url": "http://ift.tt/2crGk58",
+					"display_url": "ift.tt/2crGk58",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3256,
+			"friends_count": 900,
+			"listed_count": 171,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4622,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 14 10:21:51 +0000 2016",
+		"id": 776003019204915200,
+		"id_str": "776003019204915200",
+		"text": "RT @InfoTCCE: Book our #hackademia conf &amp;find out how to future-proof your academic career with keynote speaker @stevenhill @HEFCE https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hackademia",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "InfoTCCE",
+					"name": "TCCE",
+					"id": 407685227,
+					"id_str": "407685227",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						116,
+						127
+					]
+				},
+				{
+					"screen_name": "HEFCE",
+					"name": "HEFCE",
+					"id": 20054581,
+					"id_str": "20054581",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3KcQvb1izq",
+					"expanded_url": "http://bit.ly/tccehackademia",
+					"display_url": "bit.ly/tccehackademia",
+					"indices": [
+						143,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3256,
+			"friends_count": 900,
+			"listed_count": 171,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4622,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 14 09:09:05 +0000 2016",
+			"id": 775984706043064300,
+			"id_str": "775984706043064321",
+			"text": "Book our #hackademia conf &amp;find out how to future-proof your academic career with keynote speaker @stevenhill @HEFCE https://t.co/3KcQvb1izq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hackademia",
+						"indices": [
+							9,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stevenhill",
+						"name": "Steven Hill",
+						"id": 7731752,
+						"id_str": "7731752",
+						"indices": [
+							102,
+							113
+						]
+					},
+					{
+						"screen_name": "HEFCE",
+						"name": "HEFCE",
+						"id": 20054581,
+						"id_str": "20054581",
+						"indices": [
+							114,
+							120
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3KcQvb1izq",
+						"expanded_url": "http://bit.ly/tccehackademia",
+						"display_url": "bit.ly/tccehackademia",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 407685227,
+				"id_str": "407685227",
+				"name": "TCCE",
+				"screen_name": "InfoTCCE",
+				"location": "London",
+				"description": "Creating inspired collaborations between Higher Education, cultural & creative industries & businesses. TCCE also deliver the Inside Out Festival.",
+				"url": "http://t.co/YGCPwoATWW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YGCPwoATWW",
+								"expanded_url": "http://www.tcce.co.uk",
+								"display_url": "tcce.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1412,
+				"friends_count": 1620,
+				"listed_count": 57,
+				"created_at": "Tue Nov 08 11:46:40 +0000 2011",
+				"favourites_count": 439,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3326,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/664637743/947736dada148587fd098d4f5c13e2b6.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/664637743/947736dada148587fd098d4f5c13e2b6.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/745982310256939008/LTH2pSbj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/745982310256939008/LTH2pSbj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/407685227/1411641990",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 11 12:25:44 +0000 2016",
 		"id": 774947029315383300,
 		"id_str": "774947029315383296",
