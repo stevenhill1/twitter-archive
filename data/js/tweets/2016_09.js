@@ -1,6 +1,713 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Wed Sep 28 21:15:23 +0000 2016",
+		"id": 781240913779626000,
+		"id_str": "781240913779625984",
+		"text": "Thoughtful post from my colleague Charlotte Lester https://t.co/cdKEkVceve",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cdKEkVceve",
+					"expanded_url": "https://twitter.com/HEFCE/status/781200076727283712",
+					"display_url": "twitter.com/HEFCE/status/7…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3268,
+			"friends_count": 901,
+			"listed_count": 171,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 781200076727283700,
+		"quoted_status_id_str": "781200076727283712",
+		"quoted_status": {
+			"created_at": "Wed Sep 28 18:33:06 +0000 2016",
+			"id": 781200076727283700,
+			"id_str": "781200076727283712",
+			"text": "Academics as important to interdisciplinary research culture as their environment https://t.co/0BmOr1nM5i https://t.co/Wxc0uU6q0Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0BmOr1nM5i",
+						"expanded_url": "http://buff.ly/2d9MurO",
+						"display_url": "buff.ly/2d9MurO",
+						"indices": [
+							82,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 781200074869268500,
+						"id_str": "781200074869268480",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/CtdhVEEXYAATwky.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtdhVEEXYAATwky.jpg",
+						"url": "https://t.co/Wxc0uU6q0Q",
+						"display_url": "pic.twitter.com/Wxc0uU6q0Q",
+						"expanded_url": "https://twitter.com/HEFCE/status/781200076727283712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 440,
+								"h": 372,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 440,
+								"h": 372,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 440,
+								"h": 372,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 781200074869268500,
+						"id_str": "781200074869268480",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/CtdhVEEXYAATwky.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtdhVEEXYAATwky.jpg",
+						"url": "https://t.co/Wxc0uU6q0Q",
+						"display_url": "pic.twitter.com/Wxc0uU6q0Q",
+						"expanded_url": "https://twitter.com/HEFCE/status/781200076727283712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 440,
+								"h": 372,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 440,
+								"h": 372,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 440,
+								"h": 372,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20054581,
+				"id_str": "20054581",
+				"name": "HEFCE",
+				"screen_name": "HEFCE",
+				"location": "Bristol",
+				"description": "We create and sustain the conditions for a world-leading higher education system. Retweets and curated links do not imply endorsement.",
+				"url": "http://t.co/4eZaAMmQT8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/4eZaAMmQT8",
+								"expanded_url": "http://www.hefce.ac.uk",
+								"display_url": "hefce.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28352,
+				"friends_count": 576,
+				"listed_count": 807,
+				"created_at": "Wed Feb 04 13:59:28 +0000 2009",
+				"favourites_count": 78,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3198,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3366CC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/539428597493030913/I0IVh6wa_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/539428597493030913/I0IVh6wa_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20054581/1417438061",
+				"profile_link_color": "275FD0",
+				"profile_sidebar_border_color": "AAE8FD",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 28 11:40:17 +0000 2016",
+		"id": 781096187596312600,
+		"id_str": "781096187596312577",
+		"text": "RT @HEFCE: Understanding the interdisciplinary research environment https://t.co/RJz4WdERo2 #interdisciplinary #research https://t.co/NxyFq…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "interdisciplinary",
+					"indices": [
+						92,
+						110
+					]
+				},
+				{
+					"text": "research",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HEFCE",
+					"name": "HEFCE",
+					"id": 20054581,
+					"id_str": "20054581",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RJz4WdERo2",
+					"expanded_url": "http://bit.ly/2djPTkJ",
+					"display_url": "bit.ly/2djPTkJ",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3268,
+			"friends_count": 901,
+			"listed_count": 171,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 28 09:44:13 +0000 2016",
+			"id": 781066977360093200,
+			"id_str": "781066977360093185",
+			"text": "Understanding the interdisciplinary research environment https://t.co/RJz4WdERo2 #interdisciplinary #research https://t.co/NxyFqh4yTW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "interdisciplinary",
+						"indices": [
+							81,
+							99
+						]
+					},
+					{
+						"text": "research",
+						"indices": [
+							100,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RJz4WdERo2",
+						"expanded_url": "http://bit.ly/2djPTkJ",
+						"display_url": "bit.ly/2djPTkJ",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 781066893276880900,
+						"id_str": "781066893276880896",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/CtboM3-WIAABwTt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtboM3-WIAABwTt.jpg",
+						"url": "https://t.co/NxyFqh4yTW",
+						"display_url": "pic.twitter.com/NxyFqh4yTW",
+						"expanded_url": "https://twitter.com/HEFCE/status/781066977360093185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 440,
+								"h": 220,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 440,
+								"h": 220,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 440,
+								"h": 220,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 781066893276880900,
+						"id_str": "781066893276880896",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/CtboM3-WIAABwTt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtboM3-WIAABwTt.jpg",
+						"url": "https://t.co/NxyFqh4yTW",
+						"display_url": "pic.twitter.com/NxyFqh4yTW",
+						"expanded_url": "https://twitter.com/HEFCE/status/781066977360093185/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 440,
+								"h": 220,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 440,
+								"h": 220,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 440,
+								"h": 220,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20054581,
+				"id_str": "20054581",
+				"name": "HEFCE",
+				"screen_name": "HEFCE",
+				"location": "Bristol",
+				"description": "We create and sustain the conditions for a world-leading higher education system. Retweets and curated links do not imply endorsement.",
+				"url": "http://t.co/4eZaAMmQT8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/4eZaAMmQT8",
+								"expanded_url": "http://www.hefce.ac.uk",
+								"display_url": "hefce.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28352,
+				"friends_count": 576,
+				"listed_count": 807,
+				"created_at": "Wed Feb 04 13:59:28 +0000 2009",
+				"favourites_count": 78,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3198,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3366CC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/539428597493030913/I0IVh6wa_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/539428597493030913/I0IVh6wa_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20054581/1417438061",
+				"profile_link_color": "275FD0",
+				"profile_sidebar_border_color": "AAE8FD",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Sep 28 10:16:24 +0000 2016",
+		"id": 781075078083645400,
+		"id_str": "781075078083645440",
+		"text": "Bit late to this, but this post by @Nightingale_P is very good on many levels https://t.co/SNUapoK4m0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nightingale_P",
+					"name": "Paul Nightingale",
+					"id": 416191847,
+					"id_str": "416191847",
+					"indices": [
+						35,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SNUapoK4m0",
+					"expanded_url": "https://medium.com/@Nightingale_P/ice-cream-selling-in-egg-land-10c4419f89d8",
+					"display_url": "medium.com/@Nightingale_P…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3268,
+			"friends_count": 901,
+			"listed_count": 171,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4633,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 26 09:24:59 +0000 2016",
 		"id": 780337362299748400,
 		"id_str": "780337362299748352",
