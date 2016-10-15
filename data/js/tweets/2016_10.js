@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 13:24:48 +0000 2016",
+		"id": 786920695267754000,
+		"id_str": "786920695267753984",
+		"text": "RT @alpsp: Making the future of scholarly communications - @stevenhill @hefce in @LearnedPublish #UPRedux issue \nhttps://t.co/5UadZrw33v",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UPRedux",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alpsp",
+					"name": "ALPSP",
+					"id": 54856459,
+					"id_str": "54856459",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"screen_name": "HEFCE",
+					"name": "HEFCE",
+					"id": 20054581,
+					"id_str": "20054581",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"screen_name": "LearnedPublish",
+					"name": "Learned Publishing",
+					"id": 2904059188,
+					"id_str": "2904059188",
+					"indices": [
+						81,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5UadZrw33v",
+					"expanded_url": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fleap.1052#.WACgtIBIWLo.twitter",
+					"display_url": "onlinelibrary.wiley.com/resolve/doi?DO…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3278,
+			"friends_count": 899,
+			"listed_count": 171,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4650,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 14 10:20:10 +0000 2016",
+			"id": 786874228247302100,
+			"id_str": "786874228247302144",
+			"text": "Making the future of scholarly communications - @stevenhill @hefce in @LearnedPublish #UPRedux issue \nhttps://t.co/5UadZrw33v",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UPRedux",
+						"indices": [
+							86,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stevenhill",
+						"name": "Steven Hill",
+						"id": 7731752,
+						"id_str": "7731752",
+						"indices": [
+							48,
+							59
+						]
+					},
+					{
+						"screen_name": "HEFCE",
+						"name": "HEFCE",
+						"id": 20054581,
+						"id_str": "20054581",
+						"indices": [
+							60,
+							66
+						]
+					},
+					{
+						"screen_name": "LearnedPublish",
+						"name": "Learned Publishing",
+						"id": 2904059188,
+						"id_str": "2904059188",
+						"indices": [
+							70,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5UadZrw33v",
+						"expanded_url": "http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1002%2Fleap.1052#.WACgtIBIWLo.twitter",
+						"display_url": "onlinelibrary.wiley.com/resolve/doi?DO…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54856459,
+				"id_str": "54856459",
+				"name": "ALPSP",
+				"screen_name": "alpsp",
+				"location": "UK",
+				"description": "International trade body which supports and represents not-for-profit organizations and institutions that publish scholarly and professional content.",
+				"url": "http://t.co/HSUQGDelu6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/HSUQGDelu6",
+								"expanded_url": "http://www.alpsp.org",
+								"display_url": "alpsp.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4380,
+				"friends_count": 963,
+				"listed_count": 264,
+				"created_at": "Wed Jul 08 10:19:33 +0000 2009",
+				"favourites_count": 887,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19220,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AAADAA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/673905468/c06053f988a44b5f0deb018d5745d2a7.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/673905468/c06053f988a44b5f0deb018d5745d2a7.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000451698589/fc5113e14722f9c5436f87127e32708c_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000451698589/fc5113e14722f9c5436f87127e32708c_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54856459/1399039528",
+				"profile_link_color": "086E08",
+				"profile_sidebar_border_color": "1D98EB",
+				"profile_sidebar_fill_color": "ABABAB",
+				"profile_text_color": "1C1CC7",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 11 11:35:21 +0000 2016",
 		"id": 785805987055804400,
 		"id_str": "785805987055804416",
