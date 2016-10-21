@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 09:37:02 +0000 2016",
+		"id": 789037702352085000,
+		"id_str": "789037702352084992",
+		"text": "Looking forward to taking part in the Research Impact Summit next month https://t.co/sj149QsgCt https://t.co/n0fYQxirwo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sj149QsgCt",
+					"expanded_url": "http://bit.ly/2ev50IG",
+					"display_url": "bit.ly/2ev50IG",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 789037699353210900,
+					"id_str": "789037699353210880",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/CvM5m2hW8AAJPXU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvM5m2hW8AAJPXU.jpg",
+					"url": "https://t.co/n0fYQxirwo",
+					"display_url": "pic.twitter.com/n0fYQxirwo",
+					"expanded_url": "https://twitter.com/stevenhill/status/789037702352084992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 178,
+							"h": 178,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 178,
+							"h": 178,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 178,
+							"h": 178,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 789037699353210900,
+					"id_str": "789037699353210880",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/CvM5m2hW8AAJPXU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvM5m2hW8AAJPXU.jpg",
+					"url": "https://t.co/n0fYQxirwo",
+					"display_url": "pic.twitter.com/n0fYQxirwo",
+					"expanded_url": "https://twitter.com/stevenhill/status/789037702352084992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 178,
+							"h": 178,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 178,
+							"h": 178,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 178,
+							"h": 178,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3289,
+			"friends_count": 901,
+			"listed_count": 171,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4662,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 19 18:07:13 +0000 2016",
 		"id": 788803705613221900,
 		"id_str": "788803705613221888",
