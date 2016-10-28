@@ -1,6 +1,887 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 19:49:42 +0000 2016",
+		"id": 791728598063472600,
+		"id_str": "791728598063472640",
+		"text": "RT @JSTOR: New #openaccess #ebook program in partnership with @ucpress @UCLpress @CornellPress @UofMPress Learn more: https://t.co/2fASvfWW…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openaccess",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"text": "ebook",
+					"indices": [
+						27,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JSTOR",
+					"name": "JSTOR",
+					"id": 27692165,
+					"id_str": "27692165",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "ucpress",
+					"name": "UC Press",
+					"id": 18198603,
+					"id_str": "18198603",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"screen_name": "UCLpress",
+					"name": "UCL Press",
+					"id": 2255340865,
+					"id_str": "2255340865",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"screen_name": "CornellPress",
+					"name": "Cornell Press",
+					"id": 144853604,
+					"id_str": "144853604",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "UofMPress",
+					"name": "U. of Michigan Press",
+					"id": 6243402,
+					"id_str": "6243402",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3300,
+			"friends_count": 901,
+			"listed_count": 172,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4676,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 26 14:38:33 +0000 2016",
+			"id": 791287909609537500,
+			"id_str": "791287909609537536",
+			"text": "New #openaccess #ebook program in partnership with @ucpress @UCLpress @CornellPress @UofMPress Learn more:… https://t.co/Dvhde8EwKb",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "openaccess",
+						"indices": [
+							4,
+							15
+						]
+					},
+					{
+						"text": "ebook",
+						"indices": [
+							16,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ucpress",
+						"name": "UC Press",
+						"id": 18198603,
+						"id_str": "18198603",
+						"indices": [
+							51,
+							59
+						]
+					},
+					{
+						"screen_name": "UCLpress",
+						"name": "UCL Press",
+						"id": 2255340865,
+						"id_str": "2255340865",
+						"indices": [
+							60,
+							69
+						]
+					},
+					{
+						"screen_name": "CornellPress",
+						"name": "Cornell Press",
+						"id": 144853604,
+						"id_str": "144853604",
+						"indices": [
+							70,
+							83
+						]
+					},
+					{
+						"screen_name": "UofMPress",
+						"name": "U. of Michigan Press",
+						"id": 6243402,
+						"id_str": "6243402",
+						"indices": [
+							84,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Dvhde8EwKb",
+						"expanded_url": "https://twitter.com/i/web/status/791287909609537536",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27692165,
+				"id_str": "27692165",
+				"name": "JSTOR",
+				"screen_name": "JSTOR",
+				"location": "New York, NY",
+				"description": "JSTOR is a digital library of academic journals, e-books, & primary sources, with content dating back to 1675. Support questions: @JSTORSupport",
+				"url": "http://t.co/p5xmYj1nlL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/p5xmYj1nlL",
+								"expanded_url": "http://www.jstor.org",
+								"display_url": "jstor.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37670,
+				"friends_count": 573,
+				"listed_count": 1518,
+				"created_at": "Mon Mar 30 17:58:40 +0000 2009",
+				"favourites_count": 1007,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3571,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E5E5E5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453905841880449024/Gs1E31Sz.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453905841880449024/Gs1E31Sz.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459424158246387712/gwTWCtcQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459424158246387712/gwTWCtcQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27692165/1472044523",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5F0E5",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 27 15:01:16 +0000 2016",
+		"id": 791656015230099500,
+		"id_str": "791656015230099457",
+		"text": "Very much looking forward to being there. https://t.co/Lg5J1IApez",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lg5J1IApez",
+					"expanded_url": "https://twitter.com/suzietcce/status/791603829976526848",
+					"display_url": "twitter.com/suzietcce/stat…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3300,
+			"friends_count": 901,
+			"listed_count": 172,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4676,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 791603829976526800,
+		"quoted_status_id_str": "791603829976526848",
+		"quoted_status": {
+			"created_at": "Thu Oct 27 11:33:55 +0000 2016",
+			"id": 791603829976526800,
+			"id_str": "791603829976526848",
+			"text": "Looking forward to kicking off opening panel #Hackademia16 tomorrow with @stevenhill @JoannaDunster @drpatrickduggan and @uudramaqueen!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Hackademia16",
+						"indices": [
+							45,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stevenhill",
+						"name": "Steven Hill",
+						"id": 7731752,
+						"id_str": "7731752",
+						"indices": [
+							73,
+							84
+						]
+					},
+					{
+						"screen_name": "JoannaDunster",
+						"name": "Joanna Dunster",
+						"id": 478442120,
+						"id_str": "478442120",
+						"indices": [
+							85,
+							99
+						]
+					},
+					{
+						"screen_name": "drpatrickduggan",
+						"name": "Patrick Duggan",
+						"id": 263134254,
+						"id_str": "263134254",
+						"indices": [
+							100,
+							116
+						]
+					},
+					{
+						"screen_name": "uudramaqueen",
+						"name": "Carole-Anne Upton",
+						"id": 80335887,
+						"id_str": "80335887",
+						"indices": [
+							121,
+							134
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 510925946,
+				"id_str": "510925946",
+				"name": "Suzie Leighton",
+				"screen_name": "suzietcce",
+				"location": "London",
+				"description": "European, SME director @infotcce, Knowledge Exchanger, Mother, Festival Producer, Chair of @JVCompany & @TheatrePeckham reluctant Arsenal supporter",
+				"url": "https://t.co/ug8CBf6hdV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ug8CBf6hdV",
+								"expanded_url": "http://theculturecapitalexchange.co.uk",
+								"display_url": "theculturecapitalexchange.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1434,
+				"friends_count": 1452,
+				"listed_count": 38,
+				"created_at": "Thu Mar 01 22:03:56 +0000 2012",
+				"favourites_count": 1351,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3104,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/654781719657058305/KE88nocG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/654781719657058305/KE88nocG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/510925946/1401368364",
+				"profile_link_color": "5400B3",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 27 09:49:05 +0000 2016",
+		"id": 791577449201041400,
+		"id_str": "791577449201041408",
+		"text": "from yesterday: On trade-offs https://t.co/Q0SO5m25Sy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q0SO5m25Sy",
+					"expanded_url": "http://bit.ly/2dVDiHu",
+					"display_url": "bit.ly/2dVDiHu",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3300,
+			"friends_count": 901,
+			"listed_count": 172,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4676,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 27 09:40:26 +0000 2016",
+		"id": 791575273909153800,
+		"id_str": "791575273909153792",
+		"text": "Half of academics understand open data #glasshalffull #OAWeek2016 https://t.co/dXAEAQkwKz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "glasshalffull",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"text": "OAWeek2016",
+					"indices": [
+						54,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dXAEAQkwKz",
+					"expanded_url": "https://twitter.com/HollyElse/status/791559649724100608",
+					"display_url": "twitter.com/HollyElse/stat…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3300,
+			"friends_count": 901,
+			"listed_count": 172,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4676,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 791559649724100600,
+		"quoted_status_id_str": "791559649724100608",
+		"quoted_status": {
+			"created_at": "Thu Oct 27 08:38:21 +0000 2016",
+			"id": 791559649724100600,
+			"id_str": "791559649724100608",
+			"text": "Half of academics confused about open data https://t.co/3BoYaDBfi0 via @timeshighered",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "timeshighered",
+						"name": "TimesHigherEducation",
+						"id": 23602600,
+						"id_str": "23602600",
+						"indices": [
+							71,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3BoYaDBfi0",
+						"expanded_url": "https://www.timeshighereducation.com/news/half-academics-confused-about-open-data",
+						"display_url": "timeshighereducation.com/news/half-acad…",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 138850714,
+				"id_str": "138850714",
+				"name": "Holly Else",
+				"screen_name": "HollyElse",
+				"location": "London",
+				"description": "Science and technology journalist.",
+				"url": "http://t.co/1PLvvPSiuj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1PLvvPSiuj",
+								"expanded_url": "http://about.me/hollyelse",
+								"display_url": "about.me/hollyelse",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 862,
+				"friends_count": 385,
+				"listed_count": 46,
+				"created_at": "Fri Apr 30 20:01:13 +0000 2010",
+				"favourites_count": 38,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 920,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E9E5B6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/325916760/xc04b94f02a16cfb7387e5bc190ce1bb.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/325916760/xc04b94f02a16cfb7387e5bc190ce1bb.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000703431246/df90f9fadf673791d756feb231ee8d0c_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000703431246/df90f9fadf673791d756feb231ee8d0c_normal.jpeg",
+				"profile_link_color": "D18563",
+				"profile_sidebar_border_color": "403C30",
+				"profile_sidebar_fill_color": "81553C",
+				"profile_text_color": "EACF74",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 26 16:58:05 +0000 2016",
 		"id": 791323023043420200,
 		"id_str": "791323023043420160",
