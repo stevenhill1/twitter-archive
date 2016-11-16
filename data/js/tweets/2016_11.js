@@ -1,6 +1,477 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Tue Nov 15 18:57:03 +0000 2016",
+		"id": 798600721666932700,
+		"id_str": "798600721666932736",
+		"text": "Interesting analysis. Clear evidence on the continued importance of long- form research outputs in many disciplines https://t.co/njAPA3Rkcs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/njAPA3Rkcs",
+					"expanded_url": "https://twitter.com/SimonTanner/status/798556904792477696",
+					"display_url": "twitter.com/SimonTanner/st…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3335,
+			"friends_count": 905,
+			"listed_count": 177,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 798556904792477700,
+		"quoted_status_id_str": "798556904792477696",
+		"quoted_status": {
+			"created_at": "Tue Nov 15 16:02:57 +0000 2016",
+			"id": 798556904792477700,
+			"id_str": "798556904792477696",
+			"text": "Arts &amp; Humanities #books &amp; research outputs in #REF2014 - analysis &amp; recommendations from @SimonTanner… https://t.co/BgUMB7fTLX",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "books",
+						"indices": [
+							22,
+							28
+						]
+					},
+					{
+						"text": "REF2014",
+						"indices": [
+							55,
+							63
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SimonTanner",
+						"name": "Simon Tanner",
+						"id": 1275921,
+						"id_str": "1275921",
+						"indices": [
+							102,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BgUMB7fTLX",
+						"expanded_url": "https://twitter.com/i/web/status/798556904792477696",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1275921,
+				"id_str": "1275921",
+				"name": "Simon Tanner",
+				"screen_name": "SimonTanner",
+				"location": "London, UK",
+				"description": "Digital Cultural Heritage Professor at King's College London. Focus = value, impact & strategy of digital to culture & heritage.  Pro Vice Dean (Impact) A&H.",
+				"url": "http://t.co/AFJISP3jII",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AFJISP3jII",
+								"expanded_url": "http://simon-tanner.blogspot.co.uk/",
+								"display_url": "simon-tanner.blogspot.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4118,
+				"friends_count": 1125,
+				"listed_count": 335,
+				"created_at": "Fri Mar 16 09:54:28 +0000 2007",
+				"favourites_count": 459,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15249,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B88D28",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000182110161/DwJjthuf.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000182110161/DwJjthuf.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/684038158577700864/FowQ0h-f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/684038158577700864/FowQ0h-f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1275921/1398689806",
+				"profile_link_color": "135C75",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D8C779",
+				"profile_text_color": "423E2C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 15 13:07:49 +0000 2016",
+		"id": 798512832895742000,
+		"id_str": "798512832895741952",
+		"text": "RT @HEFCE: Flexibility on open access extended for the next #REF https://t.co/tLhKBygwnw #OA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REF",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "OA",
+					"indices": [
+						89,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HEFCE",
+					"name": "HEFCE",
+					"id": 20054581,
+					"id_str": "20054581",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tLhKBygwnw",
+					"expanded_url": "https://goo.gl/ciFj27",
+					"display_url": "goo.gl/ciFj27",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3335,
+			"friends_count": 905,
+			"listed_count": 177,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4768,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 15 10:53:20 +0000 2016",
+			"id": 798478989794934800,
+			"id_str": "798478989794934784",
+			"text": "Flexibility on open access extended for the next #REF https://t.co/tLhKBygwnw #OA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "REF",
+						"indices": [
+							49,
+							53
+						]
+					},
+					{
+						"text": "OA",
+						"indices": [
+							78,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tLhKBygwnw",
+						"expanded_url": "https://goo.gl/ciFj27",
+						"display_url": "goo.gl/ciFj27",
+						"indices": [
+							54,
+							77
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20054581,
+				"id_str": "20054581",
+				"name": "HEFCE",
+				"screen_name": "HEFCE",
+				"location": "Bristol",
+				"description": "We create and sustain the conditions for a world-leading higher education system. Retweets and curated links do not imply endorsement.",
+				"url": "http://t.co/4eZaAMmQT8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/4eZaAMmQT8",
+								"expanded_url": "http://www.hefce.ac.uk",
+								"display_url": "hefce.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29044,
+				"friends_count": 595,
+				"listed_count": 812,
+				"created_at": "Wed Feb 04 13:59:28 +0000 2009",
+				"favourites_count": 98,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3357,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3366CC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/539428597493030913/I0IVh6wa_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/539428597493030913/I0IVh6wa_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20054581/1417438061",
+				"profile_link_color": "275FD0",
+				"profile_sidebar_border_color": "AAE8FD",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Nov 13 16:43:41 +0000 2016",
 		"id": 797842380175147000,
 		"id_str": "797842380175147008",
