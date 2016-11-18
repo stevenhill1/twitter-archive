@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 08:44:20 +0000 2016",
+		"id": 799171301382455300,
+		"id_str": "799171301382455296",
+		"text": "Looking forward to doing my interview this morning https://t.co/cEffYdshRg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cEffYdshRg",
+					"expanded_url": "https://twitter.com/KTAustralia/status/799122445282242561",
+					"display_url": "twitter.com/KTAustralia/st…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3335,
+			"friends_count": 906,
+			"listed_count": 177,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 799122445282242600,
+		"quoted_status_id_str": "799122445282242561",
+		"quoted_status": {
+			"created_at": "Thu Nov 17 05:30:12 +0000 2016",
+			"id": 799122445282242600,
+			"id_str": "799122445282242561",
+			"text": "Over half the interviews are completed. Great themes coming through in the https://t.co/d1bEJtWlch #ecr #science https://t.co/3ANrUKWPR0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ecr",
+						"indices": [
+							99,
+							103
+						]
+					},
+					{
+						"text": "science",
+						"indices": [
+							104,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d1bEJtWlch",
+						"expanded_url": "http://bit.ly/2fj5lij",
+						"display_url": "bit.ly/2fj5lij",
+						"indices": [
+							75,
+							98
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 799122442585337900,
+						"id_str": "799122442585337856",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/CxcNoKpXcAAVN49.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxcNoKpXcAAVN49.jpg",
+						"url": "https://t.co/3ANrUKWPR0",
+						"display_url": "pic.twitter.com/3ANrUKWPR0",
+						"expanded_url": "https://twitter.com/KTAustralia/status/799122445282242561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 240,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 424,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1397,
+								"h": 494,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 799122442585337900,
+						"id_str": "799122442585337856",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/CxcNoKpXcAAVN49.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxcNoKpXcAAVN49.jpg",
+						"url": "https://t.co/3ANrUKWPR0",
+						"display_url": "pic.twitter.com/3ANrUKWPR0",
+						"expanded_url": "https://twitter.com/KTAustralia/status/799122445282242561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 240,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 424,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1397,
+								"h": 494,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1138478190,
+				"id_str": "1138478190",
+				"name": "Tamika Heiden",
+				"screen_name": "KTAustralia",
+				"location": "Melbourne, Victoria",
+				"description": "Creating research impact for researchers by building skills of influence, recognition, collaboration and communication, and creating broad networks.",
+				"url": "http://t.co/YLtaxSyjp6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YLtaxSyjp6",
+								"expanded_url": "http://www.ktaustralia.com",
+								"display_url": "ktaustralia.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1891,
+				"friends_count": 3177,
+				"listed_count": 99,
+				"created_at": "Fri Feb 01 02:22:31 +0000 2013",
+				"favourites_count": 1263,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3869,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0A091A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/533544460718600193/cY2Ka4XA.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/533544460718600193/cY2Ka4XA.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/710731934956007424/PNYC_oxw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/710731934956007424/PNYC_oxw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1138478190/1458796558",
+				"profile_link_color": "007FFA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F5C698",
+				"profile_text_color": "6D897A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 16 11:48:25 +0000 2016",
 		"id": 798855237540843500,
 		"id_str": "798855237540843520",
