@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 26 16:29:19 +0000 2016",
+		"id": 802549809085378600,
+		"id_str": "802549809085378560",
+		"text": "Why do people send letters to pay-walled newspapers when they could just post it online where everyone can read? We… https://t.co/rq6YwbVaKM",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rq6YwbVaKM",
+					"expanded_url": "https://twitter.com/i/web/status/802549809085378560",
+					"display_url": "twitter.com/i/web/status/8…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3362,
+			"friends_count": 910,
+			"listed_count": 175,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4839,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 802430694584684500,
+		"quoted_status_id_str": "802430694584684544",
+		"quoted_status": {
+			"created_at": "Sat Nov 26 08:36:00 +0000 2016",
+			"id": 802430694584684500,
+			"id_str": "802430694584684544",
+			"text": "@GraemeTR me neither but I couldn't read it. No matter - I found a way, with a little help from a friend.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GraemeTR",
+						"name": "Graeme Reid",
+						"id": 60871529,
+						"id_str": "60871529",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 802425785655185400,
+			"in_reply_to_status_id_str": "802425785655185408",
+			"in_reply_to_user_id": 60871529,
+			"in_reply_to_user_id_str": "60871529",
+			"in_reply_to_screen_name": "GraemeTR",
+			"user": {
+				"id": 41358714,
+				"id_str": "41358714",
+				"name": "(((Stephen Curry)))",
+				"screen_name": "Stephen_Curry",
+				"location": "London (various)",
+				"description": "Structural biologist - dazzled by X-rays, cares about science. Guardian Science Blogs (https://t.co/3Kh1tPIKKR) and Occam's Typewriter.",
+				"url": "https://t.co/p8Hex9Imjl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p8Hex9Imjl",
+								"expanded_url": "http://occamstypewriter.org/scurry/",
+								"display_url": "occamstypewriter.org/scurry/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3Kh1tPIKKR",
+								"expanded_url": "http://www.guardian.co.uk/science/occams-corner",
+								"display_url": "guardian.co.uk/science/occams…",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12273,
+				"friends_count": 1385,
+				"listed_count": 626,
+				"created_at": "Wed May 20 13:34:28 +0000 2009",
+				"favourites_count": 4905,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 47008,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/473134748106121216/oxlIXE8u.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/473134748106121216/oxlIXE8u.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/761873981368590336/ifrpUXZ6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/761873981368590336/ifrpUXZ6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41358714/1472201367",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Nov 25 13:53:59 +0000 2016",
 		"id": 802148329878646800,
 		"id_str": "802148329878646785",
