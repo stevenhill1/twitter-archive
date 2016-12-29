@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Wed Dec 28 10:08:52 +0000 2016",
+		"id": 814050477084209200,
+		"id_str": "814050477084209152",
+		"text": "RT @Scientists4EU: Just had a quick skim read of this book. It's exciting. In recent years, the EU has forged a bold, holistic science &amp; in…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Scientists4EU",
+					"name": "Scientists for EU",
+					"id": 3189001238,
+					"id_str": "3189001238",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3465,
+			"friends_count": 915,
+			"listed_count": 181,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4980,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 27 18:49:50 +0000 2016",
+			"id": 813819193900601300,
+			"id_str": "813819193900601345",
+			"text": "Just had a quick skim read of this book. It's exciting. In recent years, the EU has forged a bold, holistic science… https://t.co/UbdooD5m8d",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UbdooD5m8d",
+						"expanded_url": "https://twitter.com/i/web/status/813819193900601345",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3189001238,
+				"id_str": "3189001238",
+				"name": "Scientists for EU",
+				"screen_name": "Scientists4EU",
+				"location": "London, England",
+				"description": "Our FB page launched May 8, 2015: https://t.co/lPrPeGDeAx \nGet a SfEU twibbon: https://t.co/gdkYN571xb",
+				"url": "http://t.co/D8jbTT66ri",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/D8jbTT66ri",
+								"expanded_url": "http://scientistsforeu.uk/",
+								"display_url": "scientistsforeu.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lPrPeGDeAx",
+								"expanded_url": "https://www.facebook.com/pages/Scientists-for-EU/642444842524195",
+								"display_url": "facebook.com/pages/Scientis…",
+								"indices": [
+									34,
+									57
+								]
+							},
+							{
+								"url": "https://t.co/gdkYN571xb",
+								"expanded_url": "http://twibbon.com/support/scientists-for-eu",
+								"display_url": "twibbon.com/support/scient…",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 40953,
+				"friends_count": 37609,
+				"listed_count": 525,
+				"created_at": "Fri May 08 17:33:40 +0000 2015",
+				"favourites_count": 11733,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9532,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/607152409924759552/D2BGH0fu_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/607152409924759552/D2BGH0fu_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3189001238/1431217796",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 813383875816779800,
+			"quoted_status_id_str": "813383875816779776",
+			"quoted_status": {
+				"created_at": "Mon Dec 26 14:00:02 +0000 2016",
+				"id": 813383875816779800,
+				"id_str": "813383875816779776",
+				"text": "#OpenInnovation #OpenScience #OpentotheWorld - A vision for Europe.   Download your free copy from @eubookshop now… https://t.co/y7XmyTqvt5",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "OpenInnovation",
+							"indices": [
+								0,
+								15
+							]
+						},
+						{
+							"text": "OpenScience",
+							"indices": [
+								16,
+								28
+							]
+						},
+						{
+							"text": "OpentotheWorld",
+							"indices": [
+								29,
+								44
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "eubookshop",
+							"name": "EU Bookshop",
+							"id": 79155037,
+							"id_str": "79155037",
+							"indices": [
+								99,
+								110
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/y7XmyTqvt5",
+							"expanded_url": "https://twitter.com/i/web/status/813383875816779776",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				},
+				"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 193301414,
+					"id_str": "193301414",
+					"name": "EUScience&Innovation",
+					"screen_name": "EUScienceInnov",
+					"location": "European Union",
+					"description": "Official account of DG Research & Innovation @EU_Commission. Managing the @EU_H2020 programme and implementing Commissioner @Moedas strategy.",
+					"url": "http://t.co/5zBQ0Qdzyo",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/5zBQ0Qdzyo",
+									"expanded_url": "http://ec.europa.eu/research/index.cfm",
+									"display_url": "ec.europa.eu/research/index…",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 40888,
+					"friends_count": 392,
+					"listed_count": 0,
+					"created_at": "Tue Sep 21 13:58:07 +0000 2010",
+					"favourites_count": 1784,
+					"utc_offset": 3600,
+					"time_zone": "Brussels",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 26051,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/543361169/research-twitter-background.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/543361169/research-twitter-background.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/795736685887836165/Ujz0_Tjp_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/795736685887836165/Ujz0_Tjp_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/193301414/1481711173",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 43,
+				"favorite_count": 51,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 28,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 813383875816779800,
+		"quoted_status_id_str": "813383875816779776",
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Dec 24 15:46:30 +0000 2016",
 		"id": 812685893072994300,
 		"id_str": "812685893072994304",
