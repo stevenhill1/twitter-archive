@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 25 11:16:58 +0000 2017",
+		"id": 835448498153627600,
+		"id_str": "835448498153627651",
+		"text": "Big news https://t.co/CUxkLKYZDR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CUxkLKYZDR",
+					"expanded_url": "https://twitter.com/rmounce/status/835447691584876544",
+					"display_url": "twitter.com/rmounce/status…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3528,
+			"friends_count": 916,
+			"listed_count": 183,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5043,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 835447691584876500,
+		"quoted_status_id_str": "835447691584876544",
+		"quoted_status": {
+			"created_at": "Sat Feb 25 11:13:46 +0000 2017",
+			"id": 835447691584876500,
+			"id_str": "835447691584876544",
+			"text": "Annotation is now a web standard https://t.co/2NXxnnOsKi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2NXxnnOsKi",
+						"expanded_url": "https://hypothes.is/blog/annotation-is-now-a-web-standard/",
+						"display_url": "hypothes.is/blog/annotatio…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 222765418,
+				"id_str": "222765418",
+				"name": "R⓪ss Mounce",
+				"screen_name": "rmounce",
+				"location": "Cambridge, England",
+				"description": "Improving Scholarly Communications Infrastructure @Cambridge_Uni @SystAssn | @RIOJournal @SoftwareSaved Fellow https://t.co/TEaIFUKkvx (blog)",
+				"url": "https://t.co/IAC7RottIu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IAC7RottIu",
+								"expanded_url": "http://rossmounce.co.uk/",
+								"display_url": "rossmounce.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TEaIFUKkvx",
+								"expanded_url": "http://rossmounce.co.uk",
+								"display_url": "rossmounce.co.uk",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3870,
+				"friends_count": 2942,
+				"listed_count": 285,
+				"created_at": "Sat Dec 04 11:26:43 +0000 2010",
+				"favourites_count": 6063,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23221,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/668402841262927872/2vZUj52I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/668402841262927872/2vZUj52I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/222765418/1429133070",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3aa1b1861c56d910",
+				"url": "https://api.twitter.com/1.1/geo/id/3aa1b1861c56d910.json",
+				"place_type": "city",
+				"name": "Cambridge",
+				"full_name": "Cambridge, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								0.0873022,
+								52.1642435
+							],
+							[
+								0.18453,
+								52.1642435
+							],
+							[
+								0.18453,
+								52.237704
+							],
+							[
+								0.0873022,
+								52.237704
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 21 10:43:20 +0000 2017",
 		"id": 833990480673329200,
 		"id_str": "833990480673329153",
