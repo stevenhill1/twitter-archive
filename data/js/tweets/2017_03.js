@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 10 18:09:46 +0000 2017",
+		"id": 840263423506161700,
+		"id_str": "840263423506161665",
+		"text": "Really interesting analysis of research collaboration patterns https://t.co/8iSXsSrOAO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8iSXsSrOAO",
+					"expanded_url": "https://twitter.com/digitalsci/status/840049696315969537",
+					"display_url": "twitter.com/digitalsci/sta…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3540,
+			"friends_count": 918,
+			"listed_count": 184,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 840049696315969500,
+		"quoted_status_id_str": "840049696315969537",
+		"quoted_status": {
+			"created_at": "Fri Mar 10 04:00:29 +0000 2017",
+			"id": 840049696315969500,
+			"id_str": "840049696315969537",
+			"text": "Discovery and Analysis of Global Research Trends Using @grid_ac  https://t.co/qxG9gjSDM5 https://t.co/OzVaE6m8LC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "grid_ac",
+						"name": "GRID",
+						"id": 3907382243,
+						"id_str": "3907382243",
+						"indices": [
+							55,
+							63
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qxG9gjSDM5",
+						"expanded_url": "http://bit.ly/2lDgj5E",
+						"display_url": "bit.ly/2lDgj5E",
+						"indices": [
+							65,
+							88
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 837322094480339000,
+						"id_str": "837322094480338946",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/C57EAjQWMAIitgN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C57EAjQWMAIitgN.jpg",
+						"url": "https://t.co/OzVaE6m8LC",
+						"display_url": "pic.twitter.com/OzVaE6m8LC",
+						"expanded_url": "https://twitter.com/CMKeithW/status/837322100247564288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 591,
+								"h": 644,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 591,
+								"h": 644,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 591,
+								"h": 644,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 837322100247564300,
+						"source_status_id_str": "837322100247564288",
+						"source_user_id": 1513023296,
+						"source_user_id_str": "1513023296"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 837322094480339000,
+						"id_str": "837322094480338946",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/C57EAjQWMAIitgN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C57EAjQWMAIitgN.jpg",
+						"url": "https://t.co/OzVaE6m8LC",
+						"display_url": "pic.twitter.com/OzVaE6m8LC",
+						"expanded_url": "https://twitter.com/CMKeithW/status/837322100247564288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 591,
+								"h": 644,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 591,
+								"h": 644,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 591,
+								"h": 644,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 837322100247564300,
+						"source_status_id_str": "837322100247564288",
+						"source_user_id": 1513023296,
+						"source_user_id_str": "1513023296"
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 144972081,
+				"id_str": "144972081",
+				"name": "Digital Science",
+				"screen_name": "digitalsci",
+				"location": "London/New York/Boston/Tokyo",
+				"description": "A technology company serving the needs of scientific and research communities.",
+				"url": "http://t.co/0AuinG3pUl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0AuinG3pUl",
+								"expanded_url": "http://www.digital-science.com",
+								"display_url": "digital-science.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21211,
+				"friends_count": 10066,
+				"listed_count": 847,
+				"created_at": "Mon May 17 20:12:53 +0000 2010",
+				"favourites_count": 6337,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19790,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458896241846276097/LgO-Xmnx_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458896241846276097/LgO-Xmnx_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/144972081/1450185267",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 09 20:01:26 +0000 2017",
 		"id": 839929140665012200,
 		"id_str": "839929140665012225",
