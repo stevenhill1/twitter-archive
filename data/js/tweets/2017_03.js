@@ -1,6 +1,811 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 18 11:45:47 +0000 2017",
+		"id": 843065897111687200,
+		"id_str": "843065897111687168",
+		"text": "Grt essay by @TimHarford w important message - we need more curiosity (h/t @Stephen_Curry) https://t.co/mh1gCdBu79 https://t.co/08tf5QCn4u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TimHarford",
+					"name": "Tim Harford",
+					"id": 32493647,
+					"id_str": "32493647",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "Stephen_Curry",
+					"name": "Stephen Curry",
+					"id": 41358714,
+					"id_str": "41358714",
+					"indices": [
+						75,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mh1gCdBu79",
+					"expanded_url": "http://timharford.com/2017/03/the-problem-with-facts/",
+					"display_url": "timharford.com/2017/03/the-pr…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 843065894700007400,
+					"id_str": "843065894700007424",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/C7Mr9ufXQAAhBTa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7Mr9ufXQAAhBTa.jpg",
+					"url": "https://t.co/08tf5QCn4u",
+					"display_url": "pic.twitter.com/08tf5QCn4u",
+					"expanded_url": "https://twitter.com/stevenhill/status/843065897111687168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 843065894700007400,
+					"id_str": "843065894700007424",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/C7Mr9ufXQAAhBTa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7Mr9ufXQAAhBTa.jpg",
+					"url": "https://t.co/08tf5QCn4u",
+					"display_url": "pic.twitter.com/08tf5QCn4u",
+					"expanded_url": "https://twitter.com/stevenhill/status/843065897111687168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3555,
+			"friends_count": 923,
+			"listed_count": 184,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 18 08:56:40 +0000 2017",
+		"id": 843023334380097500,
+		"id_str": "843023334380097536",
+		"text": "Brilliant words - worth 2 minutes of your time (h/t @profmarkreed) https://t.co/HLr2ZX80cs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "profmarkreed",
+					"name": "Mark Reed",
+					"id": 19347472,
+					"id_str": "19347472",
+					"indices": [
+						52,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HLr2ZX80cs",
+					"expanded_url": "https://twitter.com/malonebarry/status/842712911076343809",
+					"display_url": "twitter.com/malonebarry/st…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3555,
+			"friends_count": 923,
+			"listed_count": 184,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 842712911076343800,
+		"quoted_status_id_str": "842712911076343809",
+		"quoted_status": {
+			"created_at": "Fri Mar 17 12:23:09 +0000 2017",
+			"id": 842712911076343800,
+			"id_str": "842712911076343809",
+			"text": "\"We were the wretched refuse on the teeming shore,\" Irish prime minister says with Donald Trump in the room. https://t.co/7jEfTVvIzE",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 842660155108069400,
+						"id_str": "842660155108069377",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/842660155108069377/img/_MLYudPHwlCyQqtw.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/842660155108069377/img/_MLYudPHwlCyQqtw.jpg",
+						"url": "https://t.co/7jEfTVvIzE",
+						"display_url": "pic.twitter.com/7jEfTVvIzE",
+						"expanded_url": "https://twitter.com/Channel4News/status/842661349415157760/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 842661349415157800,
+						"source_status_id_str": "842661349415157760",
+						"source_user_id": 14569869,
+						"source_user_id_str": "14569869"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 842660155108069400,
+						"id_str": "842660155108069377",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/842660155108069377/img/_MLYudPHwlCyQqtw.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/842660155108069377/img/_MLYudPHwlCyQqtw.jpg",
+						"url": "https://t.co/7jEfTVvIzE",
+						"display_url": "pic.twitter.com/7jEfTVvIzE",
+						"expanded_url": "https://twitter.com/Channel4News/status/842661349415157760/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 842661349415157800,
+						"source_status_id_str": "842661349415157760",
+						"source_user_id": 14569869,
+						"source_user_id_str": "14569869",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 87560,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/842660155108069377/vid/480x480/V-0YNlZvCqmB4TSy.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/842660155108069377/vid/240x240/80efKtb9wY_OFs7E.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/842660155108069377/vid/720x720/CaAzXazcc7H5-6xI.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/842660155108069377/pl/O1z_gL787rxd2Eer.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 14569869,
+								"id_str": "14569869",
+								"name": "Channel 4 News",
+								"screen_name": "Channel4News",
+								"location": "",
+								"description": "Stories that reveal and inspire, challenging expectations.",
+								"url": "http://t.co/YO0ZZvoyrC",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/YO0ZZvoyrC",
+												"expanded_url": "http://www.channel4.com/news",
+												"display_url": "channel4.com/news",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1417981,
+								"friends_count": 3671,
+								"listed_count": 8338,
+								"created_at": "Mon Apr 28 14:29:37 +0000 2008",
+								"favourites_count": 427,
+								"utc_offset": 0,
+								"time_zone": "London",
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 83730,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "2C1C36",
+								"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+								"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648955077240164352/qBTtGdoJ.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/670009107924037634/D7bwdn6Q_normal.png",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/670009107924037634/D7bwdn6Q_normal.png",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/14569869/1464103587",
+								"profile_link_color": "3C105E",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "FAF0F6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18753586,
+				"id_str": "18753586",
+				"name": "Barry Malone",
+				"screen_name": "malonebarry",
+				"location": "Doha, Qatar",
+				"description": "Online editor, Al Jazeera | Wandered East Africa, Iraq and Libya for Reuters | Tweeting news and nonsense | Irish",
+				"url": "https://t.co/D38RZjLnhI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D38RZjLnhI",
+								"expanded_url": "http://aljazeera.com",
+								"display_url": "aljazeera.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18298,
+				"friends_count": 1235,
+				"listed_count": 667,
+				"created_at": "Thu Jan 08 04:27:43 +0000 2009",
+				"favourites_count": 14791,
+				"utc_offset": 10800,
+				"time_zone": "Kuwait",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 26749,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F7F7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/716187444/eef9a3f50f42bb874eabfbf0251bdbd5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/716187444/eef9a3f50f42bb874eabfbf0251bdbd5.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/767369068173266944/GFJl_SkO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/767369068173266944/GFJl_SkO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18753586/1403688026",
+				"profile_link_color": "2878B5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30337,
+			"favorite_count": 48982,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 18 08:49:13 +0000 2017",
+		"id": 843021459664621600,
+		"id_str": "843021459664621569",
+		"text": "Fantastic spirit of collaboration. Recommend Chrome users install both OA Button and Unpaywall #openaccess https://t.co/9yRNjGErbm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openaccess",
+					"indices": [
+						95,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9yRNjGErbm",
+					"expanded_url": "https://twitter.com/jasonpriem/status/842901842795274240",
+					"display_url": "twitter.com/jasonpriem/sta…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3555,
+			"friends_count": 923,
+			"listed_count": 184,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5066,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 842901842795274200,
+		"quoted_status_id_str": "842901842795274240",
+		"quoted_status": {
+			"created_at": "Sat Mar 18 00:53:54 +0000 2017",
+			"id": 842901842795274200,
+			"id_str": "842901842795274240",
+			"text": "Super classy, encouraging post from @OA_Button...thanks y'all! So looking forward to smashing paywalls together 🔨😀 https://t.co/l69p32f88H",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OA_Button",
+						"name": "Open Access Button",
+						"id": 1569180318,
+						"id_str": "1569180318",
+						"indices": [
+							36,
+							46
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/l69p32f88H",
+						"expanded_url": "https://blog.openaccessbutton.org/three-cheers-for-unpaywall-and-oadoi-9002a228ac85#.4q6n9mg3a",
+						"display_url": "blog.openaccessbutton.org/three-cheers-f…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15137538,
+				"id_str": "15137538",
+				"name": "Jason Priem",
+				"screen_name": "jasonpriem",
+				"location": "Vancouver BC",
+				"description": "Impactstory co-founder. #scicomm #altmetrics #openscience",
+				"url": "http://t.co/Lit4RYuEwM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Lit4RYuEwM",
+								"expanded_url": "http://impactstory.org/jason",
+								"display_url": "impactstory.org/jason",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4934,
+				"friends_count": 572,
+				"listed_count": 336,
+				"created_at": "Mon Jun 16 19:19:43 +0000 2008",
+				"favourites_count": 1615,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6993,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/131599835/twitter_background.PNG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/131599835/twitter_background.PNG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/820790537456226304/Tis8dyhv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/820790537456226304/Tis8dyhv_normal.jpg",
+				"profile_link_color": "888888",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 17 08:38:53 +0000 2017",
 		"id": 842656471255015400,
 		"id_str": "842656471255015424",
