@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 20:34:00 +0000 2017",
+		"id": 852258524004593700,
+		"id_str": "852258524004593666",
+		"text": "RT @researchimpact: &lt;new blog post&gt; Watching Impact in the REF and How It Informs the Canadian Context https://t.co/X2UiajNLxH @hefce",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "researchimpact",
+					"name": "ResearchImpact",
+					"id": 37030356,
+					"id_str": "37030356",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "HEFCE",
+					"name": "HEFCE",
+					"id": 20054581,
+					"id_str": "20054581",
+					"indices": [
+						133,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X2UiajNLxH",
+					"expanded_url": "http://bit.ly/2p9k5Wk",
+					"display_url": "bit.ly/2p9k5Wk",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3568,
+			"friends_count": 926,
+			"listed_count": 184,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5078,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 12 19:07:09 +0000 2017",
+			"id": 852236665838071800,
+			"id_str": "852236665838071808",
+			"text": "&lt;new blog post&gt; Watching Impact in the REF and How It Informs the Canadian Context https://t.co/X2UiajNLxH @hefce",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HEFCE",
+						"name": "HEFCE",
+						"id": 20054581,
+						"id_str": "20054581",
+						"indices": [
+							113,
+							119
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/X2UiajNLxH",
+						"expanded_url": "http://bit.ly/2p9k5Wk",
+						"display_url": "bit.ly/2p9k5Wk",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://bitly.com/\" rel=\"nofollow\">Bitly</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37030356,
+				"id_str": "37030356",
+				"name": "ResearchImpact",
+				"screen_name": "researchimpact",
+				"location": "Canada",
+				"description": "Research Impact Canada is a pan Canadian knowledge mobilization network connecting university, community, business and government for public good.",
+				"url": "http://t.co/kzhmXSPRu7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kzhmXSPRu7",
+								"expanded_url": "http://www.researchimpact.ca",
+								"display_url": "researchimpact.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8058,
+				"friends_count": 1860,
+				"listed_count": 465,
+				"created_at": "Fri May 01 20:17:24 +0000 2009",
+				"favourites_count": 183,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18791,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12407796/Hands_small.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/12407796/Hands_small.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/473537396491841536/hQaNbfa8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/473537396491841536/hQaNbfa8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37030356/1402601140",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 10 10:57:21 +0000 2017",
 		"id": 851388626822991900,
 		"id_str": "851388626822991872",
