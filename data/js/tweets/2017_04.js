@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 26 13:55:44 +0000 2017",
+		"id": 857231725973426200,
+		"id_str": "857231725973426176",
+		"text": "RT @Stephen_Curry: Nature journals sign DORA – this is great! Well done to all involved. https://t.co/zvHLWFeKYq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Stephen_Curry",
+					"name": "Stephen Curry",
+					"id": 41358714,
+					"id_str": "41358714",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zvHLWFeKYq",
+					"expanded_url": "https://twitter.com/mcdawg/status/857218215709200384",
+					"display_url": "twitter.com/mcdawg/status/…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3580,
+			"friends_count": 927,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5088,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 26 13:05:24 +0000 2017",
+			"id": 857219058281984000,
+			"id_str": "857219058281984001",
+			"text": "Nature journals sign DORA – this is great! Well done to all involved. https://t.co/zvHLWFeKYq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zvHLWFeKYq",
+						"expanded_url": "https://twitter.com/mcdawg/status/857218215709200384",
+						"display_url": "twitter.com/mcdawg/status/…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41358714,
+				"id_str": "41358714",
+				"name": "Stephen Curry",
+				"screen_name": "Stephen_Curry",
+				"location": "London (various)",
+				"description": "Structural biologist - dazzled by X-rays, cares about science. Guardian Science Blogs (https://t.co/3Kh1tPIKKR) and Occam's Typewriter.",
+				"url": "https://t.co/p8Hex9Imjl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p8Hex9Imjl",
+								"expanded_url": "http://occamstypewriter.org/scurry/",
+								"display_url": "occamstypewriter.org/scurry/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3Kh1tPIKKR",
+								"expanded_url": "http://www.guardian.co.uk/science/occams-corner",
+								"display_url": "guardian.co.uk/science/occams…",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13255,
+				"friends_count": 1472,
+				"listed_count": 643,
+				"created_at": "Wed May 20 13:34:28 +0000 2009",
+				"favourites_count": 5124,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 50200,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/473134748106121216/oxlIXE8u.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/473134748106121216/oxlIXE8u.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814162182632075265/1tXrvuPC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814162182632075265/1tXrvuPC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41358714/1493039735",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 857218215709200400,
+			"quoted_status_id_str": "857218215709200384",
+			"quoted_status": {
+				"created_at": "Wed Apr 26 13:02:03 +0000 2017",
+				"id": 857218215709200400,
+				"id_str": "857218215709200384",
+				"text": "'Nature journals support the San Francisco Declaration on Research Assessment' https://t.co/kfO6IWDwU7",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/kfO6IWDwU7",
+							"expanded_url": "http://www.nature.com/news/announcement-nature-journals-support-the-san-francisco-declaration-on-research-assessment-1.21882",
+							"display_url": "nature.com/news/announcem…",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 12432262,
+					"id_str": "12432262",
+					"name": "⓪ Grⓐhⓐm Steel 🔬🎓",
+					"screen_name": "McDawg",
+					"location": "Glasgow",
+					"description": "A Scottlish #OpenScience #OpenAccess #OpenData #OpenSource #OpenKnowledge #OER & #PatientAdvocate - ex Community Manager @TheContentMine",
+					"url": "https://t.co/bvtM1qWeRR",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/bvtM1qWeRR",
+									"expanded_url": "https://steelgraham.wordpress.com/",
+									"display_url": "steelgraham.wordpress.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 6448,
+					"friends_count": 7051,
+					"listed_count": 656,
+					"created_at": "Sat Jan 19 14:05:32 +0000 2008",
+					"favourites_count": 7361,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 76229,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "4A913C",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623423230901125125/dcWjTR2k.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623423230901125125/dcWjTR2k.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/708707066026860544/LnGGYNw1_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/708707066026860544/LnGGYNw1_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/12432262/1457723229",
+					"profile_link_color": "002EFF",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "FFF7CC",
+					"profile_text_color": "0C3E53",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 25,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 857218215709200400,
+		"quoted_status_id_str": "857218215709200384",
+		"retweet_count": 25,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 24 15:18:10 +0000 2017",
 		"id": 856527695114620900,
 		"id_str": "856527695114620928",
