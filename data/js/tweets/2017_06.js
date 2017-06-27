@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 26 10:23:53 +0000 2017",
+		"id": 879284072345940000,
+		"id_str": "879284072345939969",
+		"text": "RT @maccalarena: Exciting morning here @BritSciAssoc Towers... we're launching and rolling out a new core brand identity. Look! --&gt; https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maccalarena",
+					"name": "Amy MacLaren",
+					"id": 19758877,
+					"id_str": "19758877",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "BritSciAssoc",
+					"name": "British Science",
+					"id": 442847698,
+					"id_str": "442847698",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3613,
+			"friends_count": 927,
+			"listed_count": 183,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 10,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5105,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 09:49:21 +0000 2017",
+			"id": 879275380309360600,
+			"id_str": "879275380309360640",
+			"text": "Exciting morning here @BritSciAssoc Towers... we're launching and rolling out a new core brand identity. Look! --&gt; https://t.co/dYyhLJ0vig",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BritSciAssoc",
+						"name": "British Science",
+						"id": 442847698,
+						"id_str": "442847698",
+						"indices": [
+							22,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dYyhLJ0vig",
+						"expanded_url": "https://www.britishscienceassociation.org/blog/the-bsa-gets-a-new-look",
+						"display_url": "britishscienceassociation.org/blog/the-bsa-g…",
+						"indices": [
+							118,
+							141
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19758877,
+				"id_str": "19758877",
+				"name": "Amy MacLaren",
+				"screen_name": "maccalarena",
+				"location": "London",
+				"description": "Director of Development & Comms @BritSciAssoc; Trustee @DaphneJacksonTr; Governor @WhitefieldNews. London-centric. Feminist. Own views; I know, imagine!",
+				"url": "https://t.co/gJeXJ7cd7Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gJeXJ7cd7Y",
+								"expanded_url": "http://www.britishscienceassociation.org/",
+								"display_url": "britishscienceassociation.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2278,
+				"friends_count": 994,
+				"listed_count": 122,
+				"created_at": "Fri Jan 30 08:01:07 +0000 2009",
+				"favourites_count": 3608,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25325,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9B9074",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/612944434611662848/A78L4sGq.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/612944434611662848/A78L4sGq.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/467363400289222656/rZu6TJXD_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/467363400289222656/rZu6TJXD_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19758877/1434835320",
+				"profile_link_color": "4CA589",
+				"profile_sidebar_border_color": "2B1818",
+				"profile_sidebar_fill_color": "FF3B3B",
+				"profile_text_color": "E3D69F",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 25 18:04:24 +0000 2017",
 		"id": 879037577176678400,
 		"id_str": "879037577176678400",
