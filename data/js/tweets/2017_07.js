@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 12 18:11:44 +0000 2017",
+		"id": 885200014825467900,
+		"id_str": "885200014825467913",
+		"text": "RT @RickyPo: Availability of open reference data nears 50% as societies &amp; publishers endorse Initiative for Open Citations  https://t.co/Cc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RickyPo",
+					"name": "Richard Poynder",
+					"id": 20298671,
+					"id_str": "20298671",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3647,
+			"friends_count": 931,
+			"listed_count": 184,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 12,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5147,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 11 17:55:47 +0000 2017",
+			"id": 884833614822875100,
+			"id_str": "884833614822875136",
+			"text": "Availability of open reference data nears 50% as societies &amp; publishers endorse Initiative for Open Citations  https://t.co/CcYW1E27sP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CcYW1E27sP",
+						"expanded_url": "https://elifesciences.org/for-the-press/9eb16f1c/availability-of-open-reference-data-nears-50-as-major-societies-and-influential-publishers-endorse-the-initiative-for-open-citations",
+						"display_url": "elifesciences.org/for-the-press/…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20298671,
+				"id_str": "20298671",
+				"name": "Richard Poynder",
+				"screen_name": "RickyPo",
+				"location": "",
+				"description": "Richard Poynder is an independent journalist & blogger specialising in scholarly communication, OA & open science. Tweets/Retweets not necessarily endorsements.",
+				"url": "http://t.co/x7r0tXy2RI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/x7r0tXy2RI",
+								"expanded_url": "http://richardpoynder.co.uk",
+								"display_url": "richardpoynder.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4148,
+				"friends_count": 227,
+				"listed_count": 332,
+				"created_at": "Sat Feb 07 07:45:21 +0000 2009",
+				"favourites_count": 399,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26864,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2B2816",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623427584357990400/y6tPkR-K.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623427584357990400/y6tPkR-K.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3717767146/403a01e00544bcb47a5e179a068ab4ef_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3717767146/403a01e00544bcb47a5e179a068ab4ef_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20298671/1384495008",
+				"profile_link_color": "2B2816",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "24210E",
+				"profile_text_color": "89B5A2",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 10 19:10:25 +0000 2017",
 		"id": 884490007146352600,
 		"id_str": "884490007146352641",
