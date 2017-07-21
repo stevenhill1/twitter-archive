@@ -1,6 +1,1031 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 20 17:21:01 +0000 2017",
+		"id": 888086354822926300,
+		"id_str": "888086354822926336",
+		"text": "RT @firthcat: You can now watch yesterday's #ref2021 webinar on the @hefce site: https://t.co/khSDInD5RM. Comments/Qs to researchpolicy@hef…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ref2021",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "firthcat",
+					"name": "Catriona Firth",
+					"id": 1421360563,
+					"id_str": "1421360563",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "HEFCE",
+					"name": "HEFCE",
+					"id": 20054581,
+					"id_str": "20054581",
+					"indices": [
+						68,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/khSDInD5RM",
+					"expanded_url": "http://www.hefce.ac.uk/rsrch/ref2021/events/",
+					"display_url": "hefce.ac.uk/rsrch/ref2021/…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3665,
+			"friends_count": 934,
+			"listed_count": 185,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 21,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 20 16:43:21 +0000 2017",
+			"id": 888076873657442300,
+			"id_str": "888076873657442305",
+			"text": "You can now watch yesterday's #ref2021 webinar on the @hefce site: https://t.co/khSDInD5RM. Comments/Qs to researchpolicy@hefce.ac.uk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ref2021",
+						"indices": [
+							30,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HEFCE",
+						"name": "HEFCE",
+						"id": 20054581,
+						"id_str": "20054581",
+						"indices": [
+							54,
+							60
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/khSDInD5RM",
+						"expanded_url": "http://www.hefce.ac.uk/rsrch/ref2021/events/",
+						"display_url": "hefce.ac.uk/rsrch/ref2021/…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1421360563,
+				"id_str": "1421360563",
+				"name": "Catriona Firth",
+				"screen_name": "firthcat",
+				"location": "Bristol, England",
+				"description": "Policy geek @hefce. Currently working on #REF2021.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43,
+				"friends_count": 350,
+				"listed_count": 2,
+				"created_at": "Sat May 11 18:51:16 +0000 2013",
+				"favourites_count": 29,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859823673968123904/APN2vdKC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859823673968123904/APN2vdKC_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 20 17:19:33 +0000 2017",
+		"id": 888085984079949800,
+		"id_str": "888085984079949825",
+		"text": "The Swedes prove once and for all that they are cooler than us (via @ersatzben) https://t.co/bgtpoSmpEs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ersatzben",
+					"name": "Ben Johnson",
+					"id": 1840757556,
+					"id_str": "1840757556",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bgtpoSmpEs",
+					"expanded_url": "https://twitter.com/ReutersUK/status/888052764521246720",
+					"display_url": "twitter.com/ReutersUK/stat…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3665,
+			"friends_count": 934,
+			"listed_count": 185,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 21,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 888052764521246700,
+		"quoted_status_id_str": "888052764521246720",
+		"quoted_status": {
+			"created_at": "Thu Jul 20 15:07:32 +0000 2017",
+			"id": 888052764521246700,
+			"id_str": "888052764521246720",
+			"text": "Swedish train to be named Trainy McTrainface in tribute to Boaty: https://t.co/yn4KUqwpqO https://t.co/gkjdD7qhjK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yn4KUqwpqO",
+						"expanded_url": "http://reut.rs/2ucV27C",
+						"display_url": "reut.rs/2ucV27C",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 888052762344390700,
+						"id_str": "888052762344390656",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DFL_SEFXgAABpdj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFL_SEFXgAABpdj.jpg",
+						"url": "https://t.co/gkjdD7qhjK",
+						"display_url": "pic.twitter.com/gkjdD7qhjK",
+						"expanded_url": "https://twitter.com/ReutersUK/status/888052764521246720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 888052762344390700,
+						"id_str": "888052762344390656",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DFL_SEFXgAABpdj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFL_SEFXgAABpdj.jpg",
+						"url": "https://t.co/gkjdD7qhjK",
+						"display_url": "pic.twitter.com/gkjdD7qhjK",
+						"expanded_url": "https://twitter.com/ReutersUK/status/888052764521246720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 533,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17038090,
+				"id_str": "17038090",
+				"name": "Reuters UK",
+				"screen_name": "ReutersUK",
+				"location": "London, United Kingdom",
+				"description": "Reuters UK editors. From pigeons to multimedia, Reuters has been delivering the news since 1851.",
+				"url": "http://t.co/TCkfRZtyJD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TCkfRZtyJD",
+								"expanded_url": "http://uk.reuters.com/",
+								"display_url": "uk.reuters.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88916,
+				"friends_count": 483,
+				"listed_count": 3039,
+				"created_at": "Wed Oct 29 08:43:00 +0000 2008",
+				"favourites_count": 8,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 75907,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "444444",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/109919431/NEW_background.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/109919431/NEW_background.JPG",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877448884787838976/VzLMhDg3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877448884787838976/VzLMhDg3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17038090/1490950780",
+				"profile_link_color": "006F97",
+				"profile_sidebar_border_color": "F5F5F5",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 20 12:37:30 +0000 2017",
+		"id": 888015005978939400,
+		"id_str": "888015005978939396",
+		"text": "RT @rmounce: Short articles ↓ Long articles ↑ https://t.co/KKMTqqlhdB … one of many cool results in this new 15-million article #TDM prepri…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TDM",
+					"indices": [
+						128,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rmounce",
+					"name": "R⓪ss Mounce",
+					"id": 222765418,
+					"id_str": "222765418",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KKMTqqlhdB",
+					"expanded_url": "http://www.biorxiv.org/content/early/2017/07/11/162099",
+					"display_url": "biorxiv.org/content/early/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3665,
+			"friends_count": 934,
+			"listed_count": 185,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 21,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 20 09:45:57 +0000 2017",
+			"id": 887971834473435100,
+			"id_str": "887971834473435136",
+			"text": "Short articles ↓ Long articles ↑ https://t.co/KKMTqqlhdB … one of many cool results in this new 15-million article… https://t.co/h6ylJ1PnuM",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KKMTqqlhdB",
+						"expanded_url": "http://www.biorxiv.org/content/early/2017/07/11/162099",
+						"display_url": "biorxiv.org/content/early/…",
+						"indices": [
+							33,
+							56
+						]
+					},
+					{
+						"url": "https://t.co/h6ylJ1PnuM",
+						"expanded_url": "https://twitter.com/i/web/status/887971834473435136",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 222765418,
+				"id_str": "222765418",
+				"name": "R⓪ss Mounce",
+				"screen_name": "rmounce",
+				"location": "Cambridge, England",
+				"description": "Open Access Grants Manager @ArcadiaFund",
+				"url": "https://t.co/IAC7RottIu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IAC7RottIu",
+								"expanded_url": "http://rossmounce.co.uk/",
+								"display_url": "rossmounce.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4136,
+				"friends_count": 3013,
+				"listed_count": 287,
+				"created_at": "Sat Dec 04 11:26:43 +0000 2010",
+				"favourites_count": 6670,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24077,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/668402841262927872/2vZUj52I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/668402841262927872/2vZUj52I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/222765418/1429133070",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 20 12:26:16 +0000 2017",
+		"id": 888012178351063000,
+		"id_str": "888012178351063040",
+		"text": "RT @hamish_mcalpine: Additional details of @HEFCE HEIF uplift in support of #IndustrialStrategy - https://t.co/OXf1qZSxkQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndustrialStrategy",
+					"indices": [
+						76,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hamish_mcalpine",
+					"name": "Hamish McAlpine",
+					"id": 274454952,
+					"id_str": "274454952",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "HEFCE",
+					"name": "HEFCE",
+					"id": 20054581,
+					"id_str": "20054581",
+					"indices": [
+						43,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OXf1qZSxkQ",
+					"expanded_url": "http://www.hefce.ac.uk/pubs/year/2017/CL,252017/",
+					"display_url": "hefce.ac.uk/pubs/year/2017…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3665,
+			"friends_count": 934,
+			"listed_count": 185,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 21,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5169,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 20 09:03:44 +0000 2017",
+			"id": 887961211018645500,
+			"id_str": "887961211018645507",
+			"text": "Additional details of @HEFCE HEIF uplift in support of #IndustrialStrategy - https://t.co/OXf1qZSxkQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IndustrialStrategy",
+						"indices": [
+							55,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HEFCE",
+						"name": "HEFCE",
+						"id": 20054581,
+						"id_str": "20054581",
+						"indices": [
+							22,
+							28
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OXf1qZSxkQ",
+						"expanded_url": "http://www.hefce.ac.uk/pubs/year/2017/CL,252017/",
+						"display_url": "hefce.ac.uk/pubs/year/2017…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 274454952,
+				"id_str": "274454952",
+				"name": "Hamish McAlpine",
+				"screen_name": "hamish_mcalpine",
+				"location": "Bristol, UK",
+				"description": "Innovation and Knowledge Exchange in Higher Education. With a bit of cycling too. Senior Policy Adviser @HEFCE, but all tweets mine.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 267,
+				"friends_count": 287,
+				"listed_count": 7,
+				"created_at": "Wed Mar 30 10:03:25 +0000 2011",
+				"favourites_count": 662,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 960,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860433514742915072/V5UPU-FP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860433514742915072/V5UPU-FP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/274454952/1497260561",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "25d3e991f5637f5a",
+				"url": "https://api.twitter.com/1.1/geo/id/25d3e991f5637f5a.json",
+				"place_type": "admin",
+				"name": "South West",
+				"full_name": "South West, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-6.36850399906372,
+								49.8824720005481
+							],
+							[
+								-1.48573420014269,
+								49.8824720005481
+							],
+							[
+								-1.48573420014269,
+								52.1125420344225
+							],
+							[
+								-6.36850399906372,
+								52.1125420344225
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 19 17:55:40 +0000 2017",
 		"id": 887732688207196200,
 		"id_str": "887732688207196163",
