@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 16 18:27:36 +0000 2017",
+		"id": 897887583195287600,
+		"id_str": "897887583195287563",
+		"text": "RT @openforumevents: Our #REFOFE speakers include @firthcat of @HEFCE, @jameswilsdon of @sheffielduni &amp; @SimonRKerridge of @UniKent https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REFOFE",
+					"indices": [
+						25,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "openforumevents",
+					"name": "Open Forum Events",
+					"id": 1907083033,
+					"id_str": "1907083033",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "firthcat",
+					"name": "Catriona Firth",
+					"id": 1421360563,
+					"id_str": "1421360563",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"screen_name": "HEFCE",
+					"name": "HEFCE",
+					"id": 20054581,
+					"id_str": "20054581",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"screen_name": "jameswilsdon",
+					"name": "James Wilsdon",
+					"id": 276224538,
+					"id_str": "276224538",
+					"indices": [
+						71,
+						84
+					]
+				},
+				{
+					"screen_name": "sheffielduni",
+					"name": "Sheffield University",
+					"id": 19341622,
+					"id_str": "19341622",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"screen_name": "SimonRKerridge",
+					"name": "Simon Kerridge",
+					"id": 379704500,
+					"id_str": "379704500",
+					"indices": [
+						108,
+						123
+					]
+				},
+				{
+					"screen_name": "UniKent",
+					"name": "University of Kent",
+					"id": 27654368,
+					"id_str": "27654368",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3696,
+			"friends_count": 938,
+			"listed_count": 185,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 28,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5221,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 16 11:05:12 +0000 2017",
+			"id": 897776250781085700,
+			"id_str": "897776250781085696",
+			"text": "Our #REFOFE speakers include @firthcat of @HEFCE, @jameswilsdon of @sheffielduni &amp; @SimonRKerridge of @UniKent… https://t.co/sGMdFTNfJE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "REFOFE",
+						"indices": [
+							4,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "firthcat",
+						"name": "Catriona Firth",
+						"id": 1421360563,
+						"id_str": "1421360563",
+						"indices": [
+							29,
+							38
+						]
+					},
+					{
+						"screen_name": "HEFCE",
+						"name": "HEFCE",
+						"id": 20054581,
+						"id_str": "20054581",
+						"indices": [
+							42,
+							48
+						]
+					},
+					{
+						"screen_name": "jameswilsdon",
+						"name": "James Wilsdon",
+						"id": 276224538,
+						"id_str": "276224538",
+						"indices": [
+							50,
+							63
+						]
+					},
+					{
+						"screen_name": "sheffielduni",
+						"name": "Sheffield University",
+						"id": 19341622,
+						"id_str": "19341622",
+						"indices": [
+							67,
+							80
+						]
+					},
+					{
+						"screen_name": "SimonRKerridge",
+						"name": "Simon Kerridge",
+						"id": 379704500,
+						"id_str": "379704500",
+						"indices": [
+							87,
+							102
+						]
+					},
+					{
+						"screen_name": "UniKent",
+						"name": "University of Kent",
+						"id": 27654368,
+						"id_str": "27654368",
+						"indices": [
+							106,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sGMdFTNfJE",
+						"expanded_url": "https://twitter.com/i/web/status/897776250781085696",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1907083033,
+				"id_str": "1907083033",
+				"name": "Open Forum Events",
+				"screen_name": "openforumevents",
+				"location": "Manchester, UK",
+				"description": "Open Forum Events is a leading producer of first-class conferences which tackle the key issues facing the public, private and voluntary sectors.",
+				"url": "https://t.co/jhos88pDpO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jhos88pDpO",
+								"expanded_url": "http://www.openforumevents.co.uk",
+								"display_url": "openforumevents.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2915,
+				"friends_count": 2193,
+				"listed_count": 56,
+				"created_at": "Thu Sep 26 07:42:20 +0000 2013",
+				"favourites_count": 1473,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7017,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "24241E",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000153508125/ryROfN5H.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000153508125/ryROfN5H.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872807759112228865/YetaB-VB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872807759112228865/YetaB-VB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1907083033/1494253521",
+				"profile_link_color": "414140",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Aug 16 11:30:19 +0000 2017",
+		"id": 897782570175299600,
+		"id_str": "897782570175299585",
+		"text": "@AWHarzing @opencitations Indeed. But a potential game changer given its governance and commitment to #opendata",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "opendata",
+					"indices": [
+						102,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AWHarzing",
+					"name": "Anne-Wil Harzing",
+					"id": 4105400200,
+					"id_str": "4105400200",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "opencitations",
+					"name": "OpenCitations",
+					"id": 4631863647,
+					"id_str": "4631863647",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 897767419531464700,
+		"in_reply_to_status_id_str": "897767419531464704",
+		"in_reply_to_user_id": 4105400200,
+		"in_reply_to_user_id_str": "4105400200",
+		"in_reply_to_screen_name": "AWHarzing",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3696,
+			"friends_count": 938,
+			"listed_count": 185,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 28,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5221,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 15 18:47:33 +0000 2017",
 		"id": 897530217484492800,
 		"id_str": "897530217484492801",
