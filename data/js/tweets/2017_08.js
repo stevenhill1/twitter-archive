@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 20 06:25:40 +0000 2017",
+		"id": 899155455179710500,
+		"id_str": "899155455179710464",
+		"text": "RT @DavidPriceUCL: Open Access makes censorship very difficult to enforce as copies can be stored on many repositories... https://t.co/kMPS…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidPriceUCL",
+					"name": "David Price",
+					"id": 1478149944,
+					"id_str": "1478149944",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3699,
+			"friends_count": 938,
+			"listed_count": 185,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 29,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5223,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 19 19:41:11 +0000 2017",
+			"id": 898993264971452400,
+			"id_str": "898993264971452416",
+			"text": "Open Access makes censorship very difficult to enforce as copies can be stored on many repositories... https://t.co/kMPSzkY91q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kMPSzkY91q",
+						"expanded_url": "https://twitter.com/timeshighered/status/898990470973407232",
+						"display_url": "twitter.com/timeshighered/…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1478149944,
+				"id_str": "1478149944",
+				"name": "David Price",
+				"screen_name": "DavidPriceUCL",
+				"location": "UCL",
+				"description": "Professor of Mineral Physics and Vice-Provost (Research), UCL. Views all my own!",
+				"url": "https://t.co/g4Z0zW5eiN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g4Z0zW5eiN",
+								"expanded_url": "http://www.ucl.ac.uk/research/vpr",
+								"display_url": "ucl.ac.uk/research/vpr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2746,
+				"friends_count": 503,
+				"listed_count": 227,
+				"created_at": "Sun Jun 02 20:44:43 +0000 2013",
+				"favourites_count": 7813,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37476,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DDE6EB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/716696047272259589/9GtOBhz3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/716696047272259589/9GtOBhz3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1478149944/1372516227",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "28d5aa35dde9abcb",
+				"url": "https://api.twitter.com/1.1/geo/id/28d5aa35dde9abcb.json",
+				"place_type": "city",
+				"name": "Stamford",
+				"full_name": "Stamford, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.517417,
+								52.645595
+							],
+							[
+								-0.456844,
+								52.645595
+							],
+							[
+								-0.456844,
+								52.66544
+							],
+							[
+								-0.517417,
+								52.66544
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 898990470973407200,
+			"quoted_status_id_str": "898990470973407232",
+			"quoted_status": {
+				"created_at": "Sat Aug 19 19:30:05 +0000 2017",
+				"id": 898990470973407200,
+				"id_str": "898990470973407232",
+				"text": "Cambridge University Press and China: how should journals deal with censorship?\n@HollyElse writes… https://t.co/heVRHtwnUY",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "HollyElse",
+							"name": "Holly Else",
+							"id": 138850714,
+							"id_str": "138850714",
+							"indices": [
+								80,
+								90
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/heVRHtwnUY",
+							"expanded_url": "https://twitter.com/i/web/status/898990470973407232",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://percolate.com\" rel=\"nofollow\">Percolate</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 23602600,
+					"id_str": "23602600",
+					"name": "TimesHigherEducation",
+					"screen_name": "timeshighered",
+					"location": "Global",
+					"description": "Global higher education news, comment and in-depth features. Publisher of the Times Higher Education World University Rankings (@THEworldunirank).",
+					"url": "http://t.co/SHlBxmu5aC",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/SHlBxmu5aC",
+									"expanded_url": "http://www.timeshighereducation.com",
+									"display_url": "timeshighereducation.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 246170,
+					"friends_count": 3323,
+					"listed_count": 5567,
+					"created_at": "Tue Mar 10 15:08:03 +0000 2009",
+					"favourites_count": 4022,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 66931,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453099437443653633/5NUZy3yC.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453099437443653633/5NUZy3yC.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/603886320860168193/kwgv0xmm_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/603886320860168193/kwgv0xmm_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/23602600/1474550591",
+					"profile_link_color": "E02200",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F7F1D2",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 14,
+			"favorite_count": 14,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 898990470973407200,
+		"quoted_status_id_str": "898990470973407232",
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 19 11:24:23 +0000 2017",
 		"id": 898868241702858800,
 		"id_str": "898868241702858753",
