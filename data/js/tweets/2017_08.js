@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 21 09:48:45 +0000 2017",
+		"id": 899568950001926100,
+		"id_str": "899568950001926149",
+		"text": "RT @jameswilsdon: ‘Our biggest problem is not science denial; it’s post-normal science denial.‘ Dan Sarewitz https://t.co/7LexImWwOV #SIPSh…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jameswilsdon",
+					"name": "James Wilsdon",
+					"id": 276224538,
+					"id_str": "276224538",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7LexImWwOV",
+					"expanded_url": "https://www.theguardian.com/science/political-science/2017/aug/21/stop-treating-science-denial-like-a-disease",
+					"display_url": "theguardian.com/science/politi…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3697,
+			"friends_count": 938,
+			"listed_count": 185,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 29,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 21 07:02:53 +0000 2017",
+			"id": 899527208842252300,
+			"id_str": "899527208842252289",
+			"text": "‘Our biggest problem is not science denial; it’s post-normal science denial.‘ Dan Sarewitz https://t.co/7LexImWwOV #SIPSheff17",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SIPSheff17",
+						"indices": [
+							115,
+							126
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7LexImWwOV",
+						"expanded_url": "https://www.theguardian.com/science/political-science/2017/aug/21/stop-treating-science-denial-like-a-disease",
+						"display_url": "theguardian.com/science/politi…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 276224538,
+				"id_str": "276224538",
+				"name": "James Wilsdon",
+				"screen_name": "jameswilsdon",
+				"location": "University of Sheffield",
+				"description": "undisciplined social scientist @SheffSocScience @CfSocialScience @INGSciAdvice @ResearchCGHE @ResMetrics | blogger @GuardianScience & @Wonkhe",
+				"url": "https://t.co/jxRP8wB5Xo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jxRP8wB5Xo",
+								"expanded_url": "https://www.sheffield.ac.uk/politics/people/academic/james-wilsdon",
+								"display_url": "sheffield.ac.uk/politics/peopl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7719,
+				"friends_count": 1367,
+				"listed_count": 330,
+				"created_at": "Sat Apr 02 22:47:09 +0000 2011",
+				"favourites_count": 3600,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13519,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678677639/207c560d529b040d4fa2c811a41d3821.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678677639/207c560d529b040d4fa2c811a41d3821.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753070120763883524/Qi_lx4el_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753070120763883524/Qi_lx4el_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/276224538/1398260304",
+				"profile_link_color": "FF002B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 20 06:25:40 +0000 2017",
 		"id": 899155455179710500,
 		"id_str": "899155455179710464",
