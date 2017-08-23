@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Tue Aug 22 21:21:48 +0000 2017",
+		"id": 900105748893622300,
+		"id_str": "900105748893622272",
+		"text": "RT @HumanomicsMap: This is the conference on research impact you don't want to miss this year! https://t.co/8CAs2fNRhm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HumanomicsMap",
+					"name": "David Budtz Pedersen",
+					"id": 777814472,
+					"id_str": "777814472",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8CAs2fNRhm",
+					"expanded_url": "http://mapping-humanities.dk/news/impact-taxonomies/impact-taxonomies.html",
+					"display_url": "mapping-humanities.dk/news/impact-ta…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3699,
+			"friends_count": 938,
+			"listed_count": 185,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 29,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5225,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 22 07:26:10 +0000 2017",
+			"id": 899895456041500700,
+			"id_str": "899895456041500676",
+			"text": "This is the conference on research impact you don't want to miss this year! https://t.co/8CAs2fNRhm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8CAs2fNRhm",
+						"expanded_url": "http://mapping-humanities.dk/news/impact-taxonomies/impact-taxonomies.html",
+						"display_url": "mapping-humanities.dk/news/impact-ta…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 777814472,
+				"id_str": "777814472",
+				"name": "David Budtz Pedersen",
+				"screen_name": "HumanomicsMap",
+				"location": "",
+				"description": "Professor MSO of Science Studies | Head of Research | Velux Foundation's Humanomics Research Centre | Aalborg University. Tweets about #scipolicy #impact #SSH",
+				"url": "https://t.co/z7KGfQa5Ll",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z7KGfQa5Ll",
+								"expanded_url": "http://www.mapping-humanities.dk",
+								"display_url": "mapping-humanities.dk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1585,
+				"friends_count": 933,
+				"listed_count": 131,
+				"created_at": "Fri Aug 24 09:41:12 +0000 2012",
+				"favourites_count": 6691,
+				"utc_offset": 7200,
+				"time_zone": "Copenhagen",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5426,
+				"lang": "da",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880170396674347009/GnlEiM9u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880170396674347009/GnlEiM9u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/777814472/1484393098",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Aug 21 09:48:45 +0000 2017",
 		"id": 899568950001926100,
 		"id_str": "899568950001926149",
