@@ -1,6 +1,475 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Sat Sep 09 18:01:10 +0000 2017",
+		"id": 906578239262519300,
+		"id_str": "906578239262519299",
+		"text": "Good piece in @timeshighered on #openaccess monographs https://t.co/TMQupMZ9Sr (via @martin_eve)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openaccess",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timeshighered",
+					"name": "TimesHigherEducation",
+					"id": 23602600,
+					"id_str": "23602600",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "martin_eve",
+					"name": "Martin Paul Eve",
+					"id": 118747590,
+					"id_str": "118747590",
+					"indices": [
+						84,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TMQupMZ9Sr",
+					"expanded_url": "https://www.timeshighereducation.com/opinion/if-you-are-paid-write-you-dont-own-content",
+					"display_url": "timeshighereducation.com/opinion/if-you…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3741,
+			"friends_count": 941,
+			"listed_count": 184,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 36,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5317,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 09 08:40:19 +0000 2017",
+		"id": 906437096973508600,
+		"id_str": "906437096973508610",
+		"text": "A great appointment for OfS. Have enjoyed working with Chris over the last 4 years https://t.co/zdsfgxcLGl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zdsfgxcLGl",
+					"expanded_url": "https://twitter.com/educationgovuk/status/905833389600727040",
+					"display_url": "twitter.com/educationgovuk…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3741,
+			"friends_count": 941,
+			"listed_count": 184,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 36,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5317,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 905833389600727000,
+		"quoted_status_id_str": "905833389600727040",
+		"quoted_status": {
+			"created_at": "Thu Sep 07 16:41:24 +0000 2017",
+			"id": 905833389600727000,
+			"id_str": "905833389600727040",
+			"text": "Pleased to confirm Chris Millward as the first Director for Fair Access and Participation at the OFS #HigherEd… https://t.co/wHRj5qwMRc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HigherEd",
+						"indices": [
+							101,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wHRj5qwMRc",
+						"expanded_url": "https://twitter.com/i/web/status/905833389600727040",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 143039548,
+				"id_str": "143039548",
+				"name": "DfE",
+				"screen_name": "educationgovuk",
+				"location": "London, UK",
+				"description": "Official Twitter account for the Department for Education, covering education, children’s services, HE & FE, apprenticeships, skills in England and equalities.",
+				"url": "http://t.co/qvJzxR9LqM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/qvJzxR9LqM",
+								"expanded_url": "http://www.gov.uk/dfe",
+								"display_url": "gov.uk/dfe",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 249954,
+				"friends_count": 2466,
+				"listed_count": 2862,
+				"created_at": "Wed May 12 12:22:56 +0000 2010",
+				"favourites_count": 1248,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22079,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/753275659/4a277452cb42a885955a48c5c397aee8.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/753275659/4a277452cb42a885955a48c5c397aee8.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899972347368804352/IisqOE5z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899972347368804352/IisqOE5z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/143039548/1504014684",
+				"profile_link_color": "104E75",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 66,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Sep 09 08:30:50 +0000 2017",
+		"id": 906434712855629800,
+		"id_str": "906434712855629824",
+		"text": "Really recommend this presentation from @IsmaelRafols on #impact from research https://t.co/RnlxNfCstc (h/t @Nightingale_P)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "impact",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IsmaelRafols",
+					"name": "Ismael Ràfols",
+					"id": 4855275381,
+					"id_str": "4855275381",
+					"indices": [
+						40,
+						53
+					]
+				},
+				{
+					"screen_name": "Nightingale_P",
+					"name": "Paul Nightingale",
+					"id": 416191847,
+					"id_str": "416191847",
+					"indices": [
+						108,
+						122
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RnlxNfCstc",
+					"expanded_url": "https://figshare.com/s/e4821363353d0f4c58de",
+					"display_url": "figshare.com/s/e4821363353d…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3741,
+			"friends_count": 941,
+			"listed_count": 184,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 36,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5317,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 07 08:28:06 +0000 2017",
 		"id": 905709246595125200,
 		"id_str": "905709246595125248",
