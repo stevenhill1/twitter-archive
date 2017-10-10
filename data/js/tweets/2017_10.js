@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 09 16:42:52 +0000 2017",
+		"id": 917430171480789000,
+		"id_str": "917430171480788993",
+		"text": "@talbotlabexeter congratulations! https://t.co/KExZWoqmdI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "talbotlabexeter",
+					"name": "Nick Talbot",
+					"id": 146922125,
+					"id_str": "146922125",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KExZWoqmdI",
+					"expanded_url": "https://twitter.com/TheSainsburyLab/status/917329244677722112",
+					"display_url": "twitter.com/TheSainsburyLa…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 146922125,
+		"in_reply_to_user_id_str": "146922125",
+		"in_reply_to_screen_name": "talbotlabexeter",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3780,
+			"friends_count": 945,
+			"listed_count": 185,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 38,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 917329244677722100,
+		"quoted_status_id_str": "917329244677722112",
+		"quoted_status": {
+			"created_at": "Mon Oct 09 10:01:49 +0000 2017",
+			"id": 917329244677722100,
+			"id_str": "917329244677722112",
+			"text": "NEWS - A new vision and Executive Director for The Sainsbury Laboratory - https://t.co/8iNhcNUeZV https://t.co/ZgDcy2Dx9q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8iNhcNUeZV",
+						"expanded_url": "http://www.tsl.ac.uk/news/new-vision-executive-director-sainsbury-laboratory/",
+						"display_url": "tsl.ac.uk/news/new-visio…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 917329189568643100,
+						"id_str": "917329189568643072",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DLsCCaZWAAAU-Gq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLsCCaZWAAAU-Gq.jpg",
+						"url": "https://t.co/ZgDcy2Dx9q",
+						"display_url": "pic.twitter.com/ZgDcy2Dx9q",
+						"expanded_url": "https://twitter.com/TheSainsburyLab/status/917329244677722112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1363,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 917329189568643100,
+						"id_str": "917329189568643072",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DLsCCaZWAAAU-Gq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLsCCaZWAAAU-Gq.jpg",
+						"url": "https://t.co/ZgDcy2Dx9q",
+						"display_url": "pic.twitter.com/ZgDcy2Dx9q",
+						"expanded_url": "https://twitter.com/TheSainsburyLab/status/917329244677722112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 452,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1363,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49119570,
+				"id_str": "49119570",
+				"name": "The Sainsbury Lab",
+				"screen_name": "TheSainsburyLab",
+				"location": "Norwich, UK",
+				"description": "TSL is a world-leading laboratory working on molecular plant-microbe interactions.",
+				"url": "https://t.co/tKhfctIE8v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tKhfctIE8v",
+								"expanded_url": "http://www.tsl.ac.uk",
+								"display_url": "tsl.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6254,
+				"friends_count": 147,
+				"listed_count": 130,
+				"created_at": "Sat Jun 20 21:02:17 +0000 2009",
+				"favourites_count": 335,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1743,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0A65CC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/20065694/TSL_advert_head.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/20065694/TSL_advert_head.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899918283150897152/yWc6kYL9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899918283150897152/yWc6kYL9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49119570/1503392054",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 119,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 05 09:07:29 +0000 2017",
 		"id": 915866019582894100,
 		"id_str": "915866019582894080",
