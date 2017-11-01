@@ -1,6 +1,1047 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Tue Oct 31 19:29:45 +0000 2017",
+		"id": 925444700278022100,
+		"id_str": "925444700278022144",
+		"text": "Interesting reflection on the language of #impact from @DrChrisWatkin Might reframing as ‘helping people’ help? https://t.co/jFGGVKo1uG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "impact",
+					"indices": [
+						42,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrChrisWatkin",
+					"name": "Christopher Watkin",
+					"id": 2463691951,
+					"id_str": "2463691951",
+					"indices": [
+						55,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jFGGVKo1uG",
+					"expanded_url": "https://christopherwatkin.com/2017/10/17/research-hacks-24-think-think-academic-impact/",
+					"display_url": "christopherwatkin.com/2017/10/17/res…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3802,
+			"friends_count": 946,
+			"listed_count": 181,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 38,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 31 16:35:36 +0000 2017",
+		"id": 925400874150658000,
+		"id_str": "925400874150658049",
+		"text": "Fantastic group of people for the @ResEngland council. Looking forward to working with them https://t.co/XJRutg0GaY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						34,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XJRutg0GaY",
+					"expanded_url": "https://twitter.com/UKRI_News/status/925357156412641280",
+					"display_url": "twitter.com/UKRI_News/stat…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3802,
+			"friends_count": 946,
+			"listed_count": 181,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 38,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 925357156412641300,
+		"quoted_status_id_str": "925357156412641280",
+		"quoted_status": {
+			"created_at": "Tue Oct 31 13:41:53 +0000 2017",
+			"id": 925357156412641300,
+			"id_str": "925357156412641280",
+			"text": "Members of newly formed @ResEngland Council announced today: https://t.co/VceL3Fdy9c https://t.co/3wmyBqrHWr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ResEngland",
+						"name": "Research England",
+						"id": 823853384138637300,
+						"id_str": "823853384138637313",
+						"indices": [
+							24,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VceL3Fdy9c",
+						"expanded_url": "http://socsi.in/0pF5l",
+						"display_url": "socsi.in/0pF5l",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 925357154185498600,
+						"id_str": "925357154185498624",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DNeHbdGX0AAe07y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNeHbdGX0AAe07y.jpg",
+						"url": "https://t.co/3wmyBqrHWr",
+						"display_url": "pic.twitter.com/3wmyBqrHWr",
+						"expanded_url": "https://twitter.com/UKRI_News/status/925357156412641280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 174,
+								"h": 70,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 70,
+								"h": 70,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 174,
+								"h": 70,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 174,
+								"h": 70,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 925357154185498600,
+						"id_str": "925357154185498624",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DNeHbdGX0AAe07y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNeHbdGX0AAe07y.jpg",
+						"url": "https://t.co/3wmyBqrHWr",
+						"display_url": "pic.twitter.com/3wmyBqrHWr",
+						"expanded_url": "https://twitter.com/UKRI_News/status/925357156412641280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 174,
+								"h": 70,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 70,
+								"h": 70,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 174,
+								"h": 70,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 174,
+								"h": 70,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialsignin.co.uk\" rel=\"nofollow\">SocialSignIn Application</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 732141019114930200,
+				"id_str": "732141019114930176",
+				"name": "UKRI",
+				"screen_name": "UKRI_News",
+				"location": "United Kingdom",
+				"description": "UK Research and Innovation intends to be an outstanding organisation that ensures the UK maintains its world leading position in research and innovation.",
+				"url": "https://t.co/gIusFh73sl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gIusFh73sl",
+								"expanded_url": "http://www.ukri.org",
+								"display_url": "ukri.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3184,
+				"friends_count": 307,
+				"listed_count": 50,
+				"created_at": "Mon May 16 09:29:56 +0000 2016",
+				"favourites_count": 9,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 248,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876765793618448384/urMvqAzD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876765793618448384/urMvqAzD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/732141019114930176/1500627512",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 31 16:34:39 +0000 2017",
+		"id": 925400634773463000,
+		"id_str": "925400634773463041",
+		"text": "RT @UKRI_News: Members of newly formed @ResEngland Council announced today: https://t.co/VceL3Fdy9c https://t.co/3wmyBqrHWr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UKRI_News",
+					"name": "UKRI",
+					"id": 732141019114930200,
+					"id_str": "732141019114930176",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						39,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VceL3Fdy9c",
+					"expanded_url": "http://socsi.in/0pF5l",
+					"display_url": "socsi.in/0pF5l",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 925357154185498600,
+					"id_str": "925357154185498624",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DNeHbdGX0AAe07y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNeHbdGX0AAe07y.jpg",
+					"url": "https://t.co/3wmyBqrHWr",
+					"display_url": "pic.twitter.com/3wmyBqrHWr",
+					"expanded_url": "https://twitter.com/UKRI_News/status/925357156412641280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 174,
+							"h": 70,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 70,
+							"h": 70,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 174,
+							"h": 70,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 174,
+							"h": 70,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 925357156412641300,
+					"source_status_id_str": "925357156412641280",
+					"source_user_id": 732141019114930200,
+					"source_user_id_str": "732141019114930176"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 925357154185498600,
+					"id_str": "925357154185498624",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DNeHbdGX0AAe07y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNeHbdGX0AAe07y.jpg",
+					"url": "https://t.co/3wmyBqrHWr",
+					"display_url": "pic.twitter.com/3wmyBqrHWr",
+					"expanded_url": "https://twitter.com/UKRI_News/status/925357156412641280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 174,
+							"h": 70,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 70,
+							"h": 70,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 174,
+							"h": 70,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 174,
+							"h": 70,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 925357156412641300,
+					"source_status_id_str": "925357156412641280",
+					"source_user_id": 732141019114930200,
+					"source_user_id_str": "732141019114930176"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3802,
+			"friends_count": 946,
+			"listed_count": 181,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 38,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 31 13:41:53 +0000 2017",
+			"id": 925357156412641300,
+			"id_str": "925357156412641280",
+			"text": "Members of newly formed @ResEngland Council announced today: https://t.co/VceL3Fdy9c https://t.co/3wmyBqrHWr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ResEngland",
+						"name": "Research England",
+						"id": 823853384138637300,
+						"id_str": "823853384138637313",
+						"indices": [
+							24,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VceL3Fdy9c",
+						"expanded_url": "http://socsi.in/0pF5l",
+						"display_url": "socsi.in/0pF5l",
+						"indices": [
+							61,
+							84
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 925357154185498600,
+						"id_str": "925357154185498624",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DNeHbdGX0AAe07y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNeHbdGX0AAe07y.jpg",
+						"url": "https://t.co/3wmyBqrHWr",
+						"display_url": "pic.twitter.com/3wmyBqrHWr",
+						"expanded_url": "https://twitter.com/UKRI_News/status/925357156412641280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 174,
+								"h": 70,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 70,
+								"h": 70,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 174,
+								"h": 70,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 174,
+								"h": 70,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 925357154185498600,
+						"id_str": "925357154185498624",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DNeHbdGX0AAe07y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DNeHbdGX0AAe07y.jpg",
+						"url": "https://t.co/3wmyBqrHWr",
+						"display_url": "pic.twitter.com/3wmyBqrHWr",
+						"expanded_url": "https://twitter.com/UKRI_News/status/925357156412641280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 174,
+								"h": 70,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 70,
+								"h": 70,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 174,
+								"h": 70,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 174,
+								"h": 70,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialsignin.co.uk\" rel=\"nofollow\">SocialSignIn Application</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 732141019114930200,
+				"id_str": "732141019114930176",
+				"name": "UKRI",
+				"screen_name": "UKRI_News",
+				"location": "United Kingdom",
+				"description": "UK Research and Innovation intends to be an outstanding organisation that ensures the UK maintains its world leading position in research and innovation.",
+				"url": "https://t.co/gIusFh73sl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gIusFh73sl",
+								"expanded_url": "http://www.ukri.org",
+								"display_url": "ukri.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3184,
+				"friends_count": 307,
+				"listed_count": 50,
+				"created_at": "Mon May 16 09:29:56 +0000 2016",
+				"favourites_count": 9,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 248,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876765793618448384/urMvqAzD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876765793618448384/urMvqAzD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/732141019114930176/1500627512",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Oct 31 15:22:19 +0000 2017",
+		"id": 925382433796771800,
+		"id_str": "925382433796771840",
+		"text": "Very good piece on scholarly comms and copyright #openaccess https://t.co/avivKVT2Sl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openaccess",
+					"indices": [
+						49,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/avivKVT2Sl",
+					"expanded_url": "https://twitter.com/LizzieGadd/status/925297819983974400",
+					"display_url": "twitter.com/LizzieGadd/sta…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3802,
+			"friends_count": 946,
+			"listed_count": 181,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 38,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5373,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 925297819983974400,
+		"quoted_status_id_str": "925297819983974400",
+		"quoted_status": {
+			"created_at": "Tue Oct 31 09:46:06 +0000 2017",
+			"id": 925297819983974400,
+			"id_str": "925297819983974400",
+			"text": "Check out my first ever @scholarlykitchn post: Academics and Copyright Ownership: Ignorant, Confused or Misled? https://t.co/2WzNdtaTyw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "scholarlykitchn",
+						"name": "Scholarly Kitchen",
+						"id": 119401334,
+						"id_str": "119401334",
+						"indices": [
+							24,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2WzNdtaTyw",
+						"expanded_url": "https://scholarlykitchen.sspnet.org/2017/10/31/guest-post-academics-copyright-ownership-ignorant-confused-misled/",
+						"display_url": "scholarlykitchen.sspnet.org/2017/10/31/gue…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47917199,
+				"id_str": "47917199",
+				"name": "Elizabeth Gadd",
+				"screen_name": "LizzieGadd",
+				"location": "Loughborough",
+				"description": "Research Policy Manager (Publications); Newly minted PhD in copyright & scholarly comms; Metrics Wonk; Librarian at heart.",
+				"url": "https://t.co/zN3DpZW9Q8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zN3DpZW9Q8",
+								"expanded_url": "http://about.me/elizabeth.gadd",
+								"display_url": "about.me/elizabeth.gadd",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 475,
+				"friends_count": 394,
+				"listed_count": 13,
+				"created_at": "Wed Jun 17 10:19:27 +0000 2009",
+				"favourites_count": 1901,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1732,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669281671854891008/_ew1t2gk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669281671854891008/_ew1t2gk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47917199/1449079971",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 29 16:23:38 +0000 2017",
 		"id": 924673086582083600,
 		"id_str": "924673086582083584",
