@@ -1,6 +1,1028 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Fri Nov 24 20:08:36 +0000 2017",
+		"id": 934151789498327000,
+		"id_str": "934151789498327040",
+		"text": "RT @ResEngland: BLOG: Equality and diversity in the REF panel nominations process https://t.co/vmwahOCUif https://t.co/3SQMAlCui9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vmwahOCUif",
+					"expanded_url": "http://blog.hefce.ac.uk/2017/11/24/equality-and-diversity-ref-panels/",
+					"display_url": "blog.hefce.ac.uk/2017/11/24/equ…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 934085409369460700,
+					"id_str": "934085409369460741",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DPaJuxdXkAU_P68.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPaJuxdXkAU_P68.jpg",
+					"url": "https://t.co/3SQMAlCui9",
+					"display_url": "pic.twitter.com/3SQMAlCui9",
+					"expanded_url": "https://twitter.com/ResEngland/status/934085535165026304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 650,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934085535165026300,
+					"source_status_id_str": "934085535165026304",
+					"source_user_id": 823853384138637300,
+					"source_user_id_str": "823853384138637313"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 934085409369460700,
+					"id_str": "934085409369460741",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DPaJuxdXkAU_P68.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPaJuxdXkAU_P68.jpg",
+					"url": "https://t.co/3SQMAlCui9",
+					"display_url": "pic.twitter.com/3SQMAlCui9",
+					"expanded_url": "https://twitter.com/ResEngland/status/934085535165026304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 650,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 650,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934085535165026300,
+					"source_status_id_str": "934085535165026304",
+					"source_user_id": 823853384138637300,
+					"source_user_id_str": "823853384138637313"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3843,
+			"friends_count": 950,
+			"listed_count": 186,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 38,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5416,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 24 15:45:20 +0000 2017",
+			"id": 934085535165026300,
+			"id_str": "934085535165026304",
+			"text": "BLOG: Equality and diversity in the REF panel nominations process https://t.co/vmwahOCUif https://t.co/3SQMAlCui9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vmwahOCUif",
+						"expanded_url": "http://blog.hefce.ac.uk/2017/11/24/equality-and-diversity-ref-panels/",
+						"display_url": "blog.hefce.ac.uk/2017/11/24/equ…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 934085409369460700,
+						"id_str": "934085409369460741",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DPaJuxdXkAU_P68.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPaJuxdXkAU_P68.jpg",
+						"url": "https://t.co/3SQMAlCui9",
+						"display_url": "pic.twitter.com/3SQMAlCui9",
+						"expanded_url": "https://twitter.com/ResEngland/status/934085535165026304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 650,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 650,
+								"h": 300,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 650,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 934085409369460700,
+						"id_str": "934085409369460741",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DPaJuxdXkAU_P68.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPaJuxdXkAU_P68.jpg",
+						"url": "https://t.co/3SQMAlCui9",
+						"display_url": "pic.twitter.com/3SQMAlCui9",
+						"expanded_url": "https://twitter.com/ResEngland/status/934085535165026304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 650,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 650,
+								"h": 300,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 650,
+								"h": 300,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 823853384138637300,
+				"id_str": "823853384138637313",
+				"name": "Research England",
+				"screen_name": "ResEngland",
+				"location": "Bristol",
+				"description": "Research England will create and sustain the conditions for a healthy and dynamic research and knowledge exchange system in English universities.",
+				"url": "https://t.co/2KwRNUbt2L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2KwRNUbt2L",
+								"expanded_url": "https://re.ukri.org",
+								"display_url": "re.ukri.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1145,
+				"friends_count": 101,
+				"listed_count": 10,
+				"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+				"favourites_count": 56,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 47,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894583603664998401/fUIjfeRc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894583603664998401/fUIjfeRc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1502120294",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 24 20:05:08 +0000 2017",
+		"id": 934150916130959400,
+		"id_str": "934150916130959360",
+		"text": "RT @f_renaville: .@DOABooks reaches milestone of 10,000 #openaccess books https://t.co/p6aNtq1hv5 #OA https://t.co/mhyZ3EzB8u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openaccess",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"text": "OA",
+					"indices": [
+						98,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "f_renaville",
+					"name": "François Renaville",
+					"id": 75240590,
+					"id_str": "75240590",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "DOABooks",
+					"name": "DOAB",
+					"id": 489170753,
+					"id_str": "489170753",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p6aNtq1hv5",
+					"expanded_url": "http://mailchi.mp/oapen.org/doab-milestone-10000-publications?e=582737eb9c",
+					"display_url": "mailchi.mp/oapen.org/doab…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 934031358648815600,
+					"id_str": "934031358648815617",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DPZYkm1WkAE6KMu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPZYkm1WkAE6KMu.jpg",
+					"url": "https://t.co/mhyZ3EzB8u",
+					"display_url": "pic.twitter.com/mhyZ3EzB8u",
+					"expanded_url": "https://twitter.com/f_renaville/status/934031978466349056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 902,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 902,
+							"h": 590,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934031978466349000,
+					"source_status_id_str": "934031978466349056",
+					"source_user_id": 75240590,
+					"source_user_id_str": "75240590"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 934031358648815600,
+					"id_str": "934031358648815617",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DPZYkm1WkAE6KMu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DPZYkm1WkAE6KMu.jpg",
+					"url": "https://t.co/mhyZ3EzB8u",
+					"display_url": "pic.twitter.com/mhyZ3EzB8u",
+					"expanded_url": "https://twitter.com/f_renaville/status/934031978466349056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 902,
+							"h": 590,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 902,
+							"h": 590,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 934031978466349000,
+					"source_status_id_str": "934031978466349056",
+					"source_user_id": 75240590,
+					"source_user_id_str": "75240590"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3843,
+			"friends_count": 950,
+			"listed_count": 186,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 38,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5416,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 24 12:12:31 +0000 2017",
+			"id": 934031978466349000,
+			"id_str": "934031978466349056",
+			"text": ".@DOABooks reaches milestone of 10,000 #openaccess books https://t.co/p6aNtq1hv5 #OA https://t.co/mhyZ3EzB8u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "openaccess",
+						"indices": [
+							39,
+							50
+						]
+					},
+					{
+						"text": "OA",
+						"indices": [
+							81,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DOABooks",
+						"name": "DOAB",
+						"id": 489170753,
+						"id_str": "489170753",
+						"indices": [
+							1,
+							10
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/p6aNtq1hv5",
+						"expanded_url": "http://mailchi.mp/oapen.org/doab-milestone-10000-publications?e=582737eb9c",
+						"display_url": "mailchi.mp/oapen.org/doab…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 934031358648815600,
+						"id_str": "934031358648815617",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DPZYkm1WkAE6KMu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPZYkm1WkAE6KMu.jpg",
+						"url": "https://t.co/mhyZ3EzB8u",
+						"display_url": "pic.twitter.com/mhyZ3EzB8u",
+						"expanded_url": "https://twitter.com/f_renaville/status/934031978466349056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 902,
+								"h": 590,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 445,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 902,
+								"h": 590,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 934031358648815600,
+						"id_str": "934031358648815617",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DPZYkm1WkAE6KMu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DPZYkm1WkAE6KMu.jpg",
+						"url": "https://t.co/mhyZ3EzB8u",
+						"display_url": "pic.twitter.com/mhyZ3EzB8u",
+						"expanded_url": "https://twitter.com/f_renaville/status/934031978466349056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 902,
+								"h": 590,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 445,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 902,
+								"h": 590,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 75240590,
+				"id_str": "75240590",
+				"name": "François Renaville",
+				"screen_name": "f_renaville",
+				"location": "Liège, Belgium",
+				"description": "#Alma & #Primo admin at @ULiegeLib #ULiège | @IGeLU Content WG coordinator | coffee & chocolate addict | #Finland lover",
+				"url": "https://t.co/FD0IGH8w3Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FD0IGH8w3Q",
+								"expanded_url": "http://discoverytoolsbibliography.wordpress.com/",
+								"display_url": "…coverytoolsbibliography.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1286,
+				"friends_count": 730,
+				"listed_count": 189,
+				"created_at": "Fri Sep 18 09:26:23 +0000 2009",
+				"favourites_count": 3052,
+				"utc_offset": 3600,
+				"time_zone": "Brussels",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9417,
+				"lang": "fr",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "48484F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/712997674/57553cede1ae58dcf307267d144066c3.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/712997674/57553cede1ae58dcf307267d144066c3.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/743458745762615296/GcPhMbGg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/743458745762615296/GcPhMbGg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/75240590/1499342837",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 24 19:33:33 +0000 2017",
+		"id": 934142967245426700,
+		"id_str": "934142967245426688",
+		"text": "RT @firthcat: Brilliant blog from @JulieEBayley busting some impact myths. Love the idea of an impact unicorn 🦄🦄🦄 https://t.co/OkYN8ziLVG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "firthcat",
+					"name": "Catriona Firth",
+					"id": 1421360563,
+					"id_str": "1421360563",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "JulieEBayley",
+					"name": "Julie Bayley",
+					"id": 1666048531,
+					"id_str": "1666048531",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OkYN8ziLVG",
+					"expanded_url": "http://www.nihr.ac.uk/blogs/chasing-the-impact-unicorn-myths-and-methods-in-demonstrating-research-benefit/7479",
+					"display_url": "nihr.ac.uk/blogs/chasing-…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3843,
+			"friends_count": 950,
+			"listed_count": 186,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 38,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5416,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 24 10:23:04 +0000 2017",
+			"id": 934004433284890600,
+			"id_str": "934004433284890624",
+			"text": "Brilliant blog from @JulieEBayley busting some impact myths. Love the idea of an impact unicorn 🦄🦄🦄 https://t.co/OkYN8ziLVG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JulieEBayley",
+						"name": "Julie Bayley",
+						"id": 1666048531,
+						"id_str": "1666048531",
+						"indices": [
+							20,
+							33
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/OkYN8ziLVG",
+						"expanded_url": "http://www.nihr.ac.uk/blogs/chasing-the-impact-unicorn-myths-and-methods-in-demonstrating-research-benefit/7479",
+						"display_url": "nihr.ac.uk/blogs/chasing-…",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1421360563,
+				"id_str": "1421360563",
+				"name": "Catriona Firth",
+				"screen_name": "firthcat",
+				"location": "Bristol, England",
+				"description": "Policy geek @hefce. Currently working on #REF2021. Lots of higher education stuff with occasional forays into cheese, jewellery & concrete. All views my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 213,
+				"friends_count": 415,
+				"listed_count": 6,
+				"created_at": "Sat May 11 18:51:16 +0000 2013",
+				"favourites_count": 159,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 212,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859823673968123904/APN2vdKC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859823673968123904/APN2vdKC_normal.jpg",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 23 18:07:04 +0000 2017",
 		"id": 933758814599381000,
 		"id_str": "933758814599380992",
