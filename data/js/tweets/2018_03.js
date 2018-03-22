@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 21 11:27:08 +0000 2018",
+		"id": 976419937806843900,
+		"id_str": "976419937806843904",
+		"text": "I posted a comment on the blog post below https://t.co/0hwCYDmO3z",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0hwCYDmO3z",
+					"expanded_url": "https://twitter.com/moqixu/status/974652701647818752",
+					"display_url": "twitter.com/moqixu/status/…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Head of Research Policy at the Higher Education Funding Council for England. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4004,
+			"friends_count": 961,
+			"listed_count": 186,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 50,
+			"utc_offset": 0,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5559,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 974652701647818800,
+		"quoted_status_id_str": "974652701647818752",
+		"quoted_status": {
+			"created_at": "Fri Mar 16 14:24:46 +0000 2018",
+			"id": 974652701647818800,
+			"id_str": "974652701647818752",
+			"text": "@stevenhill @timeshighered Thank you @stevenhill for your comments on our paper. We discuss some of them on the… https://t.co/nGGjINRLmj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stevenhill",
+						"name": "Steven Hill",
+						"id": 7731752,
+						"id_str": "7731752",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "timeshighered",
+						"name": "TimesHigherEducation",
+						"id": 23602600,
+						"id_str": "23602600",
+						"indices": [
+							12,
+							26
+						]
+					},
+					{
+						"screen_name": "stevenhill",
+						"name": "Steven Hill",
+						"id": 7731752,
+						"id_str": "7731752",
+						"indices": [
+							37,
+							48
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/nGGjINRLmj",
+						"expanded_url": "https://twitter.com/i/web/status/974652701647818752",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 950402814605447200,
+			"in_reply_to_status_id_str": "950402814605447168",
+			"in_reply_to_user_id": 7731752,
+			"in_reply_to_user_id_str": "7731752",
+			"in_reply_to_screen_name": "stevenhill",
+			"user": {
+				"id": 106691373,
+				"id_str": "106691373",
+				"name": "Moqi Xu",
+				"screen_name": "moqixu",
+				"location": "London, England",
+				"description": "Assistant Professor @LSE Finance interested in Corporate Finance, Corporate Governance, Investor Communication",
+				"url": "http://t.co/40uRfsWP6x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/40uRfsWP6x",
+								"expanded_url": "http://www.moqixu.com",
+								"display_url": "moqixu.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 372,
+				"friends_count": 626,
+				"listed_count": 52,
+				"created_at": "Wed Jan 20 10:38:50 +0000 2010",
+				"favourites_count": 154,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1211,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000594632915/22e35c6acf45fa0f6208159e4f70cbc4_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000594632915/22e35c6acf45fa0f6208159e4f70cbc4_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Mar 20 19:07:24 +0000 2018",
 		"id": 976173378284466200,
 		"id_str": "976173378284466176",
@@ -42,7 +275,7 @@ Grailbird.data.tweets_2018_03 =
 				},
 				{
 					"screen_name": "pennyb",
-					"name": "Penny CS Andrews👨🏻‍🎤🌈🔥",
+					"name": "Penny CS Andrews👨🏻🎤🌈🔥",
 					"id": 6069772,
 					"id_str": "6069772",
 					"indices": [
