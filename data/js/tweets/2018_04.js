@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 08 18:12:40 +0000 2018",
+		"id": 983044973275832300,
+		"id_str": "983044973275832320",
+		"text": "Good balanced discussion, and I tend to agree it would worth an experiment (easier for non-Government funding), tho… https://t.co/Ua6Ms0l4SJ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ua6Ms0l4SJ",
+					"expanded_url": "https://twitter.com/i/web/status/983044973275832320",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research Policy at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "http://t.co/m7YtMKvHbF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/m7YtMKvHbF",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4044,
+			"friends_count": 961,
+			"listed_count": 185,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 50,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5567,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 982923678555037700,
+		"quoted_status_id_str": "982923678555037696",
+		"quoted_status": {
+			"created_at": "Sun Apr 08 10:10:41 +0000 2018",
+			"id": 982923678555037700,
+			"id_str": "982923678555037696",
+			"text": "Should research funding be allocated at random? Good post by @deevybee exploring pros &amp; cons https://t.co/IsyKHpOL7X",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "deevybee",
+						"name": "Dorothy Bishop",
+						"id": 134429434,
+						"id_str": "134429434",
+						"indices": [
+							61,
+							70
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/IsyKHpOL7X",
+						"expanded_url": "http://deevybee.blogspot.co.uk/2018/04/should-research-funding-be-allocated-at.html",
+						"display_url": "deevybee.blogspot.co.uk/2018/04/should…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 276224538,
+				"id_str": "276224538",
+				"name": "James Wilsdon",
+				"screen_name": "jameswilsdon",
+				"location": "University of Sheffield",
+				"description": "professor of research policy @SheffSocScience & @ResearchCGHE | vice-chair @INGSciAdvice | blogger @GuardianScience | still European",
+				"url": "https://t.co/jxRP8wB5Xo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jxRP8wB5Xo",
+								"expanded_url": "https://www.sheffield.ac.uk/politics/people/academic/james-wilsdon",
+								"display_url": "sheffield.ac.uk/politics/peopl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8196,
+				"friends_count": 1440,
+				"listed_count": 336,
+				"created_at": "Sat Apr 02 22:47:09 +0000 2011",
+				"favourites_count": 4067,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 13993,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/678677639/207c560d529b040d4fa2c811a41d3821.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/678677639/207c560d529b040d4fa2c811a41d3821.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753070120763883524/Qi_lx4el_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753070120763883524/Qi_lx4el_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/276224538/1398260304",
+				"profile_link_color": "FF002B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Apr 05 14:14:19 +0000 2018",
 		"id": 981897826157383700,
 		"id_str": "981897826157383680",
