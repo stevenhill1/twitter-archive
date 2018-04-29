@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 28 17:44:06 +0000 2018",
+		"id": 990285540057641000,
+		"id_str": "990285540057640961",
+		"text": "RT @Funding_Insight: A great discussion with @ResEngland this morning about #E3. A really interesting scheme, and a useful insight into how…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "E3",
+					"indices": [
+						76,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Funding_Insight",
+					"name": "Funding Insight",
+					"id": 2832027437,
+					"id_str": "2832027437",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						45,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4078,
+			"friends_count": 961,
+			"listed_count": 183,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 50,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5577,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 24 14:09:04 +0000 2018",
+			"id": 988781875756970000,
+			"id_str": "988781875756969986",
+			"text": "A great discussion with @ResEngland this morning about #E3. A really interesting scheme, and a useful insight into… https://t.co/EXjdo0qCgx",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "E3",
+						"indices": [
+							55,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ResEngland",
+						"name": "Research England",
+						"id": 823853384138637300,
+						"id_str": "823853384138637313",
+						"indices": [
+							24,
+							35
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EXjdo0qCgx",
+						"expanded_url": "https://twitter.com/i/web/status/988781875756969986",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2832027437,
+				"id_str": "2832027437",
+				"name": "Funding Insight",
+				"screen_name": "Funding_Insight",
+				"location": "London",
+				"description": "Fail less, win more. Helping you write better funding proposals, plus access to our awards database of grant winners. A *Research Professional service.",
+				"url": "http://t.co/WHUJQ4rtGg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WHUJQ4rtGg",
+								"expanded_url": "http://researchresearch.com/",
+								"display_url": "researchresearch.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 705,
+				"friends_count": 419,
+				"listed_count": 20,
+				"created_at": "Wed Oct 15 16:27:52 +0000 2014",
+				"favourites_count": 224,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1530,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981152832383586305/FZRky7Cd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981152832383586305/FZRky7Cd_normal.jpg",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 983738121534795800,
+			"quoted_status_id_str": "983738121534795776",
+			"quoted_status": {
+				"created_at": "Tue Apr 10 16:06:59 +0000 2018",
+				"id": 983738121534795800,
+				"id_str": "983738121534795776",
+				"text": "We are taking early steps to strengthen the English #university #research and #innovation system through our… https://t.co/pH0JIvmUG8",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "university",
+							"indices": [
+								52,
+								63
+							]
+						},
+						{
+							"text": "research",
+							"indices": [
+								64,
+								73
+							]
+						},
+						{
+							"text": "innovation",
+							"indices": [
+								78,
+								89
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/pH0JIvmUG8",
+							"expanded_url": "https://twitter.com/i/web/status/983738121534795776",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"name": "Research England",
+					"screen_name": "ResEngland",
+					"location": "Bristol",
+					"description": "Research England creates and sustains the conditions for a healthy and dynamic research and knowledge exchange system in English universities.",
+					"url": "https://t.co/2KwRNUbt2L",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/2KwRNUbt2L",
+									"expanded_url": "https://re.ukri.org",
+									"display_url": "re.ukri.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3161,
+					"friends_count": 326,
+					"listed_count": 22,
+					"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+					"favourites_count": 374,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 257,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/894583603664998401/fUIjfeRc_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/894583603664998401/fUIjfeRc_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1502120294",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 18,
+				"favorite_count": 24,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 983738121534795800,
+		"quoted_status_id_str": "983738121534795776",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Apr 15 15:57:47 +0000 2018",
 		"id": 985547744562614300,
 		"id_str": "985547744562614272",
