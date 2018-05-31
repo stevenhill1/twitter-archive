@@ -1,6 +1,857 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Wed May 30 20:00:14 +0000 2018",
+		"id": 1001916213344260100,
+		"id_str": "1001916213344260099",
+		"text": "@seis_matters @Stephen_Curry @CathyAbbottLab @inespinedatorra @biorxivpreprint @DavidPriceUCL @JennyRohn… https://t.co/ixo9E56ehK",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seis_matters",
+					"name": "Christopher Jackson",
+					"id": 1221377785,
+					"id_str": "1221377785",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Stephen_Curry",
+					"name": "Stephen Curry",
+					"id": 41358714,
+					"id_str": "41358714",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "CathyAbbottLab",
+					"name": "Cathy Abbott",
+					"id": 733395976174456800,
+					"id_str": "733395976174456833",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "inespinedatorra",
+					"name": "Inés Pineda-Torra",
+					"id": 3302492687,
+					"id_str": "3302492687",
+					"indices": [
+						45,
+						61
+					]
+				},
+				{
+					"screen_name": "biorxivpreprint",
+					"name": "bioRxiv",
+					"id": 1949132852,
+					"id_str": "1949132852",
+					"indices": [
+						62,
+						78
+					]
+				},
+				{
+					"screen_name": "DavidPriceUCL",
+					"name": "David Price",
+					"id": 1478149944,
+					"id_str": "1478149944",
+					"indices": [
+						79,
+						93
+					]
+				},
+				{
+					"screen_name": "JennyRohn",
+					"name": "Jennifer L. Rohn",
+					"id": 135583203,
+					"id_str": "135583203",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ixo9E56ehK",
+					"expanded_url": "https://twitter.com/i/web/status/1001916213344260099",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1001912849118171100,
+		"in_reply_to_status_id_str": "1001912849118171136",
+		"in_reply_to_user_id": 7731752,
+		"in_reply_to_user_id_str": "7731752",
+		"in_reply_to_screen_name": "stevenhill",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4110,
+			"friends_count": 961,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 30 19:46:52 +0000 2018",
+		"id": 1001912849118171100,
+		"id_str": "1001912849118171136",
+		"text": "@seis_matters @Stephen_Curry @CathyAbbottLab @inespinedatorra @biorxivpreprint @DavidPriceUCL @JennyRohn… https://t.co/5bQFDJd77F",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seis_matters",
+					"name": "Christopher Jackson",
+					"id": 1221377785,
+					"id_str": "1221377785",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Stephen_Curry",
+					"name": "Stephen Curry",
+					"id": 41358714,
+					"id_str": "41358714",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "CathyAbbottLab",
+					"name": "Cathy Abbott",
+					"id": 733395976174456800,
+					"id_str": "733395976174456833",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "inespinedatorra",
+					"name": "Inés Pineda-Torra",
+					"id": 3302492687,
+					"id_str": "3302492687",
+					"indices": [
+						45,
+						61
+					]
+				},
+				{
+					"screen_name": "biorxivpreprint",
+					"name": "bioRxiv",
+					"id": 1949132852,
+					"id_str": "1949132852",
+					"indices": [
+						62,
+						78
+					]
+				},
+				{
+					"screen_name": "DavidPriceUCL",
+					"name": "David Price",
+					"id": 1478149944,
+					"id_str": "1478149944",
+					"indices": [
+						79,
+						93
+					]
+				},
+				{
+					"screen_name": "JennyRohn",
+					"name": "Jennifer L. Rohn",
+					"id": 135583203,
+					"id_str": "135583203",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5bQFDJd77F",
+					"expanded_url": "https://twitter.com/i/web/status/1001912849118171136",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1001910031850328000,
+		"in_reply_to_status_id_str": "1001910031850328064",
+		"in_reply_to_user_id": 1221377785,
+		"in_reply_to_user_id_str": "1221377785",
+		"in_reply_to_screen_name": "seis_matters",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4110,
+			"friends_count": 961,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 30 19:19:50 +0000 2018",
+		"id": 1001906044652712000,
+		"id_str": "1001906044652711936",
+		"text": "@seis_matters @Stephen_Curry @CathyAbbottLab @inespinedatorra @biorxivpreprint @DavidPriceUCL @JennyRohn… https://t.co/FvDm5SCywn",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seis_matters",
+					"name": "Christopher Jackson",
+					"id": 1221377785,
+					"id_str": "1221377785",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Stephen_Curry",
+					"name": "Stephen Curry",
+					"id": 41358714,
+					"id_str": "41358714",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "CathyAbbottLab",
+					"name": "Cathy Abbott",
+					"id": 733395976174456800,
+					"id_str": "733395976174456833",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "inespinedatorra",
+					"name": "Inés Pineda-Torra",
+					"id": 3302492687,
+					"id_str": "3302492687",
+					"indices": [
+						45,
+						61
+					]
+				},
+				{
+					"screen_name": "biorxivpreprint",
+					"name": "bioRxiv",
+					"id": 1949132852,
+					"id_str": "1949132852",
+					"indices": [
+						62,
+						78
+					]
+				},
+				{
+					"screen_name": "DavidPriceUCL",
+					"name": "David Price",
+					"id": 1478149944,
+					"id_str": "1478149944",
+					"indices": [
+						79,
+						93
+					]
+				},
+				{
+					"screen_name": "JennyRohn",
+					"name": "Jennifer L. Rohn",
+					"id": 135583203,
+					"id_str": "135583203",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FvDm5SCywn",
+					"expanded_url": "https://twitter.com/i/web/status/1001906044652711936",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1001904549626556400,
+		"in_reply_to_status_id_str": "1001904549626556419",
+		"in_reply_to_user_id": 1221377785,
+		"in_reply_to_user_id_str": "1221377785",
+		"in_reply_to_screen_name": "seis_matters",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4110,
+			"friends_count": 961,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 30 18:59:08 +0000 2018",
+		"id": 1001900836841287700,
+		"id_str": "1001900836841287681",
+		"text": "@seis_matters @Stephen_Curry @CathyAbbottLab @inespinedatorra @biorxivpreprint @DavidPriceUCL @JennyRohn… https://t.co/8cKAxOKPjw",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seis_matters",
+					"name": "Christopher Jackson",
+					"id": 1221377785,
+					"id_str": "1221377785",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Stephen_Curry",
+					"name": "Stephen Curry",
+					"id": 41358714,
+					"id_str": "41358714",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "CathyAbbottLab",
+					"name": "Cathy Abbott",
+					"id": 733395976174456800,
+					"id_str": "733395976174456833",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "inespinedatorra",
+					"name": "Inés Pineda-Torra",
+					"id": 3302492687,
+					"id_str": "3302492687",
+					"indices": [
+						45,
+						61
+					]
+				},
+				{
+					"screen_name": "biorxivpreprint",
+					"name": "bioRxiv",
+					"id": 1949132852,
+					"id_str": "1949132852",
+					"indices": [
+						62,
+						78
+					]
+				},
+				{
+					"screen_name": "DavidPriceUCL",
+					"name": "David Price",
+					"id": 1478149944,
+					"id_str": "1478149944",
+					"indices": [
+						79,
+						93
+					]
+				},
+				{
+					"screen_name": "JennyRohn",
+					"name": "Jennifer L. Rohn",
+					"id": 135583203,
+					"id_str": "135583203",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8cKAxOKPjw",
+					"expanded_url": "https://twitter.com/i/web/status/1001900836841287681",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1001898639952961500,
+		"in_reply_to_status_id_str": "1001898639952961536",
+		"in_reply_to_user_id": 1221377785,
+		"in_reply_to_user_id_str": "1221377785",
+		"in_reply_to_screen_name": "seis_matters",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4110,
+			"friends_count": 961,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed May 30 18:44:17 +0000 2018",
+		"id": 1001897100567892000,
+		"id_str": "1001897100567891971",
+		"text": "@seis_matters @Stephen_Curry @CathyAbbottLab @inespinedatorra @biorxivpreprint @DavidPriceUCL @JennyRohn… https://t.co/mb4Sm4JPHu",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seis_matters",
+					"name": "Christopher Jackson",
+					"id": 1221377785,
+					"id_str": "1221377785",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Stephen_Curry",
+					"name": "Stephen Curry",
+					"id": 41358714,
+					"id_str": "41358714",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "CathyAbbottLab",
+					"name": "Cathy Abbott",
+					"id": 733395976174456800,
+					"id_str": "733395976174456833",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "inespinedatorra",
+					"name": "Inés Pineda-Torra",
+					"id": 3302492687,
+					"id_str": "3302492687",
+					"indices": [
+						45,
+						61
+					]
+				},
+				{
+					"screen_name": "biorxivpreprint",
+					"name": "bioRxiv",
+					"id": 1949132852,
+					"id_str": "1949132852",
+					"indices": [
+						62,
+						78
+					]
+				},
+				{
+					"screen_name": "DavidPriceUCL",
+					"name": "David Price",
+					"id": 1478149944,
+					"id_str": "1478149944",
+					"indices": [
+						79,
+						93
+					]
+				},
+				{
+					"screen_name": "JennyRohn",
+					"name": "Jennifer L. Rohn",
+					"id": 135583203,
+					"id_str": "135583203",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mb4Sm4JPHu",
+					"expanded_url": "https://twitter.com/i/web/status/1001897100567891971",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1001853651277709300,
+		"in_reply_to_status_id_str": "1001853651277709312",
+		"in_reply_to_user_id": 1221377785,
+		"in_reply_to_user_id_str": "1221377785",
+		"in_reply_to_screen_name": "seis_matters",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4110,
+			"friends_count": 961,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": 3600,
+			"time_zone": "London",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5604,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon May 21 19:56:24 +0000 2018",
 		"id": 998653758820282400,
 		"id_str": "998653758820282374",
