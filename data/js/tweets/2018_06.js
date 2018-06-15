@@ -1,6 +1,2481 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Thu Jun 14 14:45:35 +0000 2018",
+		"id": 1007272846568165400,
+		"id_str": "1007272846568165376",
+		"text": "@DavidPriceUCL No disagreement from me on that point!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidPriceUCL",
+					"name": "David Price",
+					"id": 1478149944,
+					"id_str": "1478149944",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1007271870020882400,
+		"in_reply_to_status_id_str": "1007271870020882434",
+		"in_reply_to_user_id": 1478149944,
+		"in_reply_to_user_id_str": "1478149944",
+		"in_reply_to_screen_name": "DavidPriceUCL",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 963,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 14 14:45:16 +0000 2018",
+		"id": 1007272765018304500,
+		"id_str": "1007272765018304513",
+		"text": "Indeed. It sometimes feels as if qualitative approaches to measurement don’t exist… https://t.co/cToX3EMs56",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cToX3EMs56",
+					"expanded_url": "https://twitter.com/LeonievanDrooge/status/1007272013726134272",
+					"display_url": "twitter.com/LeonievanDroog…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 963,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1007272013726134300,
+		"quoted_status_id_str": "1007272013726134272",
+		"quoted_status": {
+			"created_at": "Thu Jun 14 14:42:16 +0000 2018",
+			"id": 1007272013726134300,
+			"id_str": "1007272013726134272",
+			"text": "@stevenhill Also in Europe: \"Impact is difficult to define, since there is no indicator or measure of #impact.\" Ans… https://t.co/1t1Gu8r8jG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "impact",
+						"indices": [
+							102,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stevenhill",
+						"name": "Steven Hill",
+						"id": 7731752,
+						"id_str": "7731752",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1t1Gu8r8jG",
+						"expanded_url": "https://twitter.com/i/web/status/1007272013726134272",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1007268564926124000,
+			"in_reply_to_status_id_str": "1007268564926124033",
+			"in_reply_to_user_id": 7731752,
+			"in_reply_to_user_id_str": "7731752",
+			"in_reply_to_screen_name": "stevenhill",
+			"user": {
+				"id": 324897261,
+				"id_str": "324897261",
+				"name": "Leonie van Drooge",
+				"screen_name": "LeonievanDrooge",
+				"location": "Rathenau Instituut",
+				"description": "Onderzoekt wetenschapsbeleid, impact, evaluatie | Science policy,  impact, evaluation | Theatre-goer, vegetable-grower | Views my own |\n@RathenauNL @RathenauOrg",
+				"url": "https://t.co/LcnD2bBaSu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LcnD2bBaSu",
+								"expanded_url": "http://www.rathenau.nl",
+								"display_url": "rathenau.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 371,
+				"friends_count": 166,
+				"listed_count": 13,
+				"created_at": "Mon Jun 27 11:55:54 +0000 2011",
+				"favourites_count": 177,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 521,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/841965863955763200/eCfo2xv9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/841965863955763200/eCfo2xv9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/324897261/1410345070",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 14 14:33:36 +0000 2018",
+		"id": 1007269832457322500,
+		"id_str": "1007269832457322497",
+		"text": "Burton Lee: can’t separate questions of impact, benefit and innovation from questions of research strategy - agree #IoS18",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IoS18",
+					"indices": [
+						115,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 963,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 14 14:28:34 +0000 2018",
+		"id": 1007268564926124000,
+		"id_str": "1007268564926124033",
+		"text": "An observation from a few days in Canada talking about #impact - in the Canadian context the debate seems to equate… https://t.co/ljzq3l51UQ",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "impact",
+					"indices": [
+						55,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ljzq3l51UQ",
+					"expanded_url": "https://twitter.com/i/web/status/1007268564926124033",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 963,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 14 14:17:36 +0000 2018",
+		"id": 1007265805074157600,
+		"id_str": "1007265805074157569",
+		"text": "RT @csugimoto: Dr. Mona Nemer lists the mandates for the @ChiefScienceCan: includes “Ensuring full public access to government science.” #o…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "csugimoto",
+					"name": "Cassidy R. Sugimoto",
+					"id": 47325650,
+					"id_str": "47325650",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 963,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 14:14:24 +0000 2018",
+			"id": 1007264997486022700,
+			"id_str": "1007264997486022657",
+			"text": "Dr. Mona Nemer lists the mandates for the @ChiefScienceCan: includes “Ensuring full public access to government science.” #openaccess #ios18",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "openaccess",
+						"indices": [
+							122,
+							133
+						]
+					},
+					{
+						"text": "ios18",
+						"indices": [
+							134,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47325650,
+				"id_str": "47325650",
+				"name": "Cassidy R. Sugimoto",
+				"screen_name": "csugimoto",
+				"location": "",
+				"description": "Associate Professor, School of Informatics and Computing, Indiana University Bloomington; President, International Society for Scientometrics and Informetrics",
+				"url": "http://t.co/gUrXTl9nXj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/gUrXTl9nXj",
+								"expanded_url": "http://ella.slis.indiana.edu/~sugimoto/index.php",
+								"display_url": "ella.slis.indiana.edu/~sugimoto/inde…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1620,
+				"friends_count": 481,
+				"listed_count": 62,
+				"created_at": "Mon Jun 15 12:47:39 +0000 2009",
+				"favourites_count": 3557,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1617,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/818242019491344384/6JOdkjCs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/818242019491344384/6JOdkjCs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47325650/1483919248",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 14 14:07:19 +0000 2018",
+		"id": 1007263217947742200,
+		"id_str": "1007263217947742209",
+		"text": ".@dsweeneyUK making a strong case for engaged research as central to #impact #ios18",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "impact",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "ios18",
+					"indices": [
+						77,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dsweeneyUK",
+					"name": "David Sweeney",
+					"id": 4162904121,
+					"id_str": "4162904121",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 963,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 14 14:02:14 +0000 2018",
+		"id": 1007261936520777700,
+		"id_str": "1007261936520777728",
+		"text": "RT @ScienceWorks_NL: .@dsweeneyUK makes thoughtful observations at #ios18. #impact yes, but is politics prepared to trust #experts? https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ios18",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "impact",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "experts",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScienceWorks_NL",
+					"name": "ScienceWorks",
+					"id": 2328758972,
+					"id_str": "2328758972",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "dsweeneyUK",
+					"name": "David Sweeney",
+					"id": 4162904121,
+					"id_str": "4162904121",
+					"indices": [
+						22,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 963,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 14:01:26 +0000 2018",
+			"id": 1007261736074973200,
+			"id_str": "1007261736074973184",
+			"text": ".@dsweeneyUK makes thoughtful observations at #ios18. #impact yes, but is politics prepared to trust #experts? https://t.co/QMykcTzUUy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ios18",
+						"indices": [
+							46,
+							52
+						]
+					},
+					{
+						"text": "impact",
+						"indices": [
+							54,
+							61
+						]
+					},
+					{
+						"text": "experts",
+						"indices": [
+							101,
+							109
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dsweeneyUK",
+						"name": "David Sweeney",
+						"id": 4162904121,
+						"id_str": "4162904121",
+						"indices": [
+							1,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1007261734145613800,
+						"id_str": "1007261734145613824",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DfqDNeOX4AAFKQk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfqDNeOX4AAFKQk.jpg",
+						"url": "https://t.co/QMykcTzUUy",
+						"display_url": "pic.twitter.com/QMykcTzUUy",
+						"expanded_url": "https://twitter.com/ScienceWorks_NL/status/1007261736074973184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1920,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1007261734145613800,
+						"id_str": "1007261734145613824",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DfqDNeOX4AAFKQk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfqDNeOX4AAFKQk.jpg",
+						"url": "https://t.co/QMykcTzUUy",
+						"display_url": "pic.twitter.com/QMykcTzUUy",
+						"expanded_url": "https://twitter.com/ScienceWorks_NL/status/1007261736074973184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1920,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2328758972,
+				"id_str": "2328758972",
+				"name": "ScienceWorks",
+				"screen_name": "ScienceWorks_NL",
+				"location": "Den Haag ",
+				"description": "We support interaction between science and society #valorization #startup #impactofscience",
+				"url": "https://t.co/liM7MbWWTg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/liM7MbWWTg",
+								"expanded_url": "http://www.scienceworks.nl",
+								"display_url": "scienceworks.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 488,
+				"friends_count": 379,
+				"listed_count": 17,
+				"created_at": "Wed Feb 05 13:04:29 +0000 2014",
+				"favourites_count": 68,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1019,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "57527E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/431055266352594946/F-fGc2Vr_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/431055266352594946/F-fGc2Vr_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2328758972/1391612421",
+				"profile_link_color": "472D52",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A19185",
+				"profile_text_color": "625F73",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 14 13:30:56 +0000 2018",
+		"id": 1007254059466874900,
+		"id_str": "1007254059466874880",
+		"text": "Looking forward to 2 days of impact discussions at the @AesisNet Impact of Science Conference. Really diverse and i… https://t.co/ecXuA7gsNk",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AesisNet",
+					"name": "AESIS",
+					"id": 323199460,
+					"id_str": "323199460",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ecXuA7gsNk",
+					"expanded_url": "https://twitter.com/i/web/status/1007254059466874880",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 963,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 14 12:09:52 +0000 2018",
+		"id": 1007233660771237900,
+		"id_str": "1007233660771237889",
+		"text": "RT @martin_eve: 61% of REF-eligible outputs now meet OA requirements. Further 20% have exceptions filed. That's 81% compliance. Pretty good…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martin_eve",
+					"name": "Martin Paul Eve",
+					"id": 118747590,
+					"id_str": "118747590",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 963,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 07:19:59 +0000 2018",
+			"id": 1007160706817495000,
+			"id_str": "1007160706817495040",
+			"text": "61% of REF-eligible outputs now meet OA requirements. Further 20% have exceptions filed. That's 81% compliance. Pre… https://t.co/EehnbPhZmg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EehnbPhZmg",
+						"expanded_url": "https://twitter.com/i/web/status/1007160706817495040",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118747590,
+				"id_str": "118747590",
+				"name": "Martin Paul Eve",
+				"screen_name": "martin_eve",
+				"location": "London",
+				"description": "Professor of Literature, Technology and Publishing @birkbeck_eh | Not their views | I made & run @openlibhums | Latest book: https://t.co/nReGCXyzQp",
+				"url": "https://t.co/2NV4cbQhkX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2NV4cbQhkX",
+								"expanded_url": "http://www.martineve.com",
+								"display_url": "martineve.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nReGCXyzQp",
+								"expanded_url": "http://meve.io/litagainstcrit",
+								"display_url": "meve.io/litagainstcrit",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7134,
+				"friends_count": 2896,
+				"listed_count": 334,
+				"created_at": "Mon Mar 01 16:47:22 +0000 2010",
+				"favourites_count": 8830,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 53160,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/855017454384402432/rajP3b7b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/855017454384402432/rajP3b7b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118747590/1457960279",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 14 10:38:13 +0000 2018",
+		"id": 1007210595471503400,
+		"id_str": "1007210595471503360",
+		"text": "RT @dsweeneyUK: Setting #REF2021 Open Access compliance into the broader OA landscape.  Great progress but at a cost. https://t.co/vd5Ukaig…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REF2021",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dsweeneyUK",
+					"name": "David Sweeney",
+					"id": 4162904121,
+					"id_str": "4162904121",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 963,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 10:32:30 +0000 2018",
+			"id": 1007209157361930200,
+			"id_str": "1007209157361930242",
+			"text": "Setting #REF2021 Open Access compliance into the broader OA landscape.  Great progress but at a cost. https://t.co/vd5UkaigGO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "REF2021",
+						"indices": [
+							8,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vd5UkaigGO",
+						"expanded_url": "https://twitter.com/wonkhe/status/1007155768389447680",
+						"display_url": "twitter.com/wonkhe/status/…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4162904121,
+				"id_str": "4162904121",
+				"name": "David Sweeney",
+				"screen_name": "dsweeneyUK",
+				"location": "",
+				"description": "Executive Chair, Research England",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1799,
+				"friends_count": 366,
+				"listed_count": 32,
+				"created_at": "Wed Nov 11 09:49:55 +0000 2015",
+				"favourites_count": 65,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 451,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827099764713979908/jBSfSPVD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827099764713979908/jBSfSPVD_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1007155768389447700,
+			"quoted_status_id_str": "1007155768389447680",
+			"quoted_status": {
+				"created_at": "Thu Jun 14 07:00:21 +0000 2018",
+				"id": 1007155768389447700,
+				"id_str": "1007155768389447680",
+				"text": "NEW: Open access - are we almost there for #REF? - @dsweeneyUK of @ResEngland   https://t.co/cuj0EQnEih https://t.co/lohjzaQSom",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "REF",
+							"indices": [
+								43,
+								47
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "dsweeneyUK",
+							"name": "David Sweeney",
+							"id": 4162904121,
+							"id_str": "4162904121",
+							"indices": [
+								51,
+								62
+							]
+						},
+						{
+							"screen_name": "ResEngland",
+							"name": "Research England",
+							"id": 823853384138637300,
+							"id_str": "823853384138637313",
+							"indices": [
+								66,
+								77
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/cuj0EQnEih",
+							"expanded_url": "http://ow.ly/eOVp30ktUAE",
+							"display_url": "ow.ly/eOVp30ktUAE",
+							"indices": [
+								80,
+								103
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 1007155766652907500,
+							"id_str": "1007155766652907521",
+							"indices": [
+								104,
+								127
+							],
+							"media_url": "http://pbs.twimg.com/media/Dfoi1WjVMAEHmCA.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Dfoi1WjVMAEHmCA.jpg",
+							"url": "https://t.co/lohjzaQSom",
+							"display_url": "pic.twitter.com/lohjzaQSom",
+							"expanded_url": "https://twitter.com/Wonkhe/status/1007155768389447680/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 930,
+									"h": 523,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 930,
+									"h": 523,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 382,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1007155766652907500,
+							"id_str": "1007155766652907521",
+							"indices": [
+								104,
+								127
+							],
+							"media_url": "http://pbs.twimg.com/media/Dfoi1WjVMAEHmCA.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Dfoi1WjVMAEHmCA.jpg",
+							"url": "https://t.co/lohjzaQSom",
+							"display_url": "pic.twitter.com/lohjzaQSom",
+							"expanded_url": "https://twitter.com/Wonkhe/status/1007155768389447680/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 930,
+									"h": 523,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 930,
+									"h": 523,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 382,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 245499504,
+					"id_str": "245499504",
+					"name": "Wonkhe",
+					"screen_name": "Wonkhe",
+					"location": "UK",
+					"description": "Wonkhe (pronounced wonky) is the home of higher education policy, people and politics. Editor: @markmleach",
+					"url": "https://t.co/mA5GAdSEzZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/mA5GAdSEzZ",
+									"expanded_url": "http://www.wonkhe.com",
+									"display_url": "wonkhe.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 26083,
+					"friends_count": 15530,
+					"listed_count": 580,
+					"created_at": "Mon Jan 31 20:54:22 +0000 2011",
+					"favourites_count": 3370,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 18318,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "022330",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/585407608015691776/s9fW6h2A_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/585407608015691776/s9fW6h2A_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/245499504/1528377949",
+					"profile_link_color": "00ADEF",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "C0DFEC",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 18,
+				"favorite_count": 10,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 11,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1007155768389447700,
+		"quoted_status_id_str": "1007155768389447680",
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 14 10:37:51 +0000 2018",
+		"id": 1007210502190239700,
+		"id_str": "1007210502190239744",
+		"text": "RT @ResEngland: New report published today on @REF_2021 Open Access Policy https://t.co/zTdlU0ashY @ResEngland @Wonkhe https://t.co/n4ivLwT…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "REF_2021",
+					"name": "REF2021",
+					"id": 822173125639110700,
+					"id_str": "822173125639110657",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"screen_name": "Wonkhe",
+					"name": "Wonkhe",
+					"id": 245499504,
+					"id_str": "245499504",
+					"indices": [
+						111,
+						118
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zTdlU0ashY",
+					"expanded_url": "https://bit.ly/2l6Jnna",
+					"display_url": "bit.ly/2l6Jnna",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 963,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 08:30:55 +0000 2018",
+			"id": 1007178557410472000,
+			"id_str": "1007178557410471936",
+			"text": "New report published today on @REF_2021 Open Access Policy https://t.co/zTdlU0ashY @ResEngland @Wonkhe https://t.co/n4ivLwTFwh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "REF_2021",
+						"name": "REF2021",
+						"id": 822173125639110700,
+						"id_str": "822173125639110657",
+						"indices": [
+							30,
+							39
+						]
+					},
+					{
+						"screen_name": "ResEngland",
+						"name": "Research England",
+						"id": 823853384138637300,
+						"id_str": "823853384138637313",
+						"indices": [
+							83,
+							94
+						]
+					},
+					{
+						"screen_name": "Wonkhe",
+						"name": "Wonkhe",
+						"id": 245499504,
+						"id_str": "245499504",
+						"indices": [
+							95,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zTdlU0ashY",
+						"expanded_url": "https://bit.ly/2l6Jnna",
+						"display_url": "bit.ly/2l6Jnna",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1007177955968200700,
+						"id_str": "1007177955968200704",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/Dfo3A8MWsAAcFdM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dfo3A8MWsAAcFdM.jpg",
+						"url": "https://t.co/n4ivLwTFwh",
+						"display_url": "pic.twitter.com/n4ivLwTFwh",
+						"expanded_url": "https://twitter.com/ResEngland/status/1007178557410471936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1007177955968200700,
+						"id_str": "1007177955968200704",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/Dfo3A8MWsAAcFdM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dfo3A8MWsAAcFdM.jpg",
+						"url": "https://t.co/n4ivLwTFwh",
+						"display_url": "pic.twitter.com/n4ivLwTFwh",
+						"expanded_url": "https://twitter.com/ResEngland/status/1007178557410471936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 823853384138637300,
+				"id_str": "823853384138637313",
+				"name": "Research England",
+				"screen_name": "ResEngland",
+				"location": "Bristol",
+				"description": "Research England creates and sustains the conditions for a healthy and dynamic research and knowledge exchange system in English universities. Part of UKRI.",
+				"url": "https://t.co/EOsU61RzL2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EOsU61RzL2",
+								"expanded_url": "https://ukri.org/re",
+								"display_url": "ukri.org/re",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3600,
+				"friends_count": 329,
+				"listed_count": 27,
+				"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+				"favourites_count": 394,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 313,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1006515717888512000/KnXg55bl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006515717888512000/KnXg55bl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1528811084",
+				"profile_link_color": "ACBD37",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jun 14 10:37:37 +0000 2018",
+		"id": 1007210442798850000,
+		"id_str": "1007210442798850048",
+		"text": "RT @Helen_snaith: A report published by @ResEngland today shows that 81% of research outputs are meeting the requirements of the REF OA pol…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Helen_snaith",
+					"name": "Helen Snaith",
+					"id": 104275074,
+					"id_str": "104275074",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						40,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4138,
+			"friends_count": 963,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5635,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 14 08:29:19 +0000 2018",
+			"id": 1007178157487771600,
+			"id_str": "1007178157487771648",
+			"text": "A report published by @ResEngland today shows that 81% of research outputs are meeting the requirements of the REF… https://t.co/iod15fAqeY",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ResEngland",
+						"name": "Research England",
+						"id": 823853384138637300,
+						"id_str": "823853384138637313",
+						"indices": [
+							22,
+							33
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iod15fAqeY",
+						"expanded_url": "https://twitter.com/i/web/status/1007178157487771648",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 104275074,
+				"id_str": "104275074",
+				"name": "Helen Snaith",
+				"screen_name": "Helen_snaith",
+				"location": "",
+				"description": "Senior Policy Advisor, Research England.  UKRPIF and OA Monographs. PhD on Angela Carter, Swansea University.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 508,
+				"friends_count": 747,
+				"listed_count": 8,
+				"created_at": "Tue Jan 12 21:14:58 +0000 2010",
+				"favourites_count": 1051,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2970,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804456622898683905/MWeWNEYx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804456622898683905/MWeWNEYx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/104275074/1480632381",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jun 12 17:17:52 +0000 2018",
 		"id": 1006586395744403500,
 		"id_str": "1006586395744403457",
