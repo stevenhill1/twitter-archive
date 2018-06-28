@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Wed Jun 27 18:14:52 +0000 2018",
+		"id": 1012036556117413900,
+		"id_str": "1012036556117413888",
+		"text": "RT @rschconsulting: @RLUK_David @ucylpay My thoughts on this here: \nhttps://t.co/fhqdaykMDw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rschconsulting",
+					"name": "Rob Johnson",
+					"id": 1359403884,
+					"id_str": "1359403884",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "RLUK_David",
+					"name": "David Prosser",
+					"id": 199624978,
+					"id_str": "199624978",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "ucylpay",
+					"name": "Paul Ayris",
+					"id": 47042682,
+					"id_str": "47042682",
+					"indices": [
+						32,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fhqdaykMDw",
+					"expanded_url": "https://scholarlykitchen.sspnet.org/2018/06/25/guest-post-time-check-hybrid-hotel/",
+					"display_url": "scholarlykitchen.sspnet.org/2018/06/25/gue…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4147,
+			"friends_count": 962,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5639,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 26 17:42:59 +0000 2018",
+			"id": 1011666145655640000,
+			"id_str": "1011666145655640064",
+			"text": "@RLUK_David @ucylpay My thoughts on this here: \nhttps://t.co/fhqdaykMDw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RLUK_David",
+						"name": "David Prosser",
+						"id": 199624978,
+						"id_str": "199624978",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "ucylpay",
+						"name": "Paul Ayris",
+						"id": 47042682,
+						"id_str": "47042682",
+						"indices": [
+							12,
+							20
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/fhqdaykMDw",
+						"expanded_url": "https://scholarlykitchen.sspnet.org/2018/06/25/guest-post-time-check-hybrid-hotel/",
+						"display_url": "scholarlykitchen.sspnet.org/2018/06/25/gue…",
+						"indices": [
+							48,
+							71
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1011587307307176000,
+			"in_reply_to_status_id_str": "1011587307307175936",
+			"in_reply_to_user_id": 199624978,
+			"in_reply_to_user_id_str": "199624978",
+			"in_reply_to_screen_name": "RLUK_David",
+			"user": {
+				"id": 1359403884,
+				"id_str": "1359403884",
+				"name": "Rob Johnson",
+				"screen_name": "rschconsulting",
+				"location": "Nottingham",
+				"description": "An experienced research management professional and chartered accountant, I work with clients in higher education, industry and academic publishing.",
+				"url": "https://t.co/feXHSLk70h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/feXHSLk70h",
+								"expanded_url": "http://www.research-consulting.com",
+								"display_url": "research-consulting.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 508,
+				"friends_count": 184,
+				"listed_count": 20,
+				"created_at": "Wed Apr 17 13:24:29 +0000 2013",
+				"favourites_count": 484,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1398,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3535693436/401b2c431d7c3873b3506bda362a32d6_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3535693436/401b2c431d7c3873b3506bda362a32d6_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1359403884/1401822274",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "56c45474148ca4da",
+				"url": "https://api.twitter.com/1.1/geo/id/56c45474148ca4da.json",
+				"place_type": "city",
+				"name": "Paddington",
+				"full_name": "Paddington, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.2160701,
+								51.5098789
+							],
+							[
+								-0.1301597,
+								51.5098789
+							],
+							[
+								-0.1301597,
+								51.5397916
+							],
+							[
+								-0.2160701,
+								51.5397916
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jun 23 11:25:27 +0000 2018",
 		"id": 1010483972491661300,
 		"id_str": "1010483972491661312",
