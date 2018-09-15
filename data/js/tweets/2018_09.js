@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Fri Sep 14 13:57:54 +0000 2018",
+		"id": 1040600529280421900,
+		"id_str": "1040600529280421888",
+		"text": "@jbrittholbrook @RobertFrodeman @ClaireDonovan @adambriggle Here’s the link https://t.co/D5ueLMlAkv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jbrittholbrook",
+					"name": "J Britt Holbrook",
+					"id": 408733008,
+					"id_str": "408733008",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "RobertFrodeman",
+					"name": "Robert Frodeman",
+					"id": 3105446652,
+					"id_str": "3105446652",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "ClaireDonovan",
+					"name": "Claire Donovan",
+					"id": 19676010,
+					"id_str": "19676010",
+					"indices": [
+						32,
+						46
+					]
+				},
+				{
+					"screen_name": "adambriggle",
+					"name": "Adam Briggle",
+					"id": 799468328,
+					"id_str": "799468328",
+					"indices": [
+						47,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D5ueLMlAkv",
+					"expanded_url": "https://www.timeshighereducation.com/news/11-new-hewords-for-academics-that-should-be-in-the-dictionary/2016610.article",
+					"display_url": "timeshighereducation.com/news/11-new-he…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1040600130280468500,
+		"in_reply_to_status_id_str": "1040600130280468480",
+		"in_reply_to_user_id": 7731752,
+		"in_reply_to_user_id_str": "7731752",
+		"in_reply_to_screen_name": "stevenhill",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4255,
+			"friends_count": 968,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 14 13:56:19 +0000 2018",
+		"id": 1040600130280468500,
+		"id_str": "1040600130280468480",
+		"text": "@jbrittholbrook @RobertFrodeman @ClaireDonovan @adambriggle When I wrote the article I thought I had checked and yo… https://t.co/W5b9WYdnku",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jbrittholbrook",
+					"name": "J Britt Holbrook",
+					"id": 408733008,
+					"id_str": "408733008",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "RobertFrodeman",
+					"name": "Robert Frodeman",
+					"id": 3105446652,
+					"id_str": "3105446652",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "ClaireDonovan",
+					"name": "Claire Donovan",
+					"id": 19676010,
+					"id_str": "19676010",
+					"indices": [
+						32,
+						46
+					]
+				},
+				{
+					"screen_name": "adambriggle",
+					"name": "Adam Briggle",
+					"id": 799468328,
+					"id_str": "799468328",
+					"indices": [
+						47,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W5b9WYdnku",
+					"expanded_url": "https://twitter.com/i/web/status/1040600130280468480",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1040595969249878000,
+		"in_reply_to_status_id_str": "1040595969249878017",
+		"in_reply_to_user_id": 408733008,
+		"in_reply_to_user_id_str": "408733008",
+		"in_reply_to_screen_name": "jbrittholbrook",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4255,
+			"friends_count": 968,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Sep 14 10:18:10 +0000 2018",
+		"id": 1040545231404449800,
+		"id_str": "1040545231404449792",
+		"text": "Good to see this discussion, although I think we should acknowledge the term was coined by @RobertFrodeman and… https://t.co/X0uSuOjaC5",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobertFrodeman",
+					"name": "Robert Frodeman",
+					"id": 3105446652,
+					"id_str": "3105446652",
+					"indices": [
+						91,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X0uSuOjaC5",
+					"expanded_url": "https://twitter.com/i/web/status/1040545231404449792",
+					"display_url": "twitter.com/i/web/status/1…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4255,
+			"friends_count": 968,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1040500168393678800,
+		"quoted_status_id_str": "1040500168393678848",
+		"quoted_status": {
+			"created_at": "Fri Sep 14 07:19:06 +0000 2018",
+			"id": 1040500168393678800,
+			"id_str": "1040500168393678848",
+			"text": "Grimpact: What is it and why we needs to talk about it. New blog by @GemmaDerrick @HEGrimpact https://t.co/QFhyDgT3fS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GemmaDerrick",
+						"name": "Gemma E Derrick",
+						"id": 475031908,
+						"id_str": "475031908",
+						"indices": [
+							68,
+							81
+						]
+					},
+					{
+						"screen_name": "HEGrimpact",
+						"name": "HEGrimpact",
+						"id": 842710764309876700,
+						"id_str": "842710764309876736",
+						"indices": [
+							82,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QFhyDgT3fS",
+						"expanded_url": "https://www.fasttrackimpact.com/single-post/2018/09/13/Grimpact-What-is-it-and-why-research-needs-to-talk-about-it",
+						"display_url": "fasttrackimpact.com/single-post/20…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 340212738,
+				"id_str": "340212738",
+				"name": "Fast Track Impact",
+				"screen_name": "fasttrackimpact",
+				"location": "UK",
+				"description": "Fast track your research impact. Improve your productivity. Tips & training for researchers by researchers. Tweets by @profmarkreed",
+				"url": "https://t.co/Lp7BvhhhdV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Lp7BvhhhdV",
+								"expanded_url": "http://www.fasttrackimpact.com",
+								"display_url": "fasttrackimpact.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44842,
+				"friends_count": 49305,
+				"listed_count": 435,
+				"created_at": "Fri Jul 22 09:50:17 +0000 2011",
+				"favourites_count": 2616,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4376,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/662010516869640192/MeJWmaN5_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/662010516869640192/MeJWmaN5_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/340212738/1479070222",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "4D4A33",
+				"profile_sidebar_fill_color": "262626",
+				"profile_text_color": "696545",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0af014accd6f6e99",
+				"url": "https://api.twitter.com/1.1/geo/id/0af014accd6f6e99.json",
+				"place_type": "admin",
+				"name": "Scotland",
+				"full_name": "Scotland, United Kingdom",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-7.66085699743185,
+								54.6336309570711
+							],
+							[
+								-0.740025000483186,
+								54.6336309570711
+							],
+							[
+								-0.740025000483186,
+								60.8452769694519
+							],
+							[
+								-7.66085699743185,
+								60.8452769694519
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 13 14:13:57 +0000 2018",
 		"id": 1040242179694886900,
 		"id_str": "1040242179694886912",
