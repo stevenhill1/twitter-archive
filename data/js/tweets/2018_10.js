@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 05 17:54:26 +0000 2018",
+		"id": 1048270202792824800,
+		"id_str": "1048270202792824832",
+		"text": "RT @ResEngland: Today's the official opening of @LivUni's new Materials Innovation Factory! The cutting-edge materials science facility was…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "LivUni",
+					"name": "University of Liverpool",
+					"id": 18903739,
+					"id_str": "18903739",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4302,
+			"friends_count": 970,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5756,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 05 11:30:00 +0000 2018",
+			"id": 1048173456515379200,
+			"id_str": "1048173456515379200",
+			"text": "Today's the official opening of @LivUni's new Materials Innovation Factory! The cutting-edge materials science faci… https://t.co/r0lHmoKt39",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LivUni",
+						"name": "University of Liverpool",
+						"id": 18903739,
+						"id_str": "18903739",
+						"indices": [
+							32,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/r0lHmoKt39",
+						"expanded_url": "https://twitter.com/i/web/status/1048173456515379200",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 823853384138637300,
+				"id_str": "823853384138637313",
+				"name": "Research England",
+				"screen_name": "ResEngland",
+				"location": "Bristol",
+				"description": "Research England creates and sustains the conditions for a healthy and dynamic research and knowledge exchange system in English universities. Part of UKRI.",
+				"url": "https://t.co/BI90gIR8Ar",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BI90gIR8Ar",
+								"expanded_url": "https://re.ukri.org/",
+								"display_url": "re.ukri.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4673,
+				"friends_count": 332,
+				"listed_count": 40,
+				"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+				"favourites_count": 500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 619,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1006515717888512000/KnXg55bl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006515717888512000/KnXg55bl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1528811084",
+				"profile_link_color": "ACBD37",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Oct 05 17:52:09 +0000 2018",
+		"id": 1048269626797379600,
+		"id_str": "1048269626797379585",
+		"text": "RT @louiseaevans2: Kicking off #friday @MIF_UoL. Very impressive @LivUni @LivUni @ResEngland #UKRPIF https://t.co/hd48CxNUcS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "friday",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"text": "UKRPIF",
+					"indices": [
+						93,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "louiseaevans2",
+					"name": "Louise Evans",
+					"id": 3306837785,
+					"id_str": "3306837785",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "MIF_UoL",
+					"name": "MIF",
+					"id": 3325120912,
+					"id_str": "3325120912",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"screen_name": "LivUni",
+					"name": "University of Liverpool",
+					"id": 18903739,
+					"id_str": "18903739",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"screen_name": "LivUni",
+					"name": "University of Liverpool",
+					"id": 18903739,
+					"id_str": "18903739",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						81,
+						92
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1048166824842547200,
+					"id_str": "1048166824842547206",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DovWLHwW0AYVPPU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DovWLHwW0AYVPPU.jpg",
+					"url": "https://t.co/hd48CxNUcS",
+					"display_url": "pic.twitter.com/hd48CxNUcS",
+					"expanded_url": "https://twitter.com/louiseaevans2/status/1048166855020630017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1048166855020630000,
+					"source_status_id_str": "1048166855020630017",
+					"source_user_id": 3306837785,
+					"source_user_id_str": "3306837785"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1048166824842547200,
+					"id_str": "1048166824842547206",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DovWLHwW0AYVPPU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DovWLHwW0AYVPPU.jpg",
+					"url": "https://t.co/hd48CxNUcS",
+					"display_url": "pic.twitter.com/hd48CxNUcS",
+					"expanded_url": "https://twitter.com/louiseaevans2/status/1048166855020630017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1048166855020630000,
+					"source_status_id_str": "1048166855020630017",
+					"source_user_id": 3306837785,
+					"source_user_id_str": "3306837785"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4302,
+			"friends_count": 970,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5756,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 05 11:03:46 +0000 2018",
+			"id": 1048166855020630000,
+			"id_str": "1048166855020630017",
+			"text": "Kicking off #friday @MIF_UoL. Very impressive @LivUni @LivUni @ResEngland #UKRPIF https://t.co/hd48CxNUcS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "friday",
+						"indices": [
+							12,
+							19
+						]
+					},
+					{
+						"text": "UKRPIF",
+						"indices": [
+							74,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MIF_UoL",
+						"name": "MIF",
+						"id": 3325120912,
+						"id_str": "3325120912",
+						"indices": [
+							20,
+							28
+						]
+					},
+					{
+						"screen_name": "LivUni",
+						"name": "University of Liverpool",
+						"id": 18903739,
+						"id_str": "18903739",
+						"indices": [
+							46,
+							53
+						]
+					},
+					{
+						"screen_name": "LivUni",
+						"name": "University of Liverpool",
+						"id": 18903739,
+						"id_str": "18903739",
+						"indices": [
+							54,
+							61
+						]
+					},
+					{
+						"screen_name": "ResEngland",
+						"name": "Research England",
+						"id": 823853384138637300,
+						"id_str": "823853384138637313",
+						"indices": [
+							62,
+							73
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1048166824842547200,
+						"id_str": "1048166824842547206",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DovWLHwW0AYVPPU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DovWLHwW0AYVPPU.jpg",
+						"url": "https://t.co/hd48CxNUcS",
+						"display_url": "pic.twitter.com/hd48CxNUcS",
+						"expanded_url": "https://twitter.com/louiseaevans2/status/1048166855020630017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1048166824842547200,
+						"id_str": "1048166824842547206",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DovWLHwW0AYVPPU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DovWLHwW0AYVPPU.jpg",
+						"url": "https://t.co/hd48CxNUcS",
+						"display_url": "pic.twitter.com/hd48CxNUcS",
+						"expanded_url": "https://twitter.com/louiseaevans2/status/1048166855020630017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3306837785,
+				"id_str": "3306837785",
+				"name": "Louise Evans",
+				"screen_name": "louiseaevans2",
+				"location": "Bristol",
+				"description": "Senior Policy Adviser, @ResEngland @UKRI_News (views my own)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 420,
+				"friends_count": 500,
+				"listed_count": 13,
+				"created_at": "Wed Jun 03 07:52:55 +0000 2015",
+				"favourites_count": 1197,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 735,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/606008535336554496/91eBM7ZJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/606008535336554496/91eBM7ZJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3306837785/1463001034",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Oct 04 09:46:03 +0000 2018",
 		"id": 1047784907228045300,
 		"id_str": "1047784907228045313",
