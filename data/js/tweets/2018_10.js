@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Wed Oct 31 09:27:53 +0000 2018",
+		"id": 1057564806176297000,
+		"id_str": "1057564806176296961",
+		"full_text": "We want your views on the shape of a future #concordat for supporting the careers of researchers. https://t.co/gwqKzzbitO. We're especially looking for views of #postdoc and #ecr Closing date 7 January @vitae @UKRI_News",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "concordat",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"text": "postdoc",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"text": "ecr",
+					"indices": [
+						174,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vitae",
+					"name": "Vitae",
+					"id": 11545002,
+					"id_str": "11545002",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"screen_name": "UKRI_News",
+					"name": "UKRI",
+					"id": 732141019114930200,
+					"id_str": "732141019114930176",
+					"indices": [
+						209,
+						219
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gwqKzzbitO",
+					"expanded_url": "https://bit.ly/2SwuWs8",
+					"display_url": "bit.ly/2SwuWs8",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 275506690,
+			"id_str": "275506690",
+			"name": "David McAllister",
+			"screen_name": "mcallister_d",
+			"location": "Swindon, United Kingdom",
+			"description": "Associate Director - Research & Innovation Talent for BBSRC within UK Research and Innovation (UKRI). Views are my own.",
+			"url": "https://t.co/YYdni8GhBv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YYdni8GhBv",
+							"expanded_url": "http://bbsrc.ukri.org",
+							"display_url": "bbsrc.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 462,
+			"friends_count": 190,
+			"listed_count": 10,
+			"created_at": "Fri Apr 01 12:18:55 +0000 2011",
+			"favourites_count": 338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 831,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1867077015/DMcA_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1867077015/DMcA_normal.JPG",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We want your views on the shape of a future #concordat for supporting the careers of researchers. https://t.co/gwqKzzbitO. We're especially looking for views of #postdoc and #ecr Closing date 7 January @vitae @UKRI_News"
+	},
+	{
+		"created_at": "Wed Oct 31 09:36:23 +0000 2018",
+		"id": 1057566947318087700,
+		"id_str": "1057566947318087681",
+		"full_text": "SO good to see tackling plastic pollution being prioritised in the UK. 2 startups based at @imperialcollege's White City Incubator - in #UKRPIF funded I-Hub - awarded grants thru the @InnovateUK 'Plastics innovation towards zero waste' comp https://t.co/ZFmXWqw2mS @ResEngland",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UKRPIF",
+					"indices": [
+						136,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imperialcollege",
+					"name": "Imperial College",
+					"id": 15353955,
+					"id_str": "15353955",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"screen_name": "innovateuk",
+					"name": "Innovate UK",
+					"id": 66998204,
+					"id_str": "66998204",
+					"indices": [
+						183,
+						194
+					]
+				},
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						265,
+						276
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZFmXWqw2mS",
+					"expanded_url": "https://www.imperial.ac.uk/news/188772/imperial-startups-government-funding-plastic-waste/",
+					"display_url": "imperial.ac.uk/news/188772/im…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1035087794425798700,
+			"id_str": "1035087794425798656",
+			"name": "Adam Killey",
+			"screen_name": "adam_killey",
+			"location": "Bristol, England",
+			"description": "Policy Advisor at Research England into all things UKRPIF. Opinions are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38,
+			"friends_count": 259,
+			"listed_count": 0,
+			"created_at": "Thu Aug 30 08:52:15 +0000 2018",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053176480337944576/gsH6VQI9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053176480337944576/gsH6VQI9_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SO good to see tackling plastic pollution being prioritised in the UK. 2 startups based at @imperialcollege's White City Incubator - in #UKRPIF funded I-Hub - awarded grants thru the @InnovateUK 'Plastics innovation towards zero waste' comp https://t.co/ZFmXWqw2mS @ResEngland"
+	},
+	{
+		"created_at": "Wed Oct 31 21:20:59 +0000 2018",
+		"id": 1057744264090787800,
+		"id_str": "1057744264090787840",
+		"full_text": "I agree. Fascinating and fun 2 days. Looking forward to following @Akatemia_STN on their impact evaluation journey in the future https://t.co/DkWjmvZRZL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Akatemia_STN",
+					"name": "Strateginen tutkimus",
+					"id": 4060455820,
+					"id_str": "4060455820",
+					"indices": [
+						66,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DkWjmvZRZL",
+					"expanded_url": "https://twitter.com/GemmaDerrick/status/1057713503312711681",
+					"display_url": "twitter.com/GemmaDerrick/s…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4340,
+			"friends_count": 970,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5763,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1057713503312711700,
+		"quoted_status_id_str": "1057713503312711681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DkWjmvZRZL",
+			"expanded": "https://twitter.com/GemmaDerrick/status/1057713503312711681",
+			"display": "twitter.com/GemmaDerrick/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 31 19:18:45 +0000 2018",
+			"id": 1057713503312711700,
+			"id_str": "1057713503312711681",
+			"full_text": "An absolute pleasure to have spent the last 2 days at the Academy of Finland @Akatemia_STN talking peer review and evaluating impact alongside @stevenhill. Some interesting approaches happening with #strateginentutkimus. Can't wait to see how it goes!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "strateginentutkimus",
+						"indices": [
+							199,
+							219
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Akatemia_STN",
+						"name": "Strateginen tutkimus",
+						"id": 4060455820,
+						"id_str": "4060455820",
+						"indices": [
+							77,
+							90
+						]
+					},
+					{
+						"screen_name": "stevenhill",
+						"name": "Steven Hill",
+						"id": 7731752,
+						"id_str": "7731752",
+						"indices": [
+							143,
+							154
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 475031908,
+				"id_str": "475031908",
+				"name": "Gemma E Derrick",
+				"screen_name": "GemmaDerrick",
+				"location": "London, United Kingdom",
+				"description": "Senior Lecturer & co-Director Centre for Higher Education Research and Evaluation at Lancaster University. Focused on peer review #evaluatorseye #HEGrImpact",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 873,
+				"friends_count": 486,
+				"listed_count": 38,
+				"created_at": "Thu Jan 26 16:21:26 +0000 2012",
+				"favourites_count": 1310,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5039,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/842687428666277889/--hGG7xU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/842687428666277889/--hGG7xU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/475031908/1397560981",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I agree. Fascinating and fun 2 days. Looking forward to following @Akatemia_STN on their impact evaluation journey in the future https://t.co/DkWjmvZRZL"
+	},
+	{
 		"created_at": "Mon Oct 29 11:52:47 +0000 2018",
 		"id": 1056876497003298800,
 		"id_str": "1056876497003298816",
