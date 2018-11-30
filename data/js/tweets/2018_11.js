@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 29 22:25:49 +0000 2018",
+		"id": 1068269827515695100,
+		"id_str": "1068269827515695105",
+		"full_text": "@Kath_Math @Vickie_Curtis @imrankhan @BritSciAssoc I agree, not sure of any data source that allows an estimate of the total effort into public engagement across the HE sector",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kath_Math",
+					"name": "Katherine Mathieson",
+					"id": 202048021,
+					"id_str": "202048021",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Vickie_Curtis",
+					"name": "Dr Vickie Curtis",
+					"id": 21438904,
+					"id_str": "21438904",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "imrankhan",
+					"name": "Imran Khan",
+					"id": 14973943,
+					"id_str": "14973943",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "BritSciAssoc",
+					"name": "British Science Association",
+					"id": 442847698,
+					"id_str": "442847698",
+					"indices": [
+						37,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1068268658110152700,
+		"in_reply_to_status_id_str": "1068268658110152710",
+		"in_reply_to_user_id": 202048021,
+		"in_reply_to_user_id_str": "202048021",
+		"in_reply_to_screen_name": "Kath_Math",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4383,
+			"friends_count": 972,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5763,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Kath_Math @Vickie_Curtis @imrankhan @BritSciAssoc I agree, not sure of any data source that allows an estimate of the total effort into public engagement across the HE sector"
+	},
+	{
 		"created_at": "Fri Nov 09 08:33:50 +0000 2018",
 		"id": 1060812696877219800,
 		"id_str": "1060812696877219841",
