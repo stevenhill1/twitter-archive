@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 19 17:05:47 +0000 2018",
+		"id": 1075437048901890000,
+		"id_str": "1075437048901890050",
+		"full_text": "Hope this happens. This all looks very relevant to me and my team, and we can’t access https://t.co/8eybPE5gUo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8eybPE5gUo",
+					"expanded_url": "https://twitter.com/Protohedgehog/status/1075380922726432768",
+					"display_url": "twitter.com/Protohedgehog/…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4407,
+			"friends_count": 976,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5771,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075380922726432800,
+		"quoted_status_id_str": "1075380922726432768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8eybPE5gUo",
+			"expanded": "https://twitter.com/Protohedgehog/status/1075380922726432768",
+			"display": "twitter.com/Protohedgehog/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 19 13:22:46 +0000 2018",
+			"id": 1075380922726432800,
+			"id_str": "1075380922726432768",
+			"full_text": "@Nightingale_P For those which aren't OA, can I suggest the authors deposit the accepted manuscripts in eg @socarxiv for this? They should be able to without embargo. Would be great, as this looks like important work! @familyunequal",
+			"truncated": false,
+			"display_text_range": [
+				15,
+				232
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Nightingale_P",
+						"name": "Paul Nightingale",
+						"id": 416191847,
+						"id_str": "416191847",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "socarxiv",
+						"name": "SocArXiv",
+						"id": 726552444625408000,
+						"id_str": "726552444625408000",
+						"indices": [
+							107,
+							116
+						]
+					},
+					{
+						"screen_name": "familyunequal",
+						"name": "Philip N Cohen",
+						"id": 38047391,
+						"id_str": "38047391",
+						"indices": [
+							218,
+							232
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1074983950047739900,
+			"in_reply_to_status_id_str": "1074983950047739904",
+			"in_reply_to_user_id": 416191847,
+			"in_reply_to_user_id_str": "416191847",
+			"in_reply_to_screen_name": "Nightingale_P",
+			"user": {
+				"id": 352650591,
+				"id_str": "352650591",
+				"name": "Jon Tennant",
+				"screen_name": "Protohedgehog",
+				"location": "Jurassic Park",
+				"description": "Nomadic Palaeontologist. Rogue Open Scientist. I do @paleorXiv, @OpenScienceMOOC, @EGU_GC & @PLOSpaleo. Tweets snarky, irresponsible and my own. Do epic shit.",
+				"url": "https://t.co/UVoGrU2FG1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UVoGrU2FG1",
+								"expanded_url": "http://fossilsandshit.com/open-scholarship/",
+								"display_url": "fossilsandshit.com/open-scholarsh…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15645,
+				"friends_count": 1374,
+				"listed_count": 867,
+				"created_at": "Wed Aug 10 22:31:37 +0000 2011",
+				"favourites_count": 90268,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 102554,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983966406873092096/fcMvB7d1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983966406873092096/fcMvB7d1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/352650591/1543495139",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hope this happens. This all looks very relevant to me and my team, and we can’t access https://t.co/8eybPE5gUo"
+	},
+	{
+		"created_at": "Tue Dec 18 11:41:18 +0000 2018",
+		"id": 1074992999849963500,
+		"id_str": "1074992999849963520",
+		"full_text": "Conclusion was (I think) that open science does not equal public engagement. More to being a scientist than unearthing data and more to public engagement than giving people access to science. Mediation and interpretation involved in both. Maybe time to reconsider purposes?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1074990189481783300,
+		"in_reply_to_status_id_str": "1074990189481783301",
+		"in_reply_to_user_id": 23786370,
+		"in_reply_to_user_id_str": "23786370",
+		"in_reply_to_screen_name": "melaniesmallman",
+		"user": {
+			"id": 23786370,
+			"id_str": "23786370",
+			"name": "Dr Melanie Smallman",
+			"screen_name": "melaniesmallman",
+			"location": "London, England",
+			"description": "Lecturer in @stsucl & Co-Chair @serauk. Interested in role of S&T in growing inequality, RRI, public attitudes to sci, sci policy and environmental politics.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1216,
+			"friends_count": 388,
+			"listed_count": 44,
+			"created_at": "Wed Mar 11 16:29:27 +0000 2009",
+			"favourites_count": 779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3634,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/654338540428480512/Sd1uNkh8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/654338540428480512/Sd1uNkh8_normal.jpg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Conclusion was (I think) that open science does not equal public engagement. More to being a scientist than unearthing data and more to public engagement than giving people access to science. Mediation and interpretation involved in both. Maybe time to reconsider purposes?"
+	},
+	{
 		"created_at": "Tue Dec 18 11:41:18 +0000 2018",
 		"id": 1074992999849963500,
 		"id_str": "1074992999849963520",
