@@ -54,6 +54,335 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 1210,
+			"friends_count": 388,
+			"listed_count": 44,
+			"created_at": "Wed Mar 11 16:29:27 +0000 2009",
+			"favourites_count": 784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3644,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/654338540428480512/Sd1uNkh8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/654338540428480512/Sd1uNkh8_normal.jpg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A nice summary of our session on Open Science and Public Engagement at #sipcardiff earlier this week: https://t.co/TzLCpNBT7H"
+	},
+	{
+		"created_at": "Sat Dec 22 11:21:56 +0000 2018",
+		"id": 1076437677006880800,
+		"id_str": "1076437677006880768",
+		"full_text": "Not a fan of twitter threads, but this is worth reading and reflecting on #impact #REF2021 https://t.co/yAfySAACMB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "impact",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "REF2021",
+					"indices": [
+						82,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAfySAACMB",
+					"expanded_url": "https://twitter.com/c_d_hewson/status/1075746738974154752",
+					"display_url": "twitter.com/c_d_hewson/sta…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4417,
+			"friends_count": 977,
+			"listed_count": 181,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5773,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075746738974154800,
+		"quoted_status_id_str": "1075746738974154752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yAfySAACMB",
+			"expanded": "https://twitter.com/c_d_hewson/status/1075746738974154752",
+			"display": "twitter.com/c_d_hewson/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 20 13:36:23 +0000 2018",
+			"id": 1075746738974154800,
+			"id_str": "1075746738974154752",
+			"full_text": "As the year draws to a close, and we ponder that there are but 709 days until #REF2021 submission, 10 'observations' on the UK HE research impact agenda in 2018 [Thread]",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "REF2021",
+						"indices": [
+							78,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23608261,
+				"id_str": "23608261",
+				"name": "Chris Hewson",
+				"screen_name": "c_d_hewson",
+				"location": "Huddersfield, England",
+				"description": "Faculty Research Impact Manager (Social Sciences) @UniOfYork, #htafc fan, GIF connoisseur, @Quincy_Shih_Tzu owner, oenophile. Views co-produced with the abyss.",
+				"url": "https://t.co/Ecls3JfSAG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ecls3JfSAG",
+								"expanded_url": "https://uk.linkedin.com/pub/chris-hewson/1b/581/1bb",
+								"display_url": "uk.linkedin.com/pub/chris-hews…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2044,
+				"friends_count": 1044,
+				"listed_count": 61,
+				"created_at": "Tue Mar 10 15:57:36 +0000 2009",
+				"favourites_count": 6743,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14778,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897534361976930304/-ne1npDz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897534361976930304/-ne1npDz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23608261/1538861406",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not a fan of twitter threads, but this is worth reading and reflecting on #impact #REF2021 https://t.co/yAfySAACMB"
+	},
+	{
+		"created_at": "Fri Dec 21 15:47:27 +0000 2018",
+		"id": 1076142112079519700,
+		"id_str": "1076142112079519745",
+		"full_text": "A nice summary of our session on Open Science and Public Engagement at #sipcardiff earlier this week: https://t.co/TzLCpNBT7H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sipcardiff",
+					"indices": [
+						71,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TzLCpNBT7H",
+					"expanded_url": "https://scholarlycommunications.jiscinvolve.org/wp/2018/12/19/public-engagement-and-open-science/",
+					"display_url": "…holarlycommunications.jiscinvolve.org/wp/2018/12/19/…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23786370,
+			"id_str": "23786370",
+			"name": "Dr Melanie Smallman",
+			"screen_name": "melaniesmallman",
+			"location": "London, England",
+			"description": "Lecturer in @stsucl & Co-Chair @serauk. Interested in role of S&T in growing inequality, RRI, public attitudes to sci, sci policy and environmental politics.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 1211,
 			"friends_count": 389,
 			"listed_count": 44,
