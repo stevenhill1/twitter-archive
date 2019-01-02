@@ -69,6 +69,122 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 18259,
+			"friends_count": 1906,
+			"listed_count": 690,
+			"created_at": "Wed May 20 13:34:28 +0000 2009",
+			"favourites_count": 6635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 61484,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063749995625619457/D2c9SbEB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063749995625619457/D2c9SbEB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41358714/1499377913",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Endings and beginnings. https://t.co/9Gbe6zbI5W"
+	},
+	{
+		"created_at": "Sat Dec 29 17:43:37 +0000 2018",
+		"id": 1079070449554899000,
+		"id_str": "1079070449554898944",
+		"full_text": "Endings and beginnings. https://t.co/9Gbe6zbI5W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Gbe6zbI5W",
+					"expanded_url": "http://occamstypewriter.org/scurry/2018/12/29/endings-and-beginnings/",
+					"display_url": "occamstypewriter.org/scurry/2018/12…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41358714,
+			"id_str": "41358714",
+			"name": "Stephen Curry",
+			"screen_name": "Stephen_Curry",
+			"location": "London (various)",
+			"description": "Structural biologist - dazzled by X-rays, cares about science. Guardian Science Blogs (https://t.co/3Kh1tPIKKR) and Occam's Typewriter.",
+			"url": "https://t.co/p8Hex9Imjl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p8Hex9Imjl",
+							"expanded_url": "http://occamstypewriter.org/scurry/",
+							"display_url": "occamstypewriter.org/scurry/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3Kh1tPIKKR",
+							"expanded_url": "http://www.guardian.co.uk/science/occams-corner",
+							"display_url": "guardian.co.uk/science/occams…",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 18264,
 			"friends_count": 1905,
 			"listed_count": 689,
