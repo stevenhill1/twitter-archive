@@ -1,0 +1,316 @@
+Grailbird.data.tweets_2019_05 = 
+[
+	{
+		"created_at": "Mon May 20 11:44:47 +0000 2019",
+		"id": 1130433523981201400,
+		"id_str": "1130439219850219521",
+		"full_text": "Have you ever wondered how the #KnowledgeExchange Framework impact element differs from the Research Excellence Framework (@REF_2021)? In this blog our Head of Research, @stevenhill and Head of Data &amp; Evidence, @hamish_mcalpine discuss the similarities and differences​. https://t.co/s7g0FLO5tu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KnowledgeExchange",
+					"indices": [
+						31,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "REF_2021",
+					"name": "REF2021",
+					"id": 822173125639110700,
+					"id_str": "822173125639110657",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						170,
+						181
+					]
+				},
+				{
+					"screen_name": "hamish_mcalpine",
+					"name": "Hamish McAlpine",
+					"id": 274454952,
+					"id_str": "274454952",
+					"indices": [
+						215,
+						231
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s7g0FLO5tu",
+					"expanded_url": "https://twitter.com/LSEImpactBlog/status/1130421400215400448",
+					"display_url": "twitter.com/LSEImpactBlog/…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. Part of @UKRI_News",
+			"url": "https://t.co/BI90gIR8Ar",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BI90gIR8Ar",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6802,
+			"friends_count": 352,
+			"listed_count": 81,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1003,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006515717888512000/KnXg55bl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006515717888512000/KnXg55bl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1553858043",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130421400215400400,
+		"quoted_status_id_str": "1130421400215400448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/s7g0FLO5tu",
+			"expanded": "https://twitter.com/LSEImpactBlog/status/1130421400215400448",
+			"display": "twitter.com/LSEImpactBlog/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 20 10:33:58 +0000 2019",
+			"id": 1130421400215400400,
+			"id_str": "1130421400215400448",
+			"full_text": "Knowledge exchange or research impact - what is the difference between REF and KEF? @stevenhill @hamish_mcalpine \n\nhttps://t.co/M9WIr2lA7p #KEF #REF2021 @ResEngland @UKRI_News",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KEF",
+						"indices": [
+							139,
+							143
+						]
+					},
+					{
+						"text": "REF2021",
+						"indices": [
+							144,
+							152
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stevenhill",
+						"name": "Steven Hill",
+						"id": 7731752,
+						"id_str": "7731752",
+						"indices": [
+							84,
+							95
+						]
+					},
+					{
+						"screen_name": "hamish_mcalpine",
+						"name": "Hamish McAlpine",
+						"id": 274454952,
+						"id_str": "274454952",
+						"indices": [
+							96,
+							112
+						]
+					},
+					{
+						"screen_name": "ResEngland",
+						"name": "Research England",
+						"id": 823853384138637300,
+						"id_str": "823853384138637313",
+						"indices": [
+							153,
+							164
+						]
+					},
+					{
+						"screen_name": "UKRI_News",
+						"name": "UKRI",
+						"id": 732141019114930200,
+						"id_str": "732141019114930176",
+						"indices": [
+							165,
+							175
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/M9WIr2lA7p",
+						"expanded_url": "https://wp.me/p4m9em-9fg",
+						"display_url": "wp.me/p4m9em-9fg",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 273935884,
+				"id_str": "273935884",
+				"name": "LSE Impact Blog",
+				"screen_name": "LSEImpactBlog",
+				"location": "London",
+				"description": "A forum for those interested in increasing the impact of academic research on policy, society and business. Views are not those of the LSE.",
+				"url": "http://t.co/j2QGFYPVRs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/j2QGFYPVRs",
+								"expanded_url": "http://blogs.lse.ac.uk/impactofsocialsciences/",
+								"display_url": "blogs.lse.ac.uk/impactofsocial…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50695,
+				"friends_count": 4735,
+				"listed_count": 1761,
+				"created_at": "Tue Mar 29 12:17:04 +0000 2011",
+				"favourites_count": 2077,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30533,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908703729813254145/hfgw7Shs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908703729813254145/hfgw7Shs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/273935884/1465570717",
+				"profile_link_color": "9C6A5E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you ever wondered how the #KnowledgeExchange Framework impact element differs from the Research Excellence Framework (@REF_2021)? In this blog our Head of Research, @stevenhill and Head of Data &amp; Evidence, @hamish_mcalpine discuss the similarities and differences​. https://t.co/s7g0FLO5tu"
+	}
+]
