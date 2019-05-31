@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 08:19:37 +0000 2019",
+		"id": 1133641764844298200,
+		"id_str": "1134011468733702144",
+		"full_text": "@IvvetM I heart this (and you and @AmberFirefly) so much!",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IvvetM",
+					"name": "Ivvet Abdullah-Modinou",
+					"id": 53360996,
+					"id_str": "53360996",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "AmberFirefly",
+					"name": "Amber Griffiths",
+					"id": 304593450,
+					"id_str": "304593450",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1133636411104669700,
+		"in_reply_to_status_id_str": "1133636411104669696",
+		"in_reply_to_user_id": 53360996,
+		"in_reply_to_user_id_str": "53360996",
+		"in_reply_to_screen_name": "IvvetM",
+		"user": {
+			"id": 57076191,
+			"id_str": "57076191",
+			"name": "Dr Tori Herridge",
+			"screen_name": "ToriHerridge",
+			"location": "London",
+			"description": "Evolutionary biologist & dwarf elephant expert, proud mama of @trowelblazers, EiC @OpenQuaternary. 'Passionate to the point of parody'--The Times. Expect typos.",
+			"url": "https://t.co/T4VQODS88a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T4VQODS88a",
+							"expanded_url": "http://toriherridge.com",
+							"display_url": "toriherridge.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6940,
+			"friends_count": 1483,
+			"listed_count": 241,
+			"created_at": "Wed Jul 15 17:21:42 +0000 2009",
+			"favourites_count": 9609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/533848438988099585/n4wsZJnh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/533848438988099585/n4wsZJnh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57076191/1432192254",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@IvvetM I heart this (and you and @AmberFirefly) so much!"
+	},
+	{
 		"created_at": "Fri May 24 17:12:09 +0000 2019",
 		"id": 1131971155609497600,
 		"id_str": "1131971155609497601",
