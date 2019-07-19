@@ -1,6 +1,116 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 18:35:18 +0000 2019",
+		"id": 1151805365362876400,
+		"id_str": "1151923415311368193",
+		"full_text": "Awards given to a non 'Russell Group' institution.  Wellcome funding has always been competitive but I don't think it answers the challenges of equality and diversity in UK HE to make it even more elitist than it already is .  What do other  #medhums #histmed people think? 3/3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "medhums",
+					"indices": [
+						242,
+						250
+					]
+				},
+				{
+					"text": "histmed",
+					"indices": [
+						251,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1151805364209426400,
+		"in_reply_to_status_id_str": "1151805364209426432",
+		"in_reply_to_user_id": 36965543,
+		"in_reply_to_user_id_str": "36965543",
+		"in_reply_to_screen_name": "MedHistoryMan",
+		"user": {
+			"id": 36965543,
+			"id_str": "36965543",
+			"name": "Dr Michael Brown 🇪🇺",
+			"screen_name": "MedHistoryMan",
+			"location": "London and Bucks",
+			"description": "Reader in History @RoehamptonUni; Wellcome Trust Investigator @SurgicalEmotion; keen cyclist; Leyton Orient and Baltimore Ravens fan; happily married to @JBHist",
+			"url": "https://t.co/7qWeHdC8Ke",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7qWeHdC8Ke",
+							"expanded_url": "https://tinyurl.com/ybxeq9h6",
+							"display_url": "tinyurl.com/ybxeq9h6",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1488,
+			"friends_count": 1024,
+			"listed_count": 33,
+			"created_at": "Fri May 01 15:25:45 +0000 2009",
+			"favourites_count": 6636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057218356829413376/AFSXvaKR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057218356829413376/AFSXvaKR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36965543/1455988391",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Awards given to a non 'Russell Group' institution.  Wellcome funding has always been competitive but I don't think it answers the challenges of equality and diversity in UK HE to make it even more elitist than it already is .  What do other  #medhums #histmed people think? 3/3"
+	},
+	{
 		"created_at": "Wed Jul 10 16:36:26 +0000 2019",
 		"id": 1148992458862354400,
 		"id_str": "1148994399986245634",
@@ -1945,7 +2055,7 @@ Grailbird.data.tweets_2019_07 =
 			"user_mentions": [
 				{
 					"screen_name": "BristolUni",
-					"name": "Bristol University 🏳️‍🌈",
+					"name": "Bristol University 🏳️🌈",
 					"id": 24723695,
 					"id_str": "24723695",
 					"indices": [
@@ -3407,7 +3517,7 @@ Grailbird.data.tweets_2019_07 =
 		"created_at": "Wed Jul 10 15:16:46 +0000 2019",
 		"id": 1148973975881551900,
 		"id_str": "1148974347836624896",
-		"full_text": "We have been awarded £100 MILLION by @ResEngland, our partners and philanthropists!\n\nTo research and develop cutting-edge tech,\n\nwhich will benefit society and change the world,\n\nat the new Bristol Digital Futures Institute.\n\n😮👩‍💻🌍\n\n #TempleQuarter #BuiltWithUKRPIF https://t.co/wXOwDWsgis",
+		"full_text": "We have been awarded £100 MILLION by @ResEngland, our partners and philanthropists!\n\nTo research and develop cutting-edge tech,\n\nwhich will benefit society and change the world,\n\nat the new Bristol Digital Futures Institute.\n\n😮👩💻🌍\n\n #TempleQuarter #BuiltWithUKRPIF https://t.co/wXOwDWsgis",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -3571,10 +3681,10 @@ Grailbird.data.tweets_2019_07 =
 		"user": {
 			"id": 24723695,
 			"id_str": "24723695",
-			"name": "Bristol University 🏳️‍🌈",
+			"name": "Bristol University 🏳️🌈",
 			"screen_name": "BristolUni",
 			"location": "Bristol, England",
-			"description": "Top 10 UK Uni📚 Leading research 🔬 World-class teaching 👩‍🎓 Vibrant city 🙌 \n\nAccount not regularly monitored, use website for contact.",
+			"description": "Top 10 UK Uni📚 Leading research 🔬 World-class teaching 👩🎓 Vibrant city 🙌 \n\nAccount not regularly monitored, use website for contact.",
 			"url": null,
 			"entities": {
 				"description": {
@@ -3627,7 +3737,7 @@ Grailbird.data.tweets_2019_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "We have been awarded £100 MILLION by @ResEngland, our partners and philanthropists!\n\nTo research and develop cutting-edge tech,\n\nwhich will benefit society and change the world,\n\nat the new Bristol Digital Futures Institute.\n\n😮👩‍💻🌍\n\n #TempleQuarter #BuiltWithUKRPIF https://t.co/wXOwDWsgis"
+		"text": "We have been awarded £100 MILLION by @ResEngland, our partners and philanthropists!\n\nTo research and develop cutting-edge tech,\n\nwhich will benefit society and change the world,\n\nat the new Bristol Digital Futures Institute.\n\n😮👩💻🌍\n\n #TempleQuarter #BuiltWithUKRPIF https://t.co/wXOwDWsgis"
 	},
 	{
 		"created_at": "Wed Jul 10 15:16:18 +0000 2019",
