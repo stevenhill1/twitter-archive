@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 25 20:12:00 +0000 2019",
+		"id": 1154484465957310500,
+		"id_str": "1154484465957310466",
+		"full_text": "Insightful piece by @mikefsway on the benefits of open research and how to maximise them https://t.co/WQsDkjr79U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikefsway",
+					"name": "Mike Fell",
+					"id": 28090773,
+					"id_str": "28090773",
+					"indices": [
+						20,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WQsDkjr79U",
+					"expanded_url": "https://twitter.com/mikefsway/status/1154343737256005633",
+					"display_url": "twitter.com/mikefsway/stat…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4610,
+			"friends_count": 978,
+			"listed_count": 180,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154343737256005600,
+		"quoted_status_id_str": "1154343737256005633",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WQsDkjr79U",
+			"expanded": "https://twitter.com/mikefsway/status/1154343737256005633",
+			"display": "twitter.com/mikefsway/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 25 10:52:48 +0000 2019",
+			"id": 1154343737256005600,
+			"id_str": "1154343737256005633",
+			"full_text": "Here is a post I wrote for @LSEImpactBlog based on my work on economic impacts of open science #openaccess #openscience  https://t.co/1UMAtrjoRO https://t.co/vKEVV7TuF7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "openaccess",
+						"indices": [
+							95,
+							106
+						]
+					},
+					{
+						"text": "openscience",
+						"indices": [
+							107,
+							119
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LSEImpactBlog",
+						"name": "LSE Impact Blog",
+						"id": 273935884,
+						"id_str": "273935884",
+						"indices": [
+							27,
+							41
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1UMAtrjoRO",
+						"expanded_url": "https://blogs.lse.ac.uk/impactofsocialsciences/2019/07/25/significant-economic-benefits-enhancing-the-impact-of-open-science-for-knowledge-users/",
+						"display_url": "blogs.lse.ac.uk/impactofsocial…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1154343732755488800,
+						"id_str": "1154343732755488775",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EAUNgkuW4AcSlqB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAUNgkuW4AcSlqB.jpg",
+						"url": "https://t.co/vKEVV7TuF7",
+						"display_url": "pic.twitter.com/vKEVV7TuF7",
+						"expanded_url": "https://twitter.com/mikefsway/status/1154343737256005633/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1249,
+								"h": 721,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 393,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 693,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1154343732755488800,
+						"id_str": "1154343732755488775",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EAUNgkuW4AcSlqB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAUNgkuW4AcSlqB.jpg",
+						"url": "https://t.co/vKEVV7TuF7",
+						"display_url": "pic.twitter.com/vKEVV7TuF7",
+						"expanded_url": "https://twitter.com/mikefsway/status/1154343737256005633/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1249,
+								"h": 721,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 393,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 693,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28090773,
+				"id_str": "28090773",
+				"name": "Mike Fell",
+				"screen_name": "mikefsway",
+				"location": "London",
+				"description": "Researching social aspects of flexible energy at @UCL_Energy. Views my own.",
+				"url": "https://t.co/tKqrkh0WhW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tKqrkh0WhW",
+								"expanded_url": "https://iris.ucl.ac.uk/iris/browse/profile?upi=FELLX23",
+								"display_url": "iris.ucl.ac.uk/iris/browse/pr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 573,
+				"friends_count": 476,
+				"listed_count": 13,
+				"created_at": "Wed Apr 01 11:47:54 +0000 2009",
+				"favourites_count": 663,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1740,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/471613421918494721/iCYEn3Mj_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/471613421918494721/iCYEn3Mj_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28090773/1398940120",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Insightful piece by @mikefsway on the benefits of open research and how to maximise them https://t.co/WQsDkjr79U"
+	},
+	{
 		"created_at": "Mon Jul 22 09:37:00 +0000 2019",
 		"id": 1153237497746514000,
 		"id_str": "1153237497746513920",
