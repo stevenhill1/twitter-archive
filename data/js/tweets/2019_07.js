@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 26 20:47:01 +0000 2019",
+		"id": 1154679041041023000,
+		"id_str": "1154855664038162433",
+		"full_text": "Research England publishes institution-level allocations for 2019-20: https://t.co/qdB9nclPmu https://t.co/OVO6LWZKlR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qdB9nclPmu",
+					"expanded_url": "https://bit.ly/2yc0Lh9",
+					"display_url": "bit.ly/2yc0Lh9",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1154679031595487200,
+					"id_str": "1154679031595487232",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EAY-diPXUAAxbNM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAY-diPXUAAxbNM.jpg",
+					"url": "https://t.co/OVO6LWZKlR",
+					"display_url": "pic.twitter.com/OVO6LWZKlR",
+					"expanded_url": "https://twitter.com/ResEngland/status/1154679041041022976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154679031595487200,
+					"id_str": "1154679031595487232",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/EAY-diPXUAAxbNM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAY-diPXUAAxbNM.jpg",
+					"url": "https://t.co/OVO6LWZKlR",
+					"display_url": "pic.twitter.com/OVO6LWZKlR",
+					"expanded_url": "https://twitter.com/ResEngland/status/1154679041041022976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. Part of @UKRI_News",
+			"url": "https://t.co/BI90gIR8Ar",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BI90gIR8Ar",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7568,
+			"friends_count": 358,
+			"listed_count": 85,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006515717888512000/KnXg55bl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006515717888512000/KnXg55bl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1553858043",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Research England publishes institution-level allocations for 2019-20: https://t.co/qdB9nclPmu https://t.co/OVO6LWZKlR"
+	},
+	{
 		"created_at": "Thu Jul 25 20:12:00 +0000 2019",
 		"id": 1154484465957310500,
 		"id_str": "1154484465957310466",
