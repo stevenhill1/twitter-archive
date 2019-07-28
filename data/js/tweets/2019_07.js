@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 27 16:07:48 +0000 2019",
+		"id": 1155147784863043600,
+		"id_str": "1155147784863043584",
+		"full_text": "This thread nails something important https://t.co/7nUbXEjO7x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7nUbXEjO7x",
+					"expanded_url": "https://twitter.com/kirstygrainger/status/1155017816053026816",
+					"display_url": "twitter.com/kirstygrainger…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4610,
+			"friends_count": 977,
+			"listed_count": 180,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "208ca24b396fb81b",
+			"url": "https://api.twitter.com/1.1/geo/id/208ca24b396fb81b.json",
+			"place_type": "city",
+			"name": "Stratford-Upon-Avon",
+			"full_name": "Stratford-Upon-Avon, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.747784,
+							52.175237
+						],
+						[
+							-1.65474,
+							52.175237
+						],
+						[
+							-1.65474,
+							52.2095072
+						],
+						[
+							-1.747784,
+							52.2095072
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1155017816053026800,
+		"quoted_status_id_str": "1155017816053026816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7nUbXEjO7x",
+			"expanded": "https://twitter.com/kirstygrainger/status/1155017816053026816",
+			"display": "twitter.com/kirstygrainger…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 27 07:31:21 +0000 2019",
+			"id": 1155017816053026800,
+			"id_str": "1155017816053026816",
+			"full_text": "Lots of tweets and discussions use the word \"funders\". Seems neutral in itself but in context: \"funders should...\" \"funders need to....\" \"take note funders....\". I detect both othering and generalisation.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1155017814954188800,
+			"in_reply_to_status_id_str": "1155017814954188805",
+			"in_reply_to_user_id": 28188415,
+			"in_reply_to_user_id_str": "28188415",
+			"in_reply_to_screen_name": "kirstygrainger",
+			"user": {
+				"id": 28188415,
+				"id_str": "28188415",
+				"name": "kirsty grainger",
+				"screen_name": "kirstygrainger",
+				"location": "Wiltshire",
+				"description": "Optimist. I love asking questions: why not? what if? can I have a cuppa? Research funding & policy. She/her. Director: Future Leaders Fellowships.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 833,
+				"friends_count": 383,
+				"listed_count": 14,
+				"created_at": "Wed Apr 01 20:33:25 +0000 2009",
+				"favourites_count": 2840,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4342,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "153B5C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2751682362/226eddc15e768097ae8f4b5dbc15ae10_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2751682362/226eddc15e768097ae8f4b5dbc15ae10_normal.jpeg",
+				"profile_link_color": "492754",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This thread nails something important https://t.co/7nUbXEjO7x"
+	},
+	{
 		"created_at": "Fri Jul 26 20:47:01 +0000 2019",
 		"id": 1154679041041023000,
 		"id_str": "1154855664038162433",
