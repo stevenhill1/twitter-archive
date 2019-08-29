@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 28 20:50:48 +0000 2019",
+		"id": 1166751281630896000,
+		"id_str": "1166815417731563520",
+		"full_text": "New @ResEngland funded partnerships, involving collaborators from nations around the globe, will build capacity &amp; capability across the R&amp;D sector and address major industrial and societal challenges.\n\nMore: https://t.co/jFWu11qtcw https://t.co/m96if3DNbJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						4,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jFWu11qtcw",
+					"expanded_url": "http://bit.ly/2NBwGAd",
+					"display_url": "bit.ly/2NBwGAd",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1166751269043785700,
+					"id_str": "1166751269043785734",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/EDEiGPSXUAYvVzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDEiGPSXUAYvVzv.jpg",
+					"url": "https://t.co/m96if3DNbJ",
+					"display_url": "pic.twitter.com/m96if3DNbJ",
+					"expanded_url": "https://twitter.com/ResEngland/status/1166751281630896128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1833,
+							"h": 917,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166751269043785700,
+					"id_str": "1166751269043785734",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/EDEiGPSXUAYvVzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDEiGPSXUAYvVzv.jpg",
+					"url": "https://t.co/m96if3DNbJ",
+					"display_url": "pic.twitter.com/m96if3DNbJ",
+					"expanded_url": "https://twitter.com/ResEngland/status/1166751281630896128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1833,
+							"h": 917,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. Part of @UKRI_News",
+			"url": "https://t.co/BI90gIR8Ar",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BI90gIR8Ar",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7700,
+			"friends_count": 359,
+			"listed_count": 87,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006515717888512000/KnXg55bl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006515717888512000/KnXg55bl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1553858043",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New @ResEngland funded partnerships, involving collaborators from nations around the globe, will build capacity &amp; capability across the R&amp;D sector and address major industrial and societal challenges.\n\nMore: https://t.co/jFWu11qtcw https://t.co/m96if3DNbJ"
+	},
+	{
 		"created_at": "Tue Aug 27 16:30:04 +0000 2019",
 		"id": 1166387412857163800,
 		"id_str": "1166387412857163777",
