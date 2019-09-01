@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 07:54:12 +0000 2019",
+		"id": 1167537949560451000,
+		"id_str": "1167707142624862210",
+		"full_text": "@stevenhill What a coincidence,@stevenhill, I just wrote something very similar yesterday on the @sysrev1 blog. https://t.co/64vayNLX8z. I’d love to discuss the topic with you sometime.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						31,
+						42
+					]
+				},
+				{
+					"screen_name": "sysrev1",
+					"name": "sysrev",
+					"id": 1026983588976357400,
+					"id_str": "1026983588976357378",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/64vayNLX8z",
+					"expanded_url": "https://blog.sysrev.com/pharmacovigilance-living-reviews/",
+					"display_url": "blog.sysrev.com/pharmacovigila…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1167480004625649700,
+		"in_reply_to_status_id_str": "1167480004625649664",
+		"in_reply_to_user_id": 7731752,
+		"in_reply_to_user_id_str": "7731752",
+		"in_reply_to_screen_name": "stevenhill",
+		"user": {
+			"id": 220121493,
+			"id_str": "220121493",
+			"name": "TJ Bozada",
+			"screen_name": "tbozada1",
+			"location": "Washington, DC",
+			"description": "Chief Revenue Officer @ ToxTrack.  We build cheminformatics models and tools, owner of @ChemChart. Proud JHU Alum",
+			"url": "http://t.co/Y7FBaAFHvS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Y7FBaAFHvS",
+							"expanded_url": "http://linkedin.com/in/tbozada",
+							"display_url": "linkedin.com/in/tbozada",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 478,
+			"friends_count": 1188,
+			"listed_count": 25,
+			"created_at": "Fri Nov 26 21:05:32 +0000 2010",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000120457472/483a405aa63c98c696806a941ed61a05_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000120457472/483a405aa63c98c696806a941ed61a05_normal.png",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@stevenhill What a coincidence,@stevenhill, I just wrote something very similar yesterday on the @sysrev1 blog. https://t.co/64vayNLX8z. I’d love to discuss the topic with you sometime."
+	},
+	{
 		"created_at": "Fri Aug 30 16:51:38 +0000 2019",
 		"id": 1167480004625649700,
 		"id_str": "1167480004625649664",
