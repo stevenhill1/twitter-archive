@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 19 16:53:57 +0000 2019",
+		"id": 1174667576913383400,
+		"id_str": "1174728344933412864",
+		"full_text": "We are launching a new £400,000 funding call to encourage researchers and innovators to experiment with citizen science.\n\nFind out more https://t.co/20i6rAIM8p https://t.co/KQrAHmYYix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/20i6rAIM8p",
+					"expanded_url": "http://bit.ly/2mqBPzN",
+					"display_url": "bit.ly/2mqBPzN",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1174667569036484600,
+					"id_str": "1174667569036484608",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EE1B7i2XYAA5PRo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE1B7i2XYAA5PRo.jpg",
+					"url": "https://t.co/KQrAHmYYix",
+					"display_url": "pic.twitter.com/KQrAHmYYix",
+					"expanded_url": "https://twitter.com/UKRI_News/status/1174667576913383428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174667569036484600,
+					"id_str": "1174667569036484608",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EE1B7i2XYAA5PRo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE1B7i2XYAA5PRo.jpg",
+					"url": "https://t.co/KQrAHmYYix",
+					"display_url": "pic.twitter.com/KQrAHmYYix",
+					"expanded_url": "https://twitter.com/UKRI_News/status/1174667576913383428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732141019114930200,
+			"id_str": "732141019114930176",
+			"name": "UKRI",
+			"screen_name": "UKRI_News",
+			"location": "United Kingdom",
+			"description": "With a £7bn budget, UKRI brings together the seven Research Councils, Innovate UK and Research England to support world-leading research and innovation.",
+			"url": "https://t.co/gIusFh73sl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gIusFh73sl",
+							"expanded_url": "http://www.ukri.org",
+							"display_url": "ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28122,
+			"friends_count": 407,
+			"listed_count": 307,
+			"created_at": "Mon May 16 09:29:56 +0000 2016",
+			"favourites_count": 1433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061931362947682304/K4q5GOXe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061931362947682304/K4q5GOXe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732141019114930176/1562228444",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are launching a new £400,000 funding call to encourage researchers and innovators to experiment with citizen science.\n\nFind out more https://t.co/20i6rAIM8p https://t.co/KQrAHmYYix"
+	},
+	{
 		"created_at": "Thu Sep 12 10:02:24 +0000 2019",
 		"id": 1172088058948333600,
 		"id_str": "1172088058948333569",
