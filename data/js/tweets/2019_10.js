@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 21 19:22:24 +0000 2019",
+		"id": 1186274796105019400,
+		"id_str": "1186362114056867842",
+		"full_text": "Researchers in the UK, tell @Vitae_news @UKRIO how #openaccess and other #openresearch practices influence research integrity in this 15 min survey:\nhttps://t.co/mAIR6afO6V\n\n#OA #OAweek #OpenAccessWeek #OAbooks #OpenScience",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openaccess",
+					"indices": [
+						51,
+						62
+					]
+				},
+				{
+					"text": "openresearch",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"text": "OA",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "OAweek",
+					"indices": [
+						178,
+						185
+					]
+				},
+				{
+					"text": "OpenAccessWeek",
+					"indices": [
+						186,
+						201
+					]
+				},
+				{
+					"text": "OAbooks",
+					"indices": [
+						202,
+						210
+					]
+				},
+				{
+					"text": "OpenScience",
+					"indices": [
+						211,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vitae_news",
+					"name": "Vitae",
+					"id": 47305063,
+					"id_str": "47305063",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "UKRIO",
+					"name": "UKRIO",
+					"id": 1142760997,
+					"id_str": "1142760997",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mAIR6afO6V",
+					"expanded_url": "https://www.surveymonkey.com/r/researchintegritystudy",
+					"display_url": "surveymonkey.com/r/researchinte…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 351533258,
+			"id_str": "351533258",
+			"name": "Dr Katie Wheat",
+			"screen_name": "KL_Wheat",
+			"location": "Hull, UK",
+			"description": "#ResearcherDevelopment engagement, capacity building & policy @Vitae_news #Vitae19 #ResDevConcordat | Escaped postdoc & co-founder #ECRchat | Tweets my own",
+			"url": "https://t.co/g8te4Obh0B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g8te4Obh0B",
+							"expanded_url": "https://www.linkedin.com/in/katie-wheat-a145724a/",
+							"display_url": "linkedin.com/in/katie-wheat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1747,
+			"friends_count": 1455,
+			"listed_count": 94,
+			"created_at": "Tue Aug 09 11:30:18 +0000 2011",
+			"favourites_count": 1206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1486147048/Twitter_1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1486147048/Twitter_1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/351533258/1348920589",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Researchers in the UK, tell @Vitae_news @UKRIO how #openaccess and other #openresearch practices influence research integrity in this 15 min survey:\nhttps://t.co/mAIR6afO6V\n\n#OA #OAweek #OpenAccessWeek #OAbooks #OpenScience"
+	},
+	{
 		"created_at": "Mon Oct 07 14:37:00 +0000 2019",
 		"id": 1181216862509633500,
 		"id_str": "1181216862509633539",
