@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 05 16:28:33 +0000 2020",
+		"id": 1213859840335978500,
+		"id_str": "1213859840335978498",
+		"full_text": "Completely agree. Here’s the Spotify link: https://t.co/XKa2feVviM https://t.co/wmHzjrxoo9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XKa2feVviM",
+					"expanded_url": "https://open.spotify.com/album/63rsKBzJZpWiKG9I6nrSBe?si=Oxe-BnAaS7-pEbCHiEYLsw",
+					"display_url": "open.spotify.com/album/63rsKBzJ…",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/wmHzjrxoo9",
+					"expanded_url": "https://twitter.com/dr_david_w/status/1213846027515629568",
+					"display_url": "twitter.com/dr_david_w/sta…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4757,
+			"friends_count": 723,
+			"listed_count": 183,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1213846027515629600,
+		"quoted_status_id_str": "1213846027515629568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wmHzjrxoo9",
+			"expanded": "https://twitter.com/dr_david_w/status/1213846027515629568",
+			"display": "twitter.com/dr_david_w/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 05 15:33:39 +0000 2020",
+			"id": 1213846027515629600,
+			"id_str": "1213846027515629568",
+			"full_text": "So so good. @JenniferPikeVLN @ForsstromMaria #Swedishchamberchoir https://t.co/iyHqWR6pJK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Swedishchamberchoir",
+						"indices": [
+							45,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JenniferPikeVLN",
+						"name": "Jennifer Pike",
+						"id": 1335197276,
+						"id_str": "1335197276",
+						"indices": [
+							12,
+							28
+						]
+					},
+					{
+						"screen_name": "ForsstromMaria",
+						"name": "Maria Forsström",
+						"id": 1336168069,
+						"id_str": "1336168069",
+						"indices": [
+							29,
+							44
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1213846013427011600,
+						"id_str": "1213846013427011584",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/ENhyhJpXUAAX3ZS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENhyhJpXUAAX3ZS.jpg",
+						"url": "https://t.co/iyHqWR6pJK",
+						"display_url": "pic.twitter.com/iyHqWR6pJK",
+						"expanded_url": "https://twitter.com/dr_david_w/status/1213846027515629568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2039,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1195,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 677,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 1207,
+										"y": 447,
+										"h": 93,
+										"w": 93
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1419,
+										"y": 526,
+										"h": 110,
+										"w": 110
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 707,
+										"y": 262,
+										"h": 54,
+										"w": 54
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 401,
+										"y": 148,
+										"h": 31,
+										"w": 31
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1213846013427011600,
+						"id_str": "1213846013427011584",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/ENhyhJpXUAAX3ZS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENhyhJpXUAAX3ZS.jpg",
+						"url": "https://t.co/iyHqWR6pJK",
+						"display_url": "pic.twitter.com/iyHqWR6pJK",
+						"expanded_url": "https://twitter.com/dr_david_w/status/1213846027515629568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2039,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1195,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 677,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 1207,
+										"y": 447,
+										"h": 93,
+										"w": 93
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1419,
+										"y": 526,
+										"h": 110,
+										"w": 110
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 707,
+										"y": 262,
+										"h": 54,
+										"w": 54
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 401,
+										"y": 148,
+										"h": 31,
+										"w": 31
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20442476,
+				"id_str": "20442476",
+				"name": "Dr David Whitehouse",
+				"screen_name": "dr_david_w",
+				"location": "Hampshire, England.",
+				"description": "Journalist, writer, broadcaster. More sci broadcasts than anyone else. Ex BBC Sci Corr, Ex Jodrell Bank. Asteroid 4036 Whitehouse. Officially touched the Moon.",
+				"url": "http://t.co/QrgTSt18aw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QrgTSt18aw",
+								"expanded_url": "http://www.davidwhitehouse.com",
+								"display_url": "davidwhitehouse.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2423,
+				"friends_count": 907,
+				"listed_count": 170,
+				"created_at": "Mon Feb 09 15:38:14 +0000 2009",
+				"favourites_count": 24,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4923,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1131152744633524224/bORK4lBK_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131152744633524224/bORK4lBK_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20442476/1559662002",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Completely agree. Here’s the Spotify link: https://t.co/XKa2feVviM https://t.co/wmHzjrxoo9"
+	},
+	{
 		"created_at": "Sat Jan 04 15:23:44 +0000 2020",
 		"id": 1213481140876656600,
 		"id_str": "1213481140876656640",
