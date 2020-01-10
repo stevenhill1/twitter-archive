@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 22:08:43 +0000 2020",
+		"id": 1215270594540863500,
+		"id_str": "1215395000617439232",
+		"full_text": "We're looking for a Senior Policy Adviser to join the REF 2021 team, focusing on equality &amp; diversity and interdisciplinary research within the exercise. Plus, you get to work with me! More info here: https://t.co/H9wgwJxkH2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H9wgwJxkH2",
+					"expanded_url": "https://www.topcareer.jobs/Vacancy/irc252319_10299.aspx",
+					"display_url": "topcareer.jobs/Vacancy/irc252…",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183342721,
+			"id_str": "183342721",
+			"name": "Dr Helena Mills",
+			"screen_name": "helenaCmills",
+			"location": "",
+			"description": "Head of REF Policy at @ResEngland @REF_2021. History PhD, now recreational #twitterstorian, Netflix addict. My views, no-one else's.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 991,
+			"friends_count": 1119,
+			"listed_count": 14,
+			"created_at": "Thu Aug 26 19:34:20 +0000 2010",
+			"favourites_count": 1610,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100899839317958657/HyxAV7Q1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100899839317958657/HyxAV7Q1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183342721/1430128733",
+			"profile_link_color": "9C3369",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're looking for a Senior Policy Adviser to join the REF 2021 team, focusing on equality &amp; diversity and interdisciplinary research within the exercise. Plus, you get to work with me! More info here: https://t.co/H9wgwJxkH2"
+	},
+	{
 		"created_at": "Sun Jan 05 16:28:33 +0000 2020",
 		"id": 1213859840335978500,
 		"id_str": "1213859840335978498",
