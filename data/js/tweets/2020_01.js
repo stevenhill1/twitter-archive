@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 18:56:59 +0000 2020",
+		"id": 1217158686562562000,
+		"id_str": "1217158686562562049",
+		"full_text": "Really looking forward to this event. https://t.co/RFydj16qPq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RFydj16qPq",
+					"expanded_url": "https://twitter.com/RoRInstitute/status/1217111448507355137",
+					"display_url": "twitter.com/RoRInstitute/s…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4756,
+			"friends_count": 724,
+			"listed_count": 183,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217111448507355100,
+		"quoted_status_id_str": "1217111448507355137",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RFydj16qPq",
+			"expanded": "https://twitter.com/RoRInstitute/status/1217111448507355137",
+			"display": "twitter.com/RoRInstitute/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 14 15:49:16 +0000 2020",
+			"id": 1217111448507355100,
+			"id_str": "1217111448507355137",
+			"full_text": "The Future of Research Evaluation: one-day meeting in Leeds, 2 March 2020, w/ speakers including: @stevenhill @GemmaDerrick &amp; @jameswilsdon https://t.co/4p08JmSGMF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stevenhill",
+						"name": "Steven Hill",
+						"id": 7731752,
+						"id_str": "7731752",
+						"indices": [
+							98,
+							109
+						]
+					},
+					{
+						"screen_name": "GemmaDerrick",
+						"name": "Gemma E Derrick",
+						"id": 475031908,
+						"id_str": "475031908",
+						"indices": [
+							110,
+							123
+						]
+					},
+					{
+						"screen_name": "jameswilsdon",
+						"name": "James Wilsdon",
+						"id": 276224538,
+						"id_str": "276224538",
+						"indices": [
+							130,
+							143
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4p08JmSGMF",
+						"expanded_url": "https://www.eventbrite.co.uk/e/lis-bibliometrics-conference-the-future-of-research-evaluation-tickets-89329542065",
+						"display_url": "eventbrite.co.uk/e/lis-bibliome…",
+						"indices": [
+							144,
+							167
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1059954232550289400,
+				"id_str": "1059954232550289408",
+				"name": "Research on Research Institute",
+				"screen_name": "RoRInstitute",
+				"location": "London, Sheffield & Leiden",
+				"description": "A new venture by @wellcometrust @digitalsci @sheffielduni & @cwtsleiden. Transformative research on research systems, cultures & decision-making.",
+				"url": "https://t.co/H60gGsHCaU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H60gGsHCaU",
+								"expanded_url": "http://researchonresearch.org/",
+								"display_url": "researchonresearch.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2815,
+				"friends_count": 806,
+				"listed_count": 28,
+				"created_at": "Tue Nov 06 23:42:36 +0000 2018",
+				"favourites_count": 132,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 209,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1160866150248587264/PwZdqzmA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160866150248587264/PwZdqzmA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1059954232550289408/1569509968",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really looking forward to this event. https://t.co/RFydj16qPq"
+	},
+	{
 		"created_at": "Sat Jan 11 16:39:26 +0000 2020",
 		"id": 1216036908972855300,
 		"id_str": "1216036908972855296",
