@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 10:45:59 +0000 2020",
+		"id": 1217387667874250800,
+		"id_str": "1217397512560107520",
+		"full_text": "To respond to the complex societal challenges we face in the coming decade we will need the insights of the humanities and social sciences - my piece for @nature in my capacity as incoming chief executive of @BritishAcademy_ https://t.co/7Fuczein35",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nature",
+					"name": "Nature",
+					"id": 487833518,
+					"id_str": "487833518",
+					"indices": [
+						154,
+						161
+					]
+				},
+				{
+					"screen_name": "BritishAcademy_",
+					"name": "The British Academy",
+					"id": 361302333,
+					"id_str": "361302333",
+					"indices": [
+						208,
+						224
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7Fuczein35",
+					"expanded_url": "https://www.nature.com/articles/d41586-020-00064-x",
+					"display_url": "nature.com/articles/d4158…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1212443315188228000,
+		"in_reply_to_status_id_str": "1212443315188228101",
+		"in_reply_to_user_id": 123220773,
+		"in_reply_to_user_id_str": "123220773",
+		"in_reply_to_screen_name": "HetanShah",
+		"user": {
+			"id": 123220773,
+			"id_str": "123220773",
+			"name": "Hetan Shah",
+			"screen_name": "HetanShah",
+			"location": "London",
+			"description": "Outgoing CEO @RoyalStatSoc Incoming CEO @BritishAcademy_ Chair @FProvFoundation Visiting Prof @PolicyatKings Deputy Chair @AdaLovelaceInst  Tweets my own",
+			"url": "https://t.co/DeWWYmHjMG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DeWWYmHjMG",
+							"expanded_url": "http://www.rss.org.uk",
+							"display_url": "rss.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10355,
+			"friends_count": 1846,
+			"listed_count": 335,
+			"created_at": "Mon Mar 15 11:30:56 +0000 2010",
+			"favourites_count": 3360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575963450045677569/mY4H0cfL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575963450045677569/mY4H0cfL_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123220773/1562356053",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To respond to the complex societal challenges we face in the coming decade we will need the insights of the humanities and social sciences - my piece for @nature in my capacity as incoming chief executive of @BritishAcademy_ https://t.co/7Fuczein35"
+	},
+	{
 		"created_at": "Tue Jan 14 18:56:59 +0000 2020",
 		"id": 1217158686562562000,
 		"id_str": "1217158686562562049",
