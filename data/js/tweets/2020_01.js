@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 20:28:10 +0000 2020",
+		"id": 1218201338762473500,
+		"id_str": "1218268800317034496",
+		"full_text": "Exciting to see coverage of the @ResEngland funded Beyond Imagination project @LancasterUni https://t.co/PSHyAcbPzV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"screen_name": "LancasterUni",
+					"name": "Lancaster University",
+					"id": 25521930,
+					"id_str": "25521930",
+					"indices": [
+						78,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PSHyAcbPzV",
+					"expanded_url": "https://www.lancasterguardian.co.uk/education/new-team-brings-33-jobs-put-design-research-firmly-global-map-lancaster-university-1364274",
+					"display_url": "lancasterguardian.co.uk/education/new-…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 320860919,
+			"id_str": "320860919",
+			"name": "Lewis Dean",
+			"screen_name": "lewisgdean",
+			"location": "",
+			"description": "Head of Research Funding @ResEngland. General Secretary @PrimateSociety. Mostly cultural evolution, cricket & baking. Views my own. Photo: @steve_x",
+			"url": "https://t.co/PTtlAlnAFq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTtlAlnAFq",
+							"expanded_url": "https://www.linkedin.com/in/lewis-dean-30052a39/",
+							"display_url": "linkedin.com/in/lewis-dean-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1218,
+			"friends_count": 1597,
+			"listed_count": 40,
+			"created_at": "Mon Jun 20 17:04:02 +0000 2011",
+			"favourites_count": 2112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126571593004716032/DsuhO5kW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126571593004716032/DsuhO5kW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/320860919/1408546080",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exciting to see coverage of the @ResEngland funded Beyond Imagination project @LancasterUni https://t.co/PSHyAcbPzV"
+	},
+	{
 		"created_at": "Wed Jan 15 10:45:59 +0000 2020",
 		"id": 1217387667874250800,
 		"id_str": "1217397512560107520",
