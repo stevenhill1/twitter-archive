@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 21:01:26 +0000 2020",
+		"id": 1219361907259379700,
+		"id_str": "1219364334054395910",
+		"full_text": "@AdamSci12 @stevenhill You got it: https://t.co/Hq8EKY9Qri\n\nSteven mentions Priem's paper as though it's their idea. On the contrary, it merely echo'd Smith, Van de Sompel, Roosendaal.. w/ a tone of as if something new was proposed.\n\nhttps://t.co/dKLv5Ur1kW",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdamSci12",
+					"name": "Adam Day",
+					"id": 60881430,
+					"id_str": "60881430",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Hq8EKY9Qri",
+					"expanded_url": "http://eprints.rclis.org/5841/1/DJpaper.pdf",
+					"display_url": "eprints.rclis.org/5841/1/DJpaper…",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/dKLv5Ur1kW",
+					"expanded_url": "https://csarven.ca/linked-research-decentralised-web#deconstructing-the-scholarly-journal",
+					"display_url": "csarven.ca/linked-researc…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1219348563932733400,
+		"in_reply_to_status_id_str": "1219348563932733440",
+		"in_reply_to_user_id": 60881430,
+		"in_reply_to_user_id_str": "60881430",
+		"in_reply_to_screen_name": "AdamSci12",
+		"user": {
+			"id": 14188834,
+			"id_str": "14188834",
+			"name": "Sarven Capadisli",
+			"screen_name": "csarven",
+			"location": "",
+			"description": "I am.",
+			"url": "https://t.co/RI9PQWdWFt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RI9PQWdWFt",
+							"expanded_url": "https://csarven.ca/#i",
+							"display_url": "csarven.ca/#i",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1468,
+			"friends_count": 533,
+			"listed_count": 133,
+			"created_at": "Fri Mar 21 01:51:08 +0000 2008",
+			"favourites_count": 3098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "E9E1D2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138876700010471425/zERR-dva_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138876700010471425/zERR-dva_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14188834/1448570914",
+			"profile_link_color": "647819",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AdamSci12 @stevenhill You got it: https://t.co/Hq8EKY9Qri\n\nSteven mentions Priem's paper as though it's their idea. On the contrary, it merely echo'd Smith, Van de Sompel, Roosendaal.. w/ a tone of as if something new was proposed.\n\nhttps://t.co/dKLv5Ur1kW"
+	},
+	{
+		"created_at": "Mon Jan 20 18:50:01 +0000 2020",
+		"id": 1219331263133356000,
+		"id_str": "1219331263133356032",
+		"full_text": "@RichardALJones Congratulations!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RichardALJones",
+					"name": "Richard Jones",
+					"id": 126294936,
+					"id_str": "126294936",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1219230876233621500,
+		"in_reply_to_status_id_str": "1219230876233621504",
+		"in_reply_to_user_id": 126294936,
+		"in_reply_to_user_id_str": "126294936",
+		"in_reply_to_screen_name": "RichardALJones",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4782,
+			"friends_count": 727,
+			"listed_count": 183,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RichardALJones Congratulations!"
+	},
+	{
+		"created_at": "Mon Jan 20 17:48:51 +0000 2020",
+		"id": 1219315867990855700,
+		"id_str": "1219315867990855685",
+		"full_text": "@kirstygrainger Thanks Kirsty!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kirstygrainger",
+					"name": "kirsty grainger",
+					"id": 28188415,
+					"id_str": "28188415",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1219246768824766500,
+		"in_reply_to_status_id_str": "1219246768824766466",
+		"in_reply_to_user_id": 28188415,
+		"in_reply_to_user_id_str": "28188415",
+		"in_reply_to_screen_name": "kirstygrainger",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4782,
+			"friends_count": 727,
+			"listed_count": 183,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 76,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kirstygrainger Thanks Kirsty!"
+	},
+	{
 		"created_at": "Sun Jan 19 12:17:50 +0000 2020",
 		"id": 1218870175921033200,
 		"id_str": "1218870175921033216",
