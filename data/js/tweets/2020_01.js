@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 21 19:42:27 +0000 2020",
+		"id": 1219044540033708000,
+		"id_str": "1219706843842392064",
+		"full_text": "One reason that people bring up for why they don't preprint is that they're worried that, because of their preprint, they'll be \"scooped\" in a peer-reviewed journal.\n\nI am someone to whom this actually happened... so, friends, I have ~thoughts~.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2511553729,
+			"id_str": "2511553729",
+			"name": "Dr Olivia Abolish ICE Rissland",
+			"screen_name": "BeAScientist",
+			"location": "Denver, CO",
+			"description": "Molecular Biologist. Runner. Cat lover. Sometimes dog lover. Always a Red Sox fan. She/her.",
+			"url": "https://t.co/AfjF4sEGMD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AfjF4sEGMD",
+							"expanded_url": "http://risslandlab.com",
+							"display_url": "risslandlab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1793,
+			"friends_count": 828,
+			"listed_count": 25,
+			"created_at": "Wed May 21 01:52:21 +0000 2014",
+			"favourites_count": 18603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "44A0A9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139112595917459456/cC_D56sL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139112595917459456/cC_D56sL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2511553729/1400638453",
+			"profile_link_color": "44A0A9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 274,
+		"favorite_count": 713,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "One reason that people bring up for why they don't preprint is that they're worried that, because of their preprint, they'll be \"scooped\" in a peer-reviewed journal.\n\nI am someone to whom this actually happened... so, friends, I have ~thoughts~."
+	},
+	{
+		"created_at": "Tue Jan 21 14:23:44 +0000 2020",
+		"id": 1219618095851102200,
+		"id_str": "1219626638792634372",
+		"full_text": "@ersatzben @stevenhill Platforms like @WellcomeOpenRes is a live example of an open publishing platform.\n\nBut, to help readers identify the best/ most impactful research, we need a curation layer.  \n\nThe @wellcometrust and @HHMINEWS Learned Society Curation Awards might help.  \n\nhttps://t.co/C4qRrEmevk",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			303
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ersatzben",
+					"name": "Ben Johnson",
+					"id": 1840757556,
+					"id_str": "1840757556",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "WellcomeOpenRes",
+					"name": "WellcomeOpenResearch",
+					"id": 748885228492562400,
+					"id_str": "748885228492562432",
+					"indices": [
+						38,
+						54
+					]
+				},
+				{
+					"screen_name": "wellcometrust",
+					"name": "Wellcome Trust",
+					"id": 19837528,
+					"id_str": "19837528",
+					"indices": [
+						204,
+						218
+					]
+				},
+				{
+					"screen_name": "HHMINEWS",
+					"name": "HHMI NEWS",
+					"id": 43199901,
+					"id_str": "43199901",
+					"indices": [
+						223,
+						232
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C4qRrEmevk",
+					"expanded_url": "https://wellcome.ac.uk/funding/schemes/learned-society-curation-awards",
+					"display_url": "wellcome.ac.uk/funding/scheme…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1219614639450919000,
+		"in_reply_to_status_id_str": "1219614639450918915",
+		"in_reply_to_user_id": 1840757556,
+		"in_reply_to_user_id_str": "1840757556",
+		"in_reply_to_screen_name": "ersatzben",
+		"user": {
+			"id": 20804020,
+			"id_str": "20804020",
+			"name": "Robert Kiley",
+			"screen_name": "robertkiley",
+			"location": "London, UK",
+			"description": "Head of Open Research, Wellcome & interim cOAlition S Coordinator. Interested in making research outputs open & usable. Enjoy walking Dug & being with my family",
+			"url": "https://t.co/bIEMYMPN02",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bIEMYMPN02",
+							"expanded_url": "http://wellcomelibrary.org",
+							"display_url": "wellcomelibrary.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2238,
+			"friends_count": 165,
+			"listed_count": 65,
+			"created_at": "Fri Feb 13 20:36:46 +0000 2009",
+			"favourites_count": 253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1041634011028889600/0eb4BWEP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041634011028889600/0eb4BWEP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20804020/1482420318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ersatzben @stevenhill Platforms like @WellcomeOpenRes is a live example of an open publishing platform.\n\nBut, to help readers identify the best/ most impactful research, we need a curation layer.  \n\nThe @wellcometrust and @HHMINEWS Learned Society Curation Awards might help.  \n\nhttps://t.co/C4qRrEmevk"
+	},
+	{
 		"created_at": "Mon Jan 20 21:01:26 +0000 2020",
 		"id": 1219361907259379700,
 		"id_str": "1219364334054395910",
