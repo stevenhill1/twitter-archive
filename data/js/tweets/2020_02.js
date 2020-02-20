@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 13:03:13 +0000 2020",
+		"id": 1230074585653141500,
+		"id_str": "1230115623730110466",
+		"full_text": "Interesting report from @nesta_uk &amp; @BritainThinks on changing public perceptions of innovation &amp; new technologies https://t.co/eLxrcqI4lW. Headline findings (see pic) all v sensible too (&amp; in line with our Bio Bubble report for Nesta). https://t.co/BGIBBiNrf6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nesta_uk",
+					"name": "Nesta",
+					"id": 14711491,
+					"id_str": "14711491",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"screen_name": "BritainThinks",
+					"name": "BritainThinks",
+					"id": 278044489,
+					"id_str": "278044489",
+					"indices": [
+						40,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eLxrcqI4lW",
+					"expanded_url": "https://www.nesta.org.uk/report/uk-getting-innovation-right/",
+					"display_url": "nesta.org.uk/report/uk-gett…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230074578187292700,
+					"id_str": "1230074578187292673",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/ERIaT8gXkAEceFW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERIaT8gXkAEceFW.jpg",
+					"url": "https://t.co/BGIBBiNrf6",
+					"display_url": "pic.twitter.com/BGIBBiNrf6",
+					"expanded_url": "https://twitter.com/jameswilsdon/status/1230074585653141505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1043,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1043,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230074578187292700,
+					"id_str": "1230074578187292673",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/ERIaT8gXkAEceFW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERIaT8gXkAEceFW.jpg",
+					"url": "https://t.co/BGIBBiNrf6",
+					"display_url": "pic.twitter.com/BGIBBiNrf6",
+					"expanded_url": "https://twitter.com/jameswilsdon/status/1230074585653141505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1043,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1043,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 276224538,
+			"id_str": "276224538",
+			"name": "James Wilsdon",
+			"screen_name": "jameswilsdon",
+			"location": "Sheffield & Wellcome Trust",
+			"description": "director @RoRInstitute & @digitalsci professor of research policy @sheffielduni",
+			"url": "https://t.co/jxRP8wB5Xo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jxRP8wB5Xo",
+							"expanded_url": "https://www.sheffield.ac.uk/politics/people/academic/james-wilsdon",
+							"display_url": "sheffield.ac.uk/politics/peopl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9893,
+			"friends_count": 1652,
+			"listed_count": 358,
+			"created_at": "Sat Apr 02 22:47:09 +0000 2011",
+			"favourites_count": 5771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151830369987178496/MVGhpTqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151830369987178496/MVGhpTqq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/276224538/1579965225",
+			"profile_link_color": "FF002B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting report from @nesta_uk &amp; @BritainThinks on changing public perceptions of innovation &amp; new technologies https://t.co/eLxrcqI4lW. Headline findings (see pic) all v sensible too (&amp; in line with our Bio Bubble report for Nesta). https://t.co/BGIBBiNrf6"
+	},
+	{
 		"created_at": "Mon Feb 17 18:49:44 +0000 2020",
 		"id": 1229478049512665000,
 		"id_str": "1229478049512665088",
