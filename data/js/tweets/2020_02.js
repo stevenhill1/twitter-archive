@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 12:01:19 +0000 2020",
+		"id": 1229731623446438000,
+		"id_str": "1230824818943102977",
+		"full_text": "And they’re out! The LIS-Bibliometrics community responsible use guided to commercial citation benchmarking tools!! https://t.co/stQXfpDoeo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/stQXfpDoeo",
+					"expanded_url": "https://twitter.com/thebibliomagic/status/1229729839210475520",
+					"display_url": "twitter.com/thebibliomagic…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47917199,
+			"id_str": "47917199",
+			"name": "Dr Elizabeth Gadd",
+			"screen_name": "LizzieGadd",
+			"location": "Loughborough",
+			"description": "Research Policy Manager (Publications); PhD in copyright & scholarly comms; Metrics Wonk; Librarian at heart. (She/her).",
+			"url": "https://t.co/zN3DpZW9Q8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zN3DpZW9Q8",
+							"expanded_url": "http://about.me/elizabeth.gadd",
+							"display_url": "about.me/elizabeth.gadd",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2671,
+			"friends_count": 906,
+			"listed_count": 59,
+			"created_at": "Wed Jun 17 10:19:27 +0000 2009",
+			"favourites_count": 14707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113861401578233856/9gK9cVS0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113861401578233856/9gK9cVS0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47917199/1449079971",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1229729839210475500,
+		"quoted_status_id_str": "1229729839210475520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/stQXfpDoeo",
+			"expanded": "https://twitter.com/thebibliomagic/status/1229729839210475520",
+			"display": "twitter.com/thebibliomagic…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 18 11:30:15 +0000 2020",
+			"id": 1229729839210475500,
+			"id_str": "1229729839210475520",
+			"full_text": "Community responses to commercial metrics tools: the responsible use guides from LIS Bibliometrics https://t.co/Kx7vDtxPKe https://t.co/MZYq8aPuo4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Kx7vDtxPKe",
+						"expanded_url": "https://thebibliomagician.wordpress.com/2020/02/18/community-responses-to-commercial-metrics-tools-the-responsible-use-guides/",
+						"display_url": "thebibliomagician.wordpress.com/2020/02/18/com…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1229729837528604700,
+						"id_str": "1229729837528604675",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/ERDgxZeXYAMY9Mn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERDgxZeXYAMY9Mn.jpg",
+						"url": "https://t.co/MZYq8aPuo4",
+						"display_url": "pic.twitter.com/MZYq8aPuo4",
+						"expanded_url": "https://twitter.com/TheBibliomagic/status/1229729839210475520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1229729837528604700,
+						"id_str": "1229729837528604675",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/ERDgxZeXYAMY9Mn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERDgxZeXYAMY9Mn.jpg",
+						"url": "https://t.co/MZYq8aPuo4",
+						"display_url": "pic.twitter.com/MZYq8aPuo4",
+						"expanded_url": "https://twitter.com/TheBibliomagic/status/1229729839210475520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 683,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 960540712264749000,
+				"id_str": "960540712264749057",
+				"name": "The Bibliomagician",
+				"screen_name": "TheBibliomagic",
+				"location": "",
+				"description": "Official Twitter account for The Bibliomagician - Comment & practical guidance from the LIS-Bibliometrics community. RTs ≠ endorsement. Acc not monitored 24/7.",
+				"url": "https://t.co/JlKEdwOQb6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JlKEdwOQb6",
+								"expanded_url": "https://thebibliomagician.wordpress.com/",
+								"display_url": "thebibliomagician.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 467,
+				"friends_count": 38,
+				"listed_count": 12,
+				"created_at": "Mon Feb 05 15:48:46 +0000 2018",
+				"favourites_count": 85,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 90,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961631740019265536/6f4QtJfU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961631740019265536/6f4QtJfU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/960540712264749057/1518112415",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And they’re out! The LIS-Bibliometrics community responsible use guided to commercial citation benchmarking tools!! https://t.co/stQXfpDoeo"
+	},
+	{
 		"created_at": "Thu Feb 20 20:42:03 +0000 2020",
 		"id": 1230547369449508900,
 		"id_str": "1230593477475524619",
