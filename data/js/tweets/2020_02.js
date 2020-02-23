@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 08:47:56 +0000 2020",
+		"id": 1230929953559961600,
+		"id_str": "1231138541905862656",
+		"full_text": "[Read] Microsoft Academic Graph: When experts are not enough - https://t.co/wZBMvFZQzg - A great read, answers a lot of things I was wondering about. Also a lot less technical than the earlier paper on MAG https://t.co/zkUaUbmko2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wZBMvFZQzg",
+					"expanded_url": "https://www.mitpressjournals.org/doi/full/10.1162/qss_a_00021",
+					"display_url": "mitpressjournals.org/doi/full/10.11…",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/zkUaUbmko2",
+					"expanded_url": "https://www.frontiersin.org/articles/10.3389/fdata.2019.00045/full",
+					"display_url": "frontiersin.org/articles/10.33…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15196090,
+			"id_str": "15196090",
+			"name": "Aaron Tay",
+			"screen_name": "aarontay",
+			"location": "Singapore  ",
+			"description": "I'm librarian + blogger from Singapore Management University. Into social media, bibliometrics, analytics, library technology etc. Always learning new things.",
+			"url": "https://t.co/ZMAVMhB7mm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZMAVMhB7mm",
+							"expanded_url": "http://musingsaboutlibrarianship.blogspot.com/",
+							"display_url": "musingsaboutlibrarianship.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5108,
+			"friends_count": 1314,
+			"listed_count": 546,
+			"created_at": "Sun Jun 22 08:48:58 +0000 2008",
+			"favourites_count": 8965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253751533/headshot_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253751533/headshot_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15196090/1571236456",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Read] Microsoft Academic Graph: When experts are not enough - https://t.co/wZBMvFZQzg - A great read, answers a lot of things I was wondering about. Also a lot less technical than the earlier paper on MAG https://t.co/zkUaUbmko2"
+	},
+	{
 		"created_at": "Fri Feb 21 12:01:19 +0000 2020",
 		"id": 1229731623446438000,
 		"id_str": "1230824818943102977",
