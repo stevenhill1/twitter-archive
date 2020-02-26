@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 25 16:33:57 +0000 2020",
+		"id": 1232342982734512000,
+		"id_str": "1232342982734512128",
+		"full_text": "Really looking forward to attending the #E3workshop tomorrow. This thread from @geowonks is a great introduction to the projects. https://t.co/m7ySYjSzsw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "E3workshop",
+					"indices": [
+						40,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "geowonks",
+					"name": "Geoff Hill",
+					"id": 981122798163775500,
+					"id_str": "981122798163775488",
+					"indices": [
+						79,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m7ySYjSzsw",
+					"expanded_url": "https://twitter.com/geowonks/status/1232329442653065216",
+					"display_url": "twitter.com/geowonks/statu…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4812,
+			"friends_count": 730,
+			"listed_count": 182,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232329442653065200,
+		"quoted_status_id_str": "1232329442653065216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m7ySYjSzsw",
+			"expanded": "https://twitter.com/geowonks/status/1232329442653065216",
+			"display": "twitter.com/geowonks/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 25 15:40:09 +0000 2020",
+			"id": 1232329442653065200,
+			"id_str": "1232329442653065216",
+			"full_text": "Tomorrow the 13 @ResEngland funded E3 research units meet in Birmingham for the first time as a cohort #E3workshop. They represent 14 universities spread across England and demonstrate a depth in research excellence across the country. Here is what they are doing (top to bottom): https://t.co/FlhuVoNLaA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "E3workshop",
+						"indices": [
+							103,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ResEngland",
+						"name": "Research England",
+						"id": 823853384138637300,
+						"id_str": "823853384138637313",
+						"indices": [
+							16,
+							27
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1232312979808379000,
+						"id_str": "1232312979808378880",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/ERoOIEWU4AAe-w0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERoOIEWU4AAe-w0.jpg",
+						"url": "https://t.co/FlhuVoNLaA",
+						"display_url": "pic.twitter.com/FlhuVoNLaA",
+						"expanded_url": "https://twitter.com/geowonks/status/1232329442653065216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 542,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 635,
+								"h": 797,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 635,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1232312979808379000,
+						"id_str": "1232312979808378880",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/ERoOIEWU4AAe-w0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERoOIEWU4AAe-w0.jpg",
+						"url": "https://t.co/FlhuVoNLaA",
+						"display_url": "pic.twitter.com/FlhuVoNLaA",
+						"expanded_url": "https://twitter.com/geowonks/status/1232329442653065216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 542,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 635,
+								"h": 797,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 635,
+								"h": 797,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 981122798163775500,
+				"id_str": "981122798163775488",
+				"name": "Geoff Hill",
+				"screen_name": "geowonks",
+				"location": "Bristol, England",
+				"description": "Senior Policy Advisor @ResEngland @UKRI_News - lapsed palaeo academic. 🏳️‍🌈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 308,
+				"friends_count": 331,
+				"listed_count": 5,
+				"created_at": "Tue Apr 03 10:54:38 +0000 2018",
+				"favourites_count": 1068,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 712,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981124665581109249/SKBz7jG0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981124665581109249/SKBz7jG0_normal.jpg",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really looking forward to attending the #E3workshop tomorrow. This thread from @geowonks is a great introduction to the projects. https://t.co/m7ySYjSzsw"
+	},
+	{
 		"created_at": "Sat Feb 22 08:47:56 +0000 2020",
 		"id": 1230929953559961600,
 		"id_str": "1231138541905862656",
