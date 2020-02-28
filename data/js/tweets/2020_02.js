@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 27 13:31:32 +0000 2020",
+		"id": 1233019403308011500,
+		"id_str": "1233021852597002240",
+		"full_text": "We’re pleased to announce that we’ve signed the Technician Commitment, the first organisation to do so as a funder. We’ll be working to consider changes that will tackle some of the challenges technicians face: https://t.co/YCgK8corpS https://t.co/XDHCbmVpLj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YCgK8corpS",
+					"expanded_url": "http://orlo.uk/er8vU",
+					"display_url": "orlo.uk/er8vU",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1233019401563254800,
+					"id_str": "1233019401563254786",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERyQnOdXsAIaZXV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERyQnOdXsAIaZXV.jpg",
+					"url": "https://t.co/XDHCbmVpLj",
+					"display_url": "pic.twitter.com/XDHCbmVpLj",
+					"expanded_url": "https://twitter.com/UKRI_News/status/1233019403308011526/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1233019401563254800,
+					"id_str": "1233019401563254786",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERyQnOdXsAIaZXV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERyQnOdXsAIaZXV.jpg",
+					"url": "https://t.co/XDHCbmVpLj",
+					"display_url": "pic.twitter.com/XDHCbmVpLj",
+					"expanded_url": "https://twitter.com/UKRI_News/status/1233019403308011526/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ERyQnOdXsAIaZXV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732141019114930200,
+			"id_str": "732141019114930176",
+			"name": "UK Research and Innovation",
+			"screen_name": "UKRI_News",
+			"location": "United Kingdom",
+			"description": "UKRI brings together the seven research councils, Innovate UK and Research England to support world-leading research and innovation.",
+			"url": "https://t.co/gIusFh73sl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gIusFh73sl",
+							"expanded_url": "http://www.ukri.org",
+							"display_url": "ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35282,
+			"friends_count": 436,
+			"listed_count": 1,
+			"created_at": "Mon May 16 09:29:56 +0000 2016",
+			"favourites_count": 2004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182190627032879104/ml8b5yrN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182190627032879104/ml8b5yrN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732141019114930176/1570691185",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re pleased to announce that we’ve signed the Technician Commitment, the first organisation to do so as a funder. We’ll be working to consider changes that will tackle some of the challenges technicians face: https://t.co/YCgK8corpS https://t.co/XDHCbmVpLj"
+	},
+	{
 		"created_at": "Wed Feb 26 15:00:40 +0000 2020",
 		"id": 1232681895063904300,
 		"id_str": "1232681895063904259",
