@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 29 15:18:30 +0000 2020",
+		"id": 1233381695161852000,
+		"id_str": "1233773544951238658",
+		"full_text": "It’s here! The Livestream URL for the LIS-Bibliometrics 10th Anniversary Event on “The Future of Research Assessment” on 2 March 09.00-16.30 GMT is https://t.co/sZ9afq10cD With contributions from @stevenhill @GemmaDerrick &amp; @jameswilsdon it’s not to be missed! #LisBib20",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LisBib20",
+					"indices": [
+						265,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						196,
+						207
+					]
+				},
+				{
+					"screen_name": "GemmaDerrick",
+					"name": "Gemma E Derrick",
+					"id": 475031908,
+					"id_str": "475031908",
+					"indices": [
+						208,
+						221
+					]
+				},
+				{
+					"screen_name": "jameswilsdon",
+					"name": "James Wilsdon",
+					"id": 276224538,
+					"id_str": "276224538",
+					"indices": [
+						228,
+						241
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sZ9afq10cD",
+					"expanded_url": "https://tv.theiet.org/?videoid=14095",
+					"display_url": "tv.theiet.org/?videoid=14095",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 960540712264749000,
+			"id_str": "960540712264749057",
+			"name": "The Bibliomagician",
+			"screen_name": "TheBibliomagic",
+			"location": "",
+			"description": "Official Twitter account for The Bibliomagician - Comment & practical guidance from the LIS-Bibliometrics community. RTs ≠ endorsement. Acc not monitored 24/7.",
+			"url": "https://t.co/JlKEdwOQb6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JlKEdwOQb6",
+							"expanded_url": "https://thebibliomagician.wordpress.com/",
+							"display_url": "thebibliomagician.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 477,
+			"friends_count": 38,
+			"listed_count": 12,
+			"created_at": "Mon Feb 05 15:48:46 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961631740019265536/6f4QtJfU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961631740019265536/6f4QtJfU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/960540712264749057/1518112415",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s here! The Livestream URL for the LIS-Bibliometrics 10th Anniversary Event on “The Future of Research Assessment” on 2 March 09.00-16.30 GMT is https://t.co/sZ9afq10cD With contributions from @stevenhill @GemmaDerrick &amp; @jameswilsdon it’s not to be missed! #LisBib20"
+	},
+	{
 		"created_at": "Thu Feb 27 13:31:32 +0000 2020",
 		"id": 1233019403308011500,
 		"id_str": "1233021852597002240",
