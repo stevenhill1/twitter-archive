@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 20:19:37 +0000 2020",
+		"id": 1235298875424018400,
+		"id_str": "1235298875424018433",
+		"full_text": "@BMatB @threadreaderapp unroll",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BMatB",
+					"name": "Dr Ben Britton",
+					"id": 311439292,
+					"id_str": "311439292",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "threadreaderapp",
+					"name": "Thread Reader App",
+					"id": 895814938995957800,
+					"id_str": "895814938995957760",
+					"indices": [
+						7,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1234898595037372400,
+		"in_reply_to_status_id_str": "1234898595037372416",
+		"in_reply_to_user_id": 311439292,
+		"in_reply_to_user_id_str": "311439292",
+		"in_reply_to_screen_name": "BMatB",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4851,
+			"friends_count": 730,
+			"listed_count": 184,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BMatB @threadreaderapp unroll"
+	},
+	{
+		"created_at": "Wed Mar 04 13:32:09 +0000 2020",
+		"id": 1235196333725806600,
+		"id_str": "1235196333725806593",
+		"full_text": "Some really important insights into regional inequality in this thread https://t.co/GvxCUUMfVb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GvxCUUMfVb",
+					"expanded_url": "https://twitter.com/jburnmurdoch/status/1234377886485942273",
+					"display_url": "twitter.com/jburnmurdoch/s…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4851,
+			"friends_count": 730,
+			"listed_count": 184,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1234377886485942300,
+		"quoted_status_id_str": "1234377886485942273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GvxCUUMfVb",
+			"expanded": "https://twitter.com/jburnmurdoch/status/1234377886485942273",
+			"display": "twitter.com/jburnmurdoch/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 02 07:19:56 +0000 2020",
+			"id": 1234377886485942300,
+			"id_str": "1234377886485942273",
+			"full_text": "NEW with @ChrisGiles_:\nhttps://t.co/o9bs1PtFZa\n\nThe UK has a regional inequality problem, but it's much more nuanced than the typical hot take.\n\nYou've probably seen a version of this chart before, showing the UK as a 😱 outlier for regional inequality.\n\nLook how rich London is! https://t.co/esdie9JOU7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ChrisGiles_",
+						"name": "Chris Giles",
+						"id": 305073570,
+						"id_str": "305073570",
+						"indices": [
+							9,
+							21
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/o9bs1PtFZa",
+						"expanded_url": "https://www.ft.com/content/c9db4c66-5971-11ea-a528-dd0f971febbc",
+						"display_url": "ft.com/content/c9db4c…",
+						"indices": [
+							23,
+							46
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1234377881234608000,
+						"id_str": "1234377881234608128",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/ESFkJJmWkAAEZZ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESFkJJmWkAAEZZ9.jpg",
+						"url": "https://t.co/esdie9JOU7",
+						"display_url": "pic.twitter.com/esdie9JOU7",
+						"expanded_url": "https://twitter.com/jburnmurdoch/status/1234377886485942273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 521,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1400,
+								"h": 1072,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 919,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1234377881234608000,
+						"id_str": "1234377881234608128",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/ESFkJJmWkAAEZZ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESFkJJmWkAAEZZ9.jpg",
+						"url": "https://t.co/esdie9JOU7",
+						"display_url": "pic.twitter.com/esdie9JOU7",
+						"expanded_url": "https://twitter.com/jburnmurdoch/status/1234377886485942273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 521,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1400,
+								"h": 1072,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 919,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43878033,
+				"id_str": "43878033",
+				"name": "John Burn-Murdoch",
+				"screen_name": "jburnmurdoch",
+				"location": "Doncaster ➡️ London",
+				"description": "Stories, stats & scatterplots for @FinancialTimes | john.burn-murdoch@ft.com | #dataviz",
+				"url": "https://t.co/VZF28wenJw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VZF28wenJw",
+								"expanded_url": "https://www.ft.com/jbm",
+								"display_url": "ft.com/jbm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37169,
+				"friends_count": 3899,
+				"listed_count": 1491,
+				"created_at": "Mon Jun 01 12:48:11 +0000 2009",
+				"favourites_count": 30939,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 47736,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/922511756110557184/IDxUQ_rr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/922511756110557184/IDxUQ_rr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43878033/1480034618",
+				"profile_link_color": "B1493F",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 618,
+			"favorite_count": 1238,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some really important insights into regional inequality in this thread https://t.co/GvxCUUMfVb"
+	},
+	{
 		"created_at": "Tue Mar 03 09:55:47 +0000 2020",
 		"id": 1234779494541648000,
 		"id_str": "1234779494541647873",
