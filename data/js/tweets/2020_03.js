@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 06 11:14:44 +0000 2020",
+		"id": 1235865328074154000,
+		"id_str": "1235886527558946816",
+		"full_text": "1. A very short thread on the power of data graphics and scientific communication.\n\nRoughly a week ago, some very smart person* sat down, drew this graph, and saved lives. \n\n(*It's 2 AM. Without an economist subscription, I can't quickly discover whom.  Maybe someone can help.) https://t.co/eU71Eu60eS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235865306662240300,
+					"id_str": "1235865306662240256",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ESas8tHVAAAhr_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESas8tHVAAAhr_I.jpg",
+					"url": "https://t.co/eU71Eu60eS",
+					"display_url": "pic.twitter.com/eU71Eu60eS",
+					"expanded_url": "https://twitter.com/CT_Bergstrom/status/1235865328074153986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235865306662240300,
+					"id_str": "1235865306662240256",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/ESas8tHVAAAhr_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESas8tHVAAAhr_I.jpg",
+					"url": "https://t.co/eU71Eu60eS",
+					"display_url": "pic.twitter.com/eU71Eu60eS",
+					"expanded_url": "https://twitter.com/CT_Bergstrom/status/1235865328074153986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "Prof. of Biology @UW. Information flow in biology, society, and science. I love corvids. (he/him)\n\nBook *Calling Bullshit* coming Aug 4th: https://t.co/XiU8wBbybO",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XiU8wBbybO",
+							"expanded_url": "http://tinyurl.com/v9g6v7a",
+							"display_url": "tinyurl.com/v9g6v7a",
+							"indices": [
+								139,
+								162
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18395,
+			"friends_count": 1693,
+			"listed_count": 589,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 24964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/941809089574715392/fbAPFYoZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/941809089574715392/fbAPFYoZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1542423022",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3079,
+		"favorite_count": 4572,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1. A very short thread on the power of data graphics and scientific communication.\n\nRoughly a week ago, some very smart person* sat down, drew this graph, and saved lives. \n\n(*It's 2 AM. Without an economist subscription, I can't quickly discover whom.  Maybe someone can help.) https://t.co/eU71Eu60eS"
+	},
+	{
+		"created_at": "Fri Mar 06 10:42:12 +0000 2020",
+		"id": 1235723940472873000,
+		"id_str": "1235878341976248320",
+		"full_text": "@LizzieGadd @stevenhill We said no identifiers do not necessarily hamper the discoverability or accessibility to papers. There are many more applications where the identifiers are crucial.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LizzieGadd",
+					"name": "Dr Elizabeth Gadd",
+					"id": 47917199,
+					"id_str": "47917199",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1234429467096993800,
+		"in_reply_to_status_id_str": "1234429467096993792",
+		"in_reply_to_user_id": 47917199,
+		"in_reply_to_user_id_str": "47917199",
+		"in_reply_to_screen_name": "LizzieGadd",
+		"user": {
+			"id": 94500877,
+			"id_str": "94500877",
+			"name": "Microsoft Academic",
+			"screen_name": "MSFTAcademic",
+			"location": "Redmond, WA USA",
+			"description": "Microsoft Academic is a free service to help the academic community find academic content, researchers, institutions, and activities.",
+			"url": "https://t.co/uoW1eKRjRK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uoW1eKRjRK",
+							"expanded_url": "http://academic.microsoft.com",
+							"display_url": "academic.microsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2695,
+			"friends_count": 400,
+			"listed_count": 106,
+			"created_at": "Fri Dec 04 06:16:40 +0000 2009",
+			"favourites_count": 232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733645843530670080/ad1Vk-46_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733645843530670080/ad1Vk-46_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94500877/1493061013",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LizzieGadd @stevenhill We said no identifiers do not necessarily hamper the discoverability or accessibility to papers. There are many more applications where the identifiers are crucial."
+	},
+	{
 		"created_at": "Wed Mar 04 20:19:37 +0000 2020",
 		"id": 1235298875424018400,
 		"id_str": "1235298875424018433",
