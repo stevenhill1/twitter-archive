@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 07 14:49:36 +0000 2020",
+		"id": 1236302987603181600,
+		"id_str": "1236302987603181568",
+		"full_text": "Some of this is great - really like the ‘scientific contributions’ section, but the good work is undermined by a focus on the h-index! (via @SimonRKerridge) cc @ResMetrics https://t.co/zdFnkwnEGg https://t.co/yGXqqmzspW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SimonRKerridge",
+					"name": "Simon Kerridge",
+					"id": 379704500,
+					"id_str": "379704500",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"screen_name": "ResMetrics",
+					"name": "Responsible Metrics",
+					"id": 3308991850,
+					"id_str": "3308991850",
+					"indices": [
+						160,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zdFnkwnEGg",
+					"expanded_url": "https://twitter.com/DORAssessment/status/1235975951709806592",
+					"display_url": "twitter.com/DORAssessment/…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236302959945961500,
+					"id_str": "1236302959945961472",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/ESg6_epX0AASOim.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESg6_epX0AASOim.jpg",
+					"url": "https://t.co/yGXqqmzspW",
+					"display_url": "pic.twitter.com/yGXqqmzspW",
+					"expanded_url": "https://twitter.com/stevenhill/status/1236302987603181568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236302959945961500,
+					"id_str": "1236302959945961472",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/ESg6_epX0AASOim.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESg6_epX0AASOim.jpg",
+					"url": "https://t.co/yGXqqmzspW",
+					"display_url": "pic.twitter.com/yGXqqmzspW",
+					"expanded_url": "https://twitter.com/stevenhill/status/1236302987603181568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1236302959207645200,
+					"id_str": "1236302959207645184",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/ESg6_b5WAAA5Pnj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESg6_b5WAAA5Pnj.jpg",
+					"url": "https://t.co/yGXqqmzspW",
+					"display_url": "pic.twitter.com/yGXqqmzspW",
+					"expanded_url": "https://twitter.com/stevenhill/status/1236302987603181568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4851,
+			"friends_count": 731,
+			"listed_count": 184,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1235975951709806600,
+		"quoted_status_id_str": "1235975951709806592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zdFnkwnEGg",
+			"expanded": "https://twitter.com/DORAssessment/status/1235975951709806592",
+			"display": "twitter.com/DORAssessment/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 06 17:10:04 +0000 2020",
+			"id": 1235975951709806600,
+			"id_str": "1235975951709806592",
+			"full_text": "The Swiss National Science Foundation (@snsf_ch) is testing a new CV format for researchers applying for project funding in biology and medicine (submission deadline 01 April 2020). \nMore: https://t.co/1zSZ9eANGJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "snsf_ch",
+						"name": "SNSF",
+						"id": 835594501,
+						"id_str": "835594501",
+						"indices": [
+							39,
+							47
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1zSZ9eANGJ",
+						"expanded_url": "http://ow.ly/9S8a50yEWTg",
+						"display_url": "ow.ly/9S8a50yEWTg",
+						"indices": [
+							189,
+							212
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3201131333,
+				"id_str": "3201131333",
+				"name": "DORA",
+				"screen_name": "DORAssessment",
+				"location": "",
+				"description": "The San Francisco Declaration on Research Assessment. Putting science into the assessment of research. Initiated by @ASCBiology. \n#sfDORA",
+				"url": "https://t.co/QFXbn4rUp1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QFXbn4rUp1",
+								"expanded_url": "http://www.sfdora.org",
+								"display_url": "sfdora.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6938,
+				"friends_count": 148,
+				"listed_count": 110,
+				"created_at": "Fri Apr 24 13:47:14 +0000 2015",
+				"favourites_count": 811,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3447,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/961187594573721600/UDWFv6id_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/961187594573721600/UDWFv6id_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3201131333/1518000196",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some of this is great - really like the ‘scientific contributions’ section, but the good work is undermined by a focus on the h-index! (via @SimonRKerridge) cc @ResMetrics https://t.co/zdFnkwnEGg https://t.co/yGXqqmzspW"
+	},
+	{
 		"created_at": "Fri Mar 06 11:14:44 +0000 2020",
 		"id": 1235865328074154000,
 		"id_str": "1235886527558946816",
