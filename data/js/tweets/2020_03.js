@@ -1,6 +1,118 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 29 20:31:08 +0000 2020",
+		"id": 1244353104721719300,
+		"id_str": "1244361471796051969",
+		"full_text": "My article for @resfortnight on why now is the time for a fundamental rethink of how we fund research, starting with prioritising QR- and why the UK must not retreat from our European and international research collaborations #remarkableresearch https://t.co/Ac9vvhPkyR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "remarkableresearch",
+					"indices": [
+						226,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResFortnight",
+					"name": "Research Fortnight",
+					"id": 46114448,
+					"id_str": "46114448",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ac9vvhPkyR",
+					"expanded_url": "https://www.researchprofessionalnews.com/rr-he-views-2020-3-a-time-for-science/",
+					"display_url": "researchprofessionalnews.com/rr-he-views-20…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 436576452,
+			"id_str": "436576452",
+			"name": "Chris Skidmore",
+			"screen_name": "CSkidmoreUK",
+			"location": "Kingswood",
+			"description": "MP for Kingswood. Dad of 3. Former Science/Uni/Health/Energy Minister currently tweeting about #remarkableresearch and #unisupport in fight against #covid19",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21469,
+			"friends_count": 993,
+			"listed_count": 534,
+			"created_at": "Wed Dec 14 09:42:35 +0000 2011",
+			"favourites_count": 656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952268394161737728/Y1_QyaRQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952268394161737728/Y1_QyaRQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/436576452/1564920093",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My article for @resfortnight on why now is the time for a fundamental rethink of how we fund research, starting with prioritising QR- and why the UK must not retreat from our European and international research collaborations #remarkableresearch https://t.co/Ac9vvhPkyR"
+	},
+	{
 		"created_at": "Tue Mar 24 13:58:06 +0000 2020",
 		"id": 1242450503344304000,
 		"id_str": "1242450620902264838",
