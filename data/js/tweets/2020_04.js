@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 08:43:50 +0000 2020",
+		"id": 1247427151688798200,
+		"id_str": "1247444962381357056",
+		"full_text": "A new article on Wonkhe: REF Manager Kim Hackett explains her team's approach to deadlines and consultation during the Covid-19 pandemic https://t.co/grFCtjV6FK https://t.co/kbtBWBjrub",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/grFCtjV6FK",
+					"expanded_url": "https://buff.ly/3bZt7g6",
+					"display_url": "buff.ly/3bZt7g6",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247427148832538600,
+					"id_str": "1247427148832538630",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_AYflXgAYwx63.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_AYflXgAYwx63.jpg",
+					"url": "https://t.co/kbtBWBjrub",
+					"display_url": "pic.twitter.com/kbtBWBjrub",
+					"expanded_url": "https://twitter.com/markmleach/status/1247427151688798208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247427148832538600,
+					"id_str": "1247427148832538630",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_AYflXgAYwx63.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_AYflXgAYwx63.jpg",
+					"url": "https://t.co/kbtBWBjrub",
+					"display_url": "pic.twitter.com/kbtBWBjrub",
+					"expanded_url": "https://twitter.com/markmleach/status/1247427151688798208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21110235,
+			"id_str": "21110235",
+			"name": "Mark Leach",
+			"screen_name": "markmleach",
+			"location": "London",
+			"description": "Founder, Editor in Chief and CEO of @Wonkhe. Working at the intersection of politics and policy in UK higher education.",
+			"url": "https://t.co/nXLnee6HMz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXLnee6HMz",
+							"expanded_url": "https://wonkhe.com/",
+							"display_url": "wonkhe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12164,
+			"friends_count": 4223,
+			"listed_count": 271,
+			"created_at": "Tue Feb 17 17:46:05 +0000 2009",
+			"favourites_count": 1607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214218360852013056/Mflucw2s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214218360852013056/Mflucw2s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21110235/1578327276",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A new article on Wonkhe: REF Manager Kim Hackett explains her team's approach to deadlines and consultation during the Covid-19 pandemic https://t.co/grFCtjV6FK https://t.co/kbtBWBjrub"
+	},
+	{
 		"created_at": "Sat Apr 04 12:37:51 +0000 2020",
 		"id": 1246416694186311700,
 		"id_str": "1246416694186311682",
