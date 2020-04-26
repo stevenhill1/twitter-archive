@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 16:52:38 +0000 2020",
+		"id": 1254082093753217000,
+		"id_str": "1254090954551812096",
+		"full_text": "My take on the Dominic Cummings ‘on’ SAGE story: advisory group's veil of secrecy has to be lifted. https://t.co/jh8F5N6T6z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jh8F5N6T6z",
+					"expanded_url": "https://theconversation.com/dominic-cummings-and-sage-advisory-groups-veil-of-secrecy-has-to-be-lifted-137228",
+					"display_url": "theconversation.com/dominic-cummin…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15700906,
+			"id_str": "15700906",
+			"name": "Chris Tyler",
+			"screen_name": "cptyler",
+			"location": "London, UK",
+			"description": "Director of Research & Policy, @UCLSTEaPP. Former Director @POST_UK & @CSciPol. 💡Science & Technology. 🤝 Policy & Politics. 🏀 Basketball.",
+			"url": "https://t.co/mESPN5rU1o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mESPN5rU1o",
+							"expanded_url": "http://www.ucl.ac.uk/steapp",
+							"display_url": "ucl.ac.uk/steapp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4621,
+			"friends_count": 1046,
+			"listed_count": 181,
+			"created_at": "Sat Aug 02 13:14:15 +0000 2008",
+			"favourites_count": 664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/872782321539305473/eE8mzmvL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/872782321539305473/eE8mzmvL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15700906/1354183213",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My take on the Dominic Cummings ‘on’ SAGE story: advisory group's veil of secrecy has to be lifted. https://t.co/jh8F5N6T6z"
+	},
+	{
 		"created_at": "Sat Apr 18 11:29:22 +0000 2020",
 		"id": 1251472888970043400,
 		"id_str": "1251472888970043392",
