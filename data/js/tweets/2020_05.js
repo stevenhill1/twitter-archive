@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 17:07:59 +0000 2020",
+		"id": 1263503943168131000,
+		"id_str": "1263516903487782912",
+		"full_text": "A conducive environment? New OA paper by Netta Weinstein, @JennChubb, Geoff Haddock &amp; me on role of departments &amp; HE workplace in shaping experiences of @REF_2021. Based on our Real-Time REF Review with @ResEngland https://t.co/lYMqs0ZU5a @stevenhill @dsweeneyUK @WileyEducation https://t.co/tWEthUqnpu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennChubb",
+					"name": "jennchubb",
+					"id": 180731658,
+					"id_str": "180731658",
+					"indices": [
+						58,
+						68
+					]
+				},
+				{
+					"screen_name": "REF_2021",
+					"name": "REF2021",
+					"id": 822173125639110700,
+					"id_str": "822173125639110657",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						211,
+						222
+					]
+				},
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						247,
+						258
+					]
+				},
+				{
+					"screen_name": "dsweeneyUK",
+					"name": "David Sweeney",
+					"id": 4162904121,
+					"id_str": "4162904121",
+					"indices": [
+						259,
+						270
+					]
+				},
+				{
+					"screen_name": "WileyEducation",
+					"name": "Wiley Education",
+					"id": 459432142,
+					"id_str": "459432142",
+					"indices": [
+						271,
+						286
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lYMqs0ZU5a",
+					"expanded_url": "https://onlinelibrary.wiley.com/doi/full/10.1111/hequ.12259",
+					"display_url": "onlinelibrary.wiley.com/doi/full/10.11…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1263503921760407600,
+					"id_str": "1263503921760407555",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjeH1zXkAMtWPW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjeH1zXkAMtWPW.jpg",
+					"url": "https://t.co/tWEthUqnpu",
+					"display_url": "pic.twitter.com/tWEthUqnpu",
+					"expanded_url": "https://twitter.com/jameswilsdon/status/1263503943168131072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1405,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263503921760407600,
+					"id_str": "1263503921760407555",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjeH1zXkAMtWPW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjeH1zXkAMtWPW.jpg",
+					"url": "https://t.co/tWEthUqnpu",
+					"display_url": "pic.twitter.com/tWEthUqnpu",
+					"expanded_url": "https://twitter.com/jameswilsdon/status/1263503943168131072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1405,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 276224538,
+			"id_str": "276224538",
+			"name": "James Wilsdon",
+			"screen_name": "jameswilsdon",
+			"location": "Sheffield & Wellcome Trust",
+			"description": "director @RoRInstitute | @digitalsci professor of research policy @InfoSchoolSheff | vice-chair @INGSciAdvice",
+			"url": "https://t.co/jxRP8wB5Xo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jxRP8wB5Xo",
+							"expanded_url": "https://www.sheffield.ac.uk/politics/people/academic/james-wilsdon",
+							"display_url": "sheffield.ac.uk/politics/peopl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10188,
+			"friends_count": 1713,
+			"listed_count": 344,
+			"created_at": "Sat Apr 02 22:47:09 +0000 2011",
+			"favourites_count": 6069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151830369987178496/MVGhpTqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151830369987178496/MVGhpTqq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/276224538/1579965225",
+			"profile_link_color": "FF002B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A conducive environment? New OA paper by Netta Weinstein, @JennChubb, Geoff Haddock &amp; me on role of departments &amp; HE workplace in shaping experiences of @REF_2021. Based on our Real-Time REF Review with @ResEngland https://t.co/lYMqs0ZU5a @stevenhill @dsweeneyUK @WileyEducation https://t.co/tWEthUqnpu"
+	},
+	{
 		"created_at": "Sun May 10 10:53:06 +0000 2020",
 		"id": 1259108361431384000,
 		"id_str": "1259436296625442819",
