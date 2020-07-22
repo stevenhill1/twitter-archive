@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 21 13:11:29 +0000 2020",
+		"id": 1285527542158569500,
+		"id_str": "1285563045683568640",
+		"full_text": "It is discomforting that most people still underestimate true impact of #Covid19. Immediate effects are so shocking that we are all caught up in them.But longer-term implications may be more profound still. If we are not careful, they will shake the world order to its foundations",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Covid19",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1489776218,
+			"id_str": "1489776218",
+			"name": "Jeremy Farrar",
+			"screen_name": "JeremyFarrar",
+			"location": "London",
+			"description": "Director of the Wellcome Trust (@WellcomeTrust).",
+			"url": "http://t.co/H9exKnnLoM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/H9exKnnLoM",
+							"expanded_url": "http://wellcome.ac.uk",
+							"display_url": "wellcome.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50246,
+			"friends_count": 168,
+			"listed_count": 1073,
+			"created_at": "Fri Jun 07 07:30:53 +0000 2013",
+			"favourites_count": 1528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 43334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "414141",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136300466763997184/pYXTqIc3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136300466763997184/pYXTqIc3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1489776218/1559805364",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 998,
+		"favorite_count": 2304,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It is discomforting that most people still underestimate true impact of #Covid19. Immediate effects are so shocking that we are all caught up in them.But longer-term implications may be more profound still. If we are not careful, they will shake the world order to its foundations"
+	},
+	{
 		"created_at": "Mon Jul 20 13:03:05 +0000 2020",
 		"id": 1285198546120179700,
 		"id_str": "1285198546120179713",
