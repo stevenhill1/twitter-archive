@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 22 07:21:32 +0000 2020",
+		"id": 1285837367224553500,
+		"id_str": "1285837367224553472",
+		"full_text": "Important point in this thread about research culture and integrity https://t.co/JxDBzIH7Zj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JxDBzIH7Zj",
+					"expanded_url": "https://twitter.com/b_penders/status/1285824603097571329",
+					"display_url": "twitter.com/b_penders/stat…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4978,
+			"friends_count": 738,
+			"listed_count": 177,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1285824603097571300,
+		"quoted_status_id_str": "1285824603097571329",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JxDBzIH7Zj",
+			"expanded": "https://twitter.com/b_penders/status/1285824603097571329",
+			"display": "twitter.com/b_penders/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 22 06:30:49 +0000 2020",
+			"id": 1285824603097571300,
+			"id_str": "1285824603097571329",
+			"full_text": "Excellent review, identifying a common, problematic, thread in a lot of writing on research integrity: there once was a proper science and we have to overcome barriers to get there again (preferably while making the individual scientist responsible). https://t.co/NH0Zm6GhPU 1/",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NH0Zm6GhPU",
+						"expanded_url": "https://www.nature.com/articles/d41586-020-02147-1",
+						"display_url": "nature.com/articles/d4158…",
+						"indices": [
+							251,
+							274
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3062501138,
+				"id_str": "3062501138",
+				"name": "ᴮᵃʳᵗ Penders",
+				"screen_name": "b_penders",
+				"location": "Vaals",
+				"description": "Science studies scholar: #trust in & #credibility of science, #publication #collaboration #integrity, also #food & #STS @MaastrichtU Tweets in 🇬🇧, 🇳🇱 & 🇩🇪",
+				"url": "https://t.co/895n2MfQRn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/895n2MfQRn",
+								"expanded_url": "http://www.bartpenders.nl",
+								"display_url": "bartpenders.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1160,
+				"friends_count": 1263,
+				"listed_count": 27,
+				"created_at": "Thu Mar 05 08:09:16 +0000 2015",
+				"favourites_count": 7717,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7656,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260287386174607361/-RliyxGf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260287386174607361/-RliyxGf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3062501138/1573209433",
+				"profile_link_color": "4E5702",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Important point in this thread about research culture and integrity https://t.co/JxDBzIH7Zj"
+	},
+	{
 		"created_at": "Tue Jul 21 13:11:29 +0000 2020",
 		"id": 1285527542158569500,
 		"id_str": "1285563045683568640",
