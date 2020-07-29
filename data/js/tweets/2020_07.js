@@ -1,6 +1,127 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 28 07:10:28 +0000 2020",
+		"id": 1287732320297013200,
+		"id_str": "1288008909672853505",
+		"full_text": "NEW: a major report from COPIM! 'WP5 Scoping Report: Building an Open Dissemination System'.\n\nThis report maps the minimal metadata requirements for the interaction of open access (OA) presses with the scholarly communications supply chain.\n\n#OAbooks #OA\n\nhttps://t.co/UYMlMa9RkA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OAbooks",
+					"indices": [
+						242,
+						250
+					]
+				},
+				{
+					"text": "OA",
+					"indices": [
+						251,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UYMlMa9RkA",
+					"expanded_url": "https://copim.pubpub.org/pub/wp5-scoping-report-building-open-dissemination-system",
+					"display_url": "copim.pubpub.org/pub/wp5-scopin…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1212770533869179000,
+			"id_str": "1212770533869178882",
+			"name": "COPIMproject",
+			"screen_name": "COPIMproject",
+			"location": "",
+			"description": "An international partnership building open, community-governed systems and infrastructures to support Open Access book publishing. #OAbooks #COPIM",
+			"url": "https://t.co/Ye6QstcQAh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ye6QstcQAh",
+							"expanded_url": "https://www.copim.ac.uk",
+							"display_url": "copim.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 509,
+			"friends_count": 242,
+			"listed_count": 11,
+			"created_at": "Thu Jan 02 16:21:18 +0000 2020",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227187848367005697/VGLrGNQf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227187848367005697/VGLrGNQf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1212770533869178882/1581303189",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW: a major report from COPIM! 'WP5 Scoping Report: Building an Open Dissemination System'.\n\nThis report maps the minimal metadata requirements for the interaction of open access (OA) presses with the scholarly communications supply chain.\n\n#OAbooks #OA\n\nhttps://t.co/UYMlMa9RkA"
+	},
+	{
 		"created_at": "Mon Jul 27 16:30:46 +0000 2020",
 		"id": 1287779970681577500,
 		"id_str": "1287787526623768576",
