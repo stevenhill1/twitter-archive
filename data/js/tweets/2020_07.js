@@ -1,6 +1,556 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 30 12:58:49 +0000 2020",
+		"id": 1288819298195185700,
+		"id_str": "1288821347746033664",
+		"full_text": "What if the way we think about fixing #misinformation is wrong? My team at @wellcometrust's has done some work with @shift_org.\n\nA thread on how we should look at the conditions that create misinformation, not just the misinformation itself. Can we create a healthier internet? 👇🏾 https://t.co/kZLHdlbvrW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "misinformation",
+					"indices": [
+						38,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wellcometrust",
+					"name": "Wellcome",
+					"id": 19837528,
+					"id_str": "19837528",
+					"indices": [
+						75,
+						89
+					]
+				},
+				{
+					"screen_name": "shift_org",
+					"name": "Shift",
+					"id": 23180404,
+					"id_str": "23180404",
+					"indices": [
+						116,
+						126
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1288819280671379500,
+					"id_str": "1288819280671379467",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeLOTqwXkAsinGG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeLOTqwXkAsinGG.jpg",
+					"url": "https://t.co/kZLHdlbvrW",
+					"display_url": "pic.twitter.com/kZLHdlbvrW",
+					"expanded_url": "https://twitter.com/imrankhan/status/1288819298195185664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288819280671379500,
+					"id_str": "1288819280671379467",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeLOTqwXkAsinGG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeLOTqwXkAsinGG.jpg",
+					"url": "https://t.co/kZLHdlbvrW",
+					"display_url": "pic.twitter.com/kZLHdlbvrW",
+					"expanded_url": "https://twitter.com/imrankhan/status/1288819298195185664/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EeLOTqwXkAsinGG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14973943,
+			"id_str": "14973943",
+			"name": "Imran Khan",
+			"screen_name": "imrankhan",
+			"location": "Hackney, London",
+			"description": "not that one. professional nerd. work on the connections between science, culture, society.\n\nhead of public engagement at @wellcometrust, trustee at @nesta_uk.",
+			"url": "https://t.co/Y0TXuuFbQ0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y0TXuuFbQ0",
+							"expanded_url": "http://www.wellcome.ac.uk",
+							"display_url": "wellcome.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41970,
+			"friends_count": 1745,
+			"listed_count": 341,
+			"created_at": "Sun Jun 01 19:13:07 +0000 2008",
+			"favourites_count": 8634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174852216374681601/8jhq13Rr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174852216374681601/8jhq13Rr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14973943/1510504665",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What if the way we think about fixing #misinformation is wrong? My team at @wellcometrust's has done some work with @shift_org.\n\nA thread on how we should look at the conditions that create misinformation, not just the misinformation itself. Can we create a healthier internet? 👇🏾 https://t.co/kZLHdlbvrW"
+	},
+	{
+		"created_at": "Thu Jul 30 10:31:29 +0000 2020",
+		"id": 1288777800766431200,
+		"id_str": "1288784271583383552",
+		"full_text": "A new questionnaire and guidance, arising from a project led by @arma_uk and funded by @UKRI_news, has been launched to support universities in developing successful international partnerships.  \n\nRead more: https://t.co/SFBPSVJgPg https://t.co/QJPBbS1XOE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arma_uk",
+					"name": "ARMA UK",
+					"id": 580140626,
+					"id_str": "580140626",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"screen_name": "UKRI_News",
+					"name": "UK Research and Innovation",
+					"id": 732141019114930200,
+					"id_str": "732141019114930176",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SFBPSVJgPg",
+					"expanded_url": "http://orlo.uk/0G5Jw",
+					"display_url": "orlo.uk/0G5Jw",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1288777799256416300,
+					"id_str": "1288777799256416256",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeKolIcWoAAYV1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeKolIcWoAAYV1h.jpg",
+					"url": "https://t.co/QJPBbS1XOE",
+					"display_url": "pic.twitter.com/QJPBbS1XOE",
+					"expanded_url": "https://twitter.com/ResEngland/status/1288777800766431232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288777799256416300,
+					"id_str": "1288777799256416256",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EeKolIcWoAAYV1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EeKolIcWoAAYV1h.jpg",
+					"url": "https://t.co/QJPBbS1XOE",
+					"display_url": "pic.twitter.com/QJPBbS1XOE",
+					"expanded_url": "https://twitter.com/ResEngland/status/1288777800766431232/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EeKolIcWoAAYV1h.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+			"url": "https://t.co/BI90gIR8Ar",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BI90gIR8Ar",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9553,
+			"friends_count": 366,
+			"listed_count": 112,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278277299457216514/Ck9k87cr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278277299457216514/Ck9k87cr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1570693021",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A new questionnaire and guidance, arising from a project led by @arma_uk and funded by @UKRI_news, has been launched to support universities in developing successful international partnerships.  \n\nRead more: https://t.co/SFBPSVJgPg https://t.co/QJPBbS1XOE"
+	},
+	{
+		"created_at": "Thu Jul 30 06:38:55 +0000 2020",
+		"id": 1288582186959069200,
+		"id_str": "1288725742755471360",
+		"full_text": "Why didn't we lockdown earlier? (Thread)\n\nThis is a subject about which theories are put forward endlessly\n\nI wanted to explore it in more detail and teamed up with @BBCPM to do so\n\nTwo key areas emerged. The idea of lockdown fatigue and where we were on the epidemic cycle.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCPM",
+					"name": "BBCPM",
+					"id": 1510009314,
+					"id_str": "1510009314",
+					"indices": [
+						165,
+						171
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335312037,
+			"id_str": "335312037",
+			"name": "Lewis Goodall",
+			"screen_name": "lewis_goodall",
+			"location": "lewis.goodall@bbc.co.uk",
+			"description": "Policy Editor @BBCNewsnight. I cover politics, policy, economics and government in the UK and beyond | Author: Left for Dead. Buy here- https://t.co/0WXSfvTL3X",
+			"url": "https://t.co/dsBwu4neJN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dsBwu4neJN",
+							"expanded_url": "http://www.instagram.com/lewis_goodall1",
+							"display_url": "instagram.com/lewis_goodall1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0WXSfvTL3X",
+							"expanded_url": "http://bit.ly/2KEYHSk",
+							"display_url": "bit.ly/2KEYHSk",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 169780,
+			"friends_count": 4148,
+			"listed_count": 1514,
+			"created_at": "Thu Jul 14 13:56:30 +0000 2011",
+			"favourites_count": 13812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208201577208651776/LIKxplmQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208201577208651776/LIKxplmQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335312037/1578313242",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1584,
+		"favorite_count": 3221,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Why didn't we lockdown earlier? (Thread)\n\nThis is a subject about which theories are put forward endlessly\n\nI wanted to explore it in more detail and teamed up with @BBCPM to do so\n\nTwo key areas emerged. The idea of lockdown fatigue and where we were on the epidemic cycle."
+	},
+	{
 		"created_at": "Tue Jul 28 07:10:28 +0000 2020",
 		"id": 1287732320297013200,
 		"id_str": "1288008909672853505",
