@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 29 11:08:20 +0000 2020",
+		"id": 1299657225242316800,
+		"id_str": "1299665182722002945",
+		"full_text": "Covid or no Covid... is “back to the office” really the future. We have a great opportunity to re-think work, life, cities and how we function as a society. “Back to the office” is a blinkered old-fashioned way of thinking. Surely Dom can see that! https://t.co/pcW8julnb7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pcW8julnb7",
+					"expanded_url": "https://www.theguardian.com/politics/2020/aug/28/boris-johnson-urged-to-set-out-credible-back-to-office-plan?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/politics/2020/…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1478149944,
+			"id_str": "1478149944",
+			"name": "David Price",
+			"screen_name": "DavidPriceUCL",
+			"location": "UCL",
+			"description": "Professor of Mineral Physics and Vice-Provost (Research), UCL. Views all my own!",
+			"url": "https://t.co/Y5G1vBiAKs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y5G1vBiAKs",
+							"expanded_url": "https://www.ucl.ac.uk/research/about/professor-david-price-ucl-vice-provost-research",
+							"display_url": "ucl.ac.uk/research/about…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4116,
+			"friends_count": 704,
+			"listed_count": 209,
+			"created_at": "Sun Jun 02 20:44:43 +0000 2013",
+			"favourites_count": 21512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDE6EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/716696047272259589/9GtOBhz3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/716696047272259589/9GtOBhz3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1478149944/1372516227",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Covid or no Covid... is “back to the office” really the future. We have a great opportunity to re-think work, life, cities and how we function as a society. “Back to the office” is a blinkered old-fashioned way of thinking. Surely Dom can see that! https://t.co/pcW8julnb7"
+	},
+	{
 		"created_at": "Fri Aug 28 20:35:57 +0000 2020",
 		"id": 1299445638258667500,
 		"id_str": "1299445638258667525",
