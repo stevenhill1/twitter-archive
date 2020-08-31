@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 30 10:00:34 +0000 2020",
+		"id": 1300010515842957300,
+		"id_str": "1300010515842957312",
+		"full_text": "I vividly remember the realisation, when I joined the civil service, that the series was a documentary/training film not a comedy... https://t.co/iSVwWw9R0N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iSVwWw9R0N",
+					"expanded_url": "https://twitter.com/GraemeTR/status/1300008045917999104",
+					"display_url": "twitter.com/GraemeTR/statu…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5019,
+			"friends_count": 748,
+			"listed_count": 177,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1300008045917999000,
+		"quoted_status_id_str": "1300008045917999104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iSVwWw9R0N",
+			"expanded": "https://twitter.com/GraemeTR/status/1300008045917999104",
+			"display": "twitter.com/GraemeTR/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 30 09:50:45 +0000 2020",
+			"id": 1300008045917999000,
+			"id_str": "1300008045917999104",
+			"full_text": "I read the complete volume of ‘Yes Minister’ earlier this year.  I shall shortly begin the volume of ‘Yes Prime Minister’. Wonderful stuff, great fun, full of hilarious observations, relevant now as ever. https://t.co/j8KerXKohr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j8KerXKohr",
+						"expanded_url": "https://twitter.com/yessirhumphrey/status/1299804342426402817",
+						"display_url": "twitter.com/yessirhumphrey…",
+						"indices": [
+							205,
+							228
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60871529,
+				"id_str": "60871529",
+				"name": "Graeme Reid",
+				"screen_name": "GraemeTR",
+				"location": "Profile on LinkedIn",
+				"description": "Professor of Science and Research Policy - University College London",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1760,
+				"friends_count": 99,
+				"listed_count": 64,
+				"created_at": "Tue Jul 28 10:44:31 +0000 2009",
+				"favourites_count": 107,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12671,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/604767243063410688/k034nu4U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/604767243063410688/k034nu4U_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1299804342426402800,
+			"quoted_status_id_str": "1299804342426402817",
+			"quoted_status_permalink": {
+				"url": "https://t.co/j8KerXKohr",
+				"expanded": "https://twitter.com/yessirhumphrey/status/1299804342426402817",
+				"display": "twitter.com/yessirhumphrey…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I vividly remember the realisation, when I joined the civil service, that the series was a documentary/training film not a comedy... https://t.co/iSVwWw9R0N"
+	},
+	{
 		"created_at": "Sat Aug 29 11:08:20 +0000 2020",
 		"id": 1299657225242316800,
 		"id_str": "1299665182722002945",
