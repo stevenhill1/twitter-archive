@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 13:51:29 +0000 2020",
+		"id": 1314854433172357000,
+		"id_str": "1314926530083131392",
+		"full_text": "Effective support for the #mentalhealth and wellbeing of PGRs requires the engagement of all parts of an institution. @Vitae_news report on the RE/@ofs Catalyst Fund looks at what senior leaders can do to embed good practice https://t.co/qJrXYVINgA #WorldMentalHealthDay https://t.co/4B1W8NZ9mv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mentalhealth",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"text": "WorldMentalHealthDay",
+					"indices": [
+						249,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vitae_news",
+					"name": "Vitae",
+					"id": 47305063,
+					"id_str": "47305063",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qJrXYVINgA",
+					"expanded_url": "https://www.vitae.ac.uk/vitae-publications/catalyst-fund-supporting-mental-health-and-wellbeing-for-postgraduate-research-students",
+					"display_url": "vitae.ac.uk/vitae-publicat…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314205875310006300,
+					"id_str": "1314205875310006272",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314205875310006272/pu/img/CZXFw03-rbeiBVhg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314205875310006272/pu/img/CZXFw03-rbeiBVhg.jpg",
+					"url": "https://t.co/4B1W8NZ9mv",
+					"display_url": "pic.twitter.com/4B1W8NZ9mv",
+					"expanded_url": "https://twitter.com/ResEngland/status/1314854433172357120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314205875310006300,
+					"id_str": "1314205875310006272",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314205875310006272/pu/img/CZXFw03-rbeiBVhg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314205875310006272/pu/img/CZXFw03-rbeiBVhg.jpg",
+					"url": "https://t.co/4B1W8NZ9mv",
+					"display_url": "pic.twitter.com/4B1W8NZ9mv",
+					"expanded_url": "https://twitter.com/ResEngland/status/1314854433172357120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 89720,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314205875310006272/pu/vid/640x360/6stLUJpyQhV0943t.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314205875310006272/pu/vid/1280x720/drX_uOEffsIs4xK4.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1314205875310006272/pu/pl/iRwbdvgbRVLdn0jx.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314205875310006272/pu/vid/480x270/boSQqhAz7j8avvxs.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "The importance of supporting the mental health of postgraduates",
+						"description": "Rosie Tressler, Chief Executive Officer of Student Minds, discusses why it’s important to adequately support and promote the #mentalhealth of PHD and Masters students.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.officeforstudents.org.uk/advice-and-guidance/student-wellbeing-and-protection/student-mental-health/resources-for-higher-education-providers/"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+			"url": "https://t.co/BI90gIR8Ar",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BI90gIR8Ar",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9980,
+			"friends_count": 366,
+			"listed_count": 129,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278277299457216514/Ck9k87cr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278277299457216514/Ck9k87cr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1570693021",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Effective support for the #mentalhealth and wellbeing of PGRs requires the engagement of all parts of an institution. @Vitae_news report on the RE/@ofs Catalyst Fund looks at what senior leaders can do to embed good practice https://t.co/qJrXYVINgA #WorldMentalHealthDay https://t.co/4B1W8NZ9mv"
+	},
+	{
 		"created_at": "Fri Oct 09 08:24:33 +0000 2020",
 		"id": 1314481865454022700,
 		"id_str": "1314481865454022661",
