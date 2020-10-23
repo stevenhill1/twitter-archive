@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 22 10:20:38 +0000 2020",
+		"id": 1319219190033748000,
+		"id_str": "1319222122712006662",
+		"full_text": "Students from Black, Asian and minority ethnic groups are underrepresented in postgraduate research (PGR) study.\nToday, @ResearchEngland and @OfficeStudents launch an £8M funding competition to improve access and participation for these students.\nhttps://t.co/E98lGrqpcb https://t.co/45VbhdqabD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "researchengland",
+					"name": "Shasta Stein",
+					"id": 91029046,
+					"id_str": "91029046",
+					"indices": [
+						120,
+						136
+					]
+				},
+				{
+					"screen_name": "officestudents",
+					"name": "The Office for Students (OfS)",
+					"id": 801389270485307400,
+					"id_str": "801389270485307392",
+					"indices": [
+						141,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E98lGrqpcb",
+					"expanded_url": "https://re.ukri.org/news-opinions-events/news/new-fund-to-improve-postgraduate-research-participation-and-access/",
+					"display_url": "re.ukri.org/news-opinions-…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1319218974572335000,
+					"id_str": "1319218974572335105",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek7OqvhW0AEfIRM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek7OqvhW0AEfIRM.jpg",
+					"url": "https://t.co/45VbhdqabD",
+					"display_url": "pic.twitter.com/45VbhdqabD",
+					"expanded_url": "https://twitter.com/ResEngland/status/1319219190033747969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319218974572335000,
+					"id_str": "1319218974572335105",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek7OqvhW0AEfIRM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek7OqvhW0AEfIRM.jpg",
+					"url": "https://t.co/45VbhdqabD",
+					"display_url": "pic.twitter.com/45VbhdqabD",
+					"expanded_url": "https://twitter.com/ResEngland/status/1319219190033747969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+			"url": "https://t.co/BI90gIR8Ar",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BI90gIR8Ar",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10095,
+			"friends_count": 366,
+			"listed_count": 128,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278277299457216514/Ck9k87cr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278277299457216514/Ck9k87cr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1570693021",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Students from Black, Asian and minority ethnic groups are underrepresented in postgraduate research (PGR) study.\nToday, @ResearchEngland and @OfficeStudents launch an £8M funding competition to improve access and participation for these students.\nhttps://t.co/E98lGrqpcb https://t.co/45VbhdqabD"
+	},
+	{
 		"created_at": "Wed Oct 14 07:50:23 +0000 2020",
 		"id": 1316285206563876900,
 		"id_str": "1316285206563876865",
