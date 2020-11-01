@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 31 18:31:51 +0000 2020",
+		"id": 1294182919783813000,
+		"id_str": "1322607232010330114",
+		"full_text": "New Covid-19 response paper from @BritishAcademy_ Fellows Nick Stern &amp; Tim Besley argues it is unhelpful to pit health and economic outcomes against each other. They put forward a series of practical proposals to get the economy going 1/n\nhttps://t.co/sEpsgX65LE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BritishAcademy_",
+					"name": "The British Academy",
+					"id": 361302333,
+					"id_str": "361302333",
+					"indices": [
+						33,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sEpsgX65LE",
+					"expanded_url": "https://www.thebritishacademy.ac.uk/news/economists-warn-abrupt-and-premature-lockdown-lift-risks-higher-death-toll-and-double-dip-recession/",
+					"display_url": "thebritishacademy.ac.uk/news/economist…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123220773,
+			"id_str": "123220773",
+			"name": "Hetan Shah",
+			"screen_name": "HetanShah",
+			"location": "London",
+			"description": "CEO @BritishAcademy_ Chair @FProvFoundation Visiting Prof @PolicyatKings Vice Chair @AdaLovelaceInst Trustee @StGeorgesHouse Tweets my own",
+			"url": "https://t.co/qJ87AHLMX8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qJ87AHLMX8",
+							"expanded_url": "https://www.thebritishacademy.ac.uk/",
+							"display_url": "thebritishacademy.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11630,
+			"friends_count": 1933,
+			"listed_count": 342,
+			"created_at": "Mon Mar 15 11:30:56 +0000 2010",
+			"favourites_count": 4835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575963450045677569/mY4H0cfL_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575963450045677569/mY4H0cfL_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123220773/1562356053",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Covid-19 response paper from @BritishAcademy_ Fellows Nick Stern &amp; Tim Besley argues it is unhelpful to pit health and economic outcomes against each other. They put forward a series of practical proposals to get the economy going 1/n\nhttps://t.co/sEpsgX65LE"
+	},
+	{
 		"created_at": "Fri Oct 30 09:08:45 +0000 2020",
 		"id": 1322103135377252400,
 		"id_str": "1322103135377252352",
