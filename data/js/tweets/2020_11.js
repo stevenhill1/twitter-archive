@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 18 15:18:09 +0000 2020",
+		"id": 1329019301312000000,
+		"id_str": "1329081466349752323",
+		"full_text": "The changing role of funders in responsible research assessment: new @RoRInstitute working paper by @Stephen_Curry @sarahderijcke @WeijdenInge @AnnaHscientist, Gansen Pillay &amp; me https://t.co/uG7IriT9lb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RoRInstitute",
+					"name": "Research on Research Institute",
+					"id": 1059954232550289400,
+					"id_str": "1059954232550289408",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"screen_name": "Stephen_Curry",
+					"name": "Stephen Curry",
+					"id": 41358714,
+					"id_str": "41358714",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"screen_name": "sarahderijcke",
+					"name": "Sarah de Rijcke",
+					"id": 42592506,
+					"id_str": "42592506",
+					"indices": [
+						115,
+						129
+					]
+				},
+				{
+					"screen_name": "WeijdenInge",
+					"name": "Inge van der Weijden",
+					"id": 1089870282288959500,
+					"id_str": "1089870282288959489",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"screen_name": "AnnaHscientist",
+					"name": "Anna Hatch",
+					"id": 717733727493816300,
+					"id_str": "717733727493816320",
+					"indices": [
+						143,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uG7IriT9lb",
+					"expanded_url": "https://rori.figshare.com/articles/report/The_changing_role_of_funders_in_responsible_research_assessment_progress_obstacles_and_the_way_ahead/13227914",
+					"display_url": "rori.figshare.com/articles/repor…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 276224538,
+			"id_str": "276224538",
+			"name": "James Wilsdon",
+			"screen_name": "jameswilsdon",
+			"location": "Sheffield & Wellcome Trust",
+			"description": "director @RoRInstitute | @digitalsci professor of research policy @InfoSchoolSheff | vice-chair @INGSciAdvice",
+			"url": "https://t.co/R3vpuGKwji",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R3vpuGKwji",
+							"expanded_url": "https://www.sheffield.ac.uk/is/people/academic/james-wilsdon",
+							"display_url": "sheffield.ac.uk/is/people/acad…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10455,
+			"friends_count": 1770,
+			"listed_count": 358,
+			"created_at": "Sat Apr 02 22:47:09 +0000 2011",
+			"favourites_count": 6450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151830369987178496/MVGhpTqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151830369987178496/MVGhpTqq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/276224538/1579965225",
+			"profile_link_color": "FF002B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The changing role of funders in responsible research assessment: new @RoRInstitute working paper by @Stephen_Curry @sarahderijcke @WeijdenInge @AnnaHscientist, Gansen Pillay &amp; me https://t.co/uG7IriT9lb"
+	},
+	{
 		"created_at": "Tue Nov 17 10:28:29 +0000 2020",
 		"id": 1328646180058886100,
 		"id_str": "1328646180058886144",
