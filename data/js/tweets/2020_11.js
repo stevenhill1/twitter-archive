@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 25 18:27:45 +0000 2020",
+		"id": 1331665896641867800,
+		"id_str": "1331665896641867782",
+		"full_text": "Great piece by @janetinkler and @PJDunleavy \"The impacts agenda is an autonomous push for opening up and democratizing academia, not part of a neo-liberal hegemony\" https://t.co/pDug93BNlH https://t.co/v4avHdjLTc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janetinkler",
+					"name": "Jane Tinkler",
+					"id": 167711077,
+					"id_str": "167711077",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "PJDunleavy",
+					"name": "Patrick Dunleavy",
+					"id": 133385126,
+					"id_str": "133385126",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pDug93BNlH",
+					"expanded_url": "https://blogs.lse.ac.uk/impactofsocialsciences/2020/11/20/the-impacts-agenda-is-an-autonomous-push-for-opening-up-and-democratizing-academia-not-part-of-a-neo-liberal-hegemony/",
+					"display_url": "blogs.lse.ac.uk/impactofsocial…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1331665894557311000,
+					"id_str": "1331665894557310978",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EnsHE1yXYAIRT7n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnsHE1yXYAIRT7n.jpg",
+					"url": "https://t.co/v4avHdjLTc",
+					"display_url": "pic.twitter.com/v4avHdjLTc",
+					"expanded_url": "https://twitter.com/stevenhill/status/1331665896641867782/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 897,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 897,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331665894557311000,
+					"id_str": "1331665894557310978",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EnsHE1yXYAIRT7n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnsHE1yXYAIRT7n.jpg",
+					"url": "https://t.co/v4avHdjLTc",
+					"display_url": "pic.twitter.com/v4avHdjLTc",
+					"expanded_url": "https://twitter.com/stevenhill/status/1331665896641867782/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 897,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 897,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5109,
+			"friends_count": 756,
+			"listed_count": 178,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great piece by @janetinkler and @PJDunleavy \"The impacts agenda is an autonomous push for opening up and democratizing academia, not part of a neo-liberal hegemony\" https://t.co/pDug93BNlH https://t.co/v4avHdjLTc"
+	},
+	{
 		"created_at": "Wed Nov 18 15:18:09 +0000 2020",
 		"id": 1329019301312000000,
 		"id_str": "1329081466349752323",
