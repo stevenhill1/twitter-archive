@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 08:40:38 +0000 2020",
+		"id": 1334579824279564300,
+		"id_str": "1335142020805955585",
+		"full_text": "Great review of my new book, \"Mass Appeal\" just out in the @LSEReviewBooks by someone who recognizes research impact:\n\nSteven Hill, @UKRI_News @ResEngland Director of Research &amp; Chair of 2021 Research Excellence Framework #REF2021 steering group\n\n🙏🙏\nhttps://t.co/W330pCeMa6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REF2021",
+					"indices": [
+						226,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LSEReviewBooks",
+					"name": "LSE Review of Books",
+					"id": 473863406,
+					"id_str": "473863406",
+					"indices": [
+						59,
+						74
+					]
+				},
+				{
+					"screen_name": "UKRI_News",
+					"name": "UK Research and Innovation",
+					"id": 732141019114930200,
+					"id_str": "732141019114930176",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						143,
+						154
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W330pCeMa6",
+					"expanded_url": "https://blogs.lse.ac.uk/lsereviewofbooks/2020/12/02/book-review-mass-appeal-communicating-policy-ideas-in-multiple-media-by-justin-gest/",
+					"display_url": "blogs.lse.ac.uk/lsereviewofboo…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1284119574716260400,
+			"id_str": "1284119574716260355",
+			"name": "Justin Gest 🦋",
+			"screen_name": "_JustinGest",
+			"location": "Washington DC",
+			"description": "Author, Commentator, Associate Professor of Policy and Government @GeorgeMasonU @ScharSchool Immigration / Demographic Change",
+			"url": "https://t.co/BrU03MPNd9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BrU03MPNd9",
+							"expanded_url": "http://JustinGest.com",
+							"display_url": "JustinGest.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265,
+			"friends_count": 89,
+			"listed_count": 5,
+			"created_at": "Fri Jul 17 13:35:45 +0000 2020",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1284119851724832769/68xf70BX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284119851724832769/68xf70BX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1284119574716260355/1595457478",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great review of my new book, \"Mass Appeal\" just out in the @LSEReviewBooks by someone who recognizes research impact:\n\nSteven Hill, @UKRI_News @ResEngland Director of Research &amp; Chair of 2021 Research Excellence Framework #REF2021 steering group\n\n🙏🙏\nhttps://t.co/W330pCeMa6"
+	},
+	{
 		"created_at": "Thu Dec 03 16:28:12 +0000 2020",
 		"id": 1334534913664700400,
 		"id_str": "1334534913664700417",
