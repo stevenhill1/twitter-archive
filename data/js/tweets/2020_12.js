@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 10 10:11:54 +0000 2020",
+		"id": 1336946266060808200,
+		"id_str": "1336976929954652162",
+		"full_text": "NEW on Wonkhe: A challenge for UK HE: can universities deliver on their civic mission in turbulent times?  https://t.co/zuaAfyeULB https://t.co/3ohhH4nFZO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zuaAfyeULB",
+					"expanded_url": "https://buff.ly/2Iziwzz",
+					"display_url": "buff.ly/2Iziwzz",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336946263431000000,
+					"id_str": "1336946263431000064",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo3JiwuXMAAWJA_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo3JiwuXMAAWJA_.jpg",
+					"url": "https://t.co/3ohhH4nFZO",
+					"display_url": "pic.twitter.com/3ohhH4nFZO",
+					"expanded_url": "https://twitter.com/Wonkhe/status/1336946266060808192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336946263431000000,
+					"id_str": "1336946263431000064",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo3JiwuXMAAWJA_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo3JiwuXMAAWJA_.jpg",
+					"url": "https://t.co/3ohhH4nFZO",
+					"display_url": "pic.twitter.com/3ohhH4nFZO",
+					"expanded_url": "https://twitter.com/Wonkhe/status/1336946266060808192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245499504,
+			"id_str": "245499504",
+			"name": "Wonkhe",
+			"screen_name": "Wonkhe",
+			"location": "UK",
+			"description": "Home of the UK higher education debate. Founder & Editor in Chief: @markmleach",
+			"url": "https://t.co/AAcTiW7qPe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AAcTiW7qPe",
+							"expanded_url": "http://wonkhe.com",
+							"display_url": "wonkhe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35730,
+			"friends_count": 14987,
+			"listed_count": 683,
+			"created_at": "Mon Jan 31 20:54:22 +0000 2011",
+			"favourites_count": 8216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213358797038739456/P4RT8ilj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213358797038739456/P4RT8ilj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245499504/1596465151",
+			"profile_link_color": "282746",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW on Wonkhe: A challenge for UK HE: can universities deliver on their civic mission in turbulent times?  https://t.co/zuaAfyeULB https://t.co/3ohhH4nFZO"
+	},
+	{
 		"created_at": "Sat Dec 05 08:40:38 +0000 2020",
 		"id": 1334579824279564300,
 		"id_str": "1335142020805955585",
