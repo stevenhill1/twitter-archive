@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 18 10:11:38 +0000 2020",
+		"id": 1339632658733740000,
+		"id_str": "1339875963501461505",
+		"full_text": "My top choice: The Innovation Delusion by @STS_News &amp; @RussellProf, which provided a much-needed antidote to the toxic techno-nationalist guff that has emanated from our government over the course of the pandemic https://t.co/aZJfa6WgKw (now with correct twitter handle!)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "STS_News",
+					"name": "Lee Vinsel",
+					"id": 433747438,
+					"id_str": "433747438",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "RussellProf",
+					"name": "Andrew L. Russell",
+					"id": 1673604806,
+					"id_str": "1673604806",
+					"indices": [
+						58,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aZJfa6WgKw",
+					"expanded_url": "https://www.penguinrandomhouse.com/books/576816/the-innovation-delusion-by-lee-vinsel-and-andrew-l-russell/",
+					"display_url": "penguinrandomhouse.com/books/576816/t…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1339630259579326500,
+		"in_reply_to_status_id_str": "1339630259579326465",
+		"in_reply_to_user_id": 276224538,
+		"in_reply_to_user_id_str": "276224538",
+		"in_reply_to_screen_name": "jameswilsdon",
+		"user": {
+			"id": 276224538,
+			"id_str": "276224538",
+			"name": "James Wilsdon",
+			"screen_name": "jameswilsdon",
+			"location": "Sheffield & Wellcome Trust",
+			"description": "director @RoRInstitute | @digitalsci professor of research policy @InfoSchoolSheff | vice-chair @INGSciAdvice",
+			"url": "https://t.co/R3vpuGKwji",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R3vpuGKwji",
+							"expanded_url": "https://www.sheffield.ac.uk/is/people/academic/james-wilsdon",
+							"display_url": "sheffield.ac.uk/is/people/acad…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10481,
+			"friends_count": 1775,
+			"listed_count": 357,
+			"created_at": "Sat Apr 02 22:47:09 +0000 2011",
+			"favourites_count": 6523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151830369987178496/MVGhpTqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151830369987178496/MVGhpTqq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/276224538/1579965225",
+			"profile_link_color": "FF002B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My top choice: The Innovation Delusion by @STS_News &amp; @RussellProf, which provided a much-needed antidote to the toxic techno-nationalist guff that has emanated from our government over the course of the pandemic https://t.co/aZJfa6WgKw (now with correct twitter handle!)"
+	},
+	{
 		"created_at": "Sun Dec 13 12:22:25 +0000 2020",
 		"id": 1338096940320481300,
 		"id_str": "1338096940320481280",
