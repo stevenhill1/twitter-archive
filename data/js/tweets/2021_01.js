@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 13:11:40 +0000 2021",
+		"id": 1352227467898007600,
+		"id_str": "1352242458093084675",
+		"full_text": "The four UK funding bodies agree additional measures to support final preparations for REF 2021 submissions in response to increasing effects of COVID-19. Click here to read the full news item: https://t.co/TE9jE1dnyW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TE9jE1dnyW",
+					"expanded_url": "http://bit.ly/3p8KJgH",
+					"display_url": "bit.ly/3p8KJgH",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822173125639110700,
+			"id_str": "822173125639110657",
+			"name": "REF2021",
+			"screen_name": "REF_2021",
+			"location": "United Kingdom",
+			"description": "Official account of the Research Excellence Framework 2021, undertaken by the four UK HE funding bodies. Twitter page managed by the REF team at @ResEngland.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8442,
+			"friends_count": 2,
+			"listed_count": 72,
+			"created_at": "Thu Jan 19 20:05:23 +0000 2017",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903598145699020802/ad8FE4_d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903598145699020802/ad8FE4_d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822173125639110657/1504267792",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The four UK funding bodies agree additional measures to support final preparations for REF 2021 submissions in response to increasing effects of COVID-19. Click here to read the full news item: https://t.co/TE9jE1dnyW"
+	},
+	{
 		"created_at": "Sat Jan 16 19:30:19 +0000 2021",
 		"id": 1350099100612644900,
 		"id_str": "1350525811070263297",
