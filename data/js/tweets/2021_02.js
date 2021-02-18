@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 17 09:52:50 +0000 2021",
+		"id": 1357066050559479800,
+		"id_str": "1361976895345225731",
+		"full_text": "Connected Papers partners with @arxiv!\nWe're excited to announce that starting today, every abstract page on https://t.co/kjItHiwGHF will link to a graph of Connected Papers.\n\nRead more:\nhttps://t.co/r2eD6nTyL4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arxiv",
+					"name": "arXiv.org",
+					"id": 808633423300624400,
+					"id_str": "808633423300624384",
+					"indices": [
+						31,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kjItHiwGHF",
+					"expanded_url": "http://arXiv.org",
+					"display_url": "arXiv.org",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/r2eD6nTyL4",
+					"expanded_url": "https://medium.com/connectedpapers/connected-papers-partners-with-arxiv-8ce8122f6b4c",
+					"display_url": "medium.com/connectedpaper…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1267524311277015000,
+			"id_str": "1267524311277015042",
+			"name": "Connected Papers",
+			"screen_name": "ConnectedPapers",
+			"location": "",
+			"description": "A visual tool to help researchers and practitioners find and explore academic papers. https://t.co/V9ViMrw0Jy",
+			"url": "https://t.co/Lm2lPGfVVC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lm2lPGfVVC",
+							"expanded_url": "https://www.connectedpapers.com/",
+							"display_url": "connectedpapers.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/V9ViMrw0Jy",
+							"expanded_url": "http://connectedpapers.com",
+							"display_url": "connectedpapers.com",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12043,
+			"friends_count": 19,
+			"listed_count": 98,
+			"created_at": "Mon Jun 01 18:32:40 +0000 2020",
+			"favourites_count": 1009,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267529009409208325/avWQ0zGg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267529009409208325/avWQ0zGg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1267524311277015042/1591036577",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Connected Papers partners with @arxiv!\nWe're excited to announce that starting today, every abstract page on https://t.co/kjItHiwGHF will link to a graph of Connected Papers.\n\nRead more:\nhttps://t.co/r2eD6nTyL4"
+	},
+	{
 		"created_at": "Sun Feb 14 17:22:47 +0000 2021",
 		"id": 1361002963951616000,
 		"id_str": "1361002963951616009",
