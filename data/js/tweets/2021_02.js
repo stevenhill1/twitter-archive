@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 09:12:27 +0000 2021",
+		"id": 1362691508386824200,
+		"id_str": "1362691508386824192",
+		"full_text": "Insightful analysis, as ever https://t.co/FIMe0W37Fd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FIMe0W37Fd",
+					"expanded_url": "https://twitter.com/martin_eve/status/1362014609566269443",
+					"display_url": "twitter.com/martin_eve/sta…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5190,
+			"friends_count": 754,
+			"listed_count": 175,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1362014609566269400,
+		"quoted_status_id_str": "1362014609566269443",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FIMe0W37Fd",
+			"expanded": "https://twitter.com/martin_eve/status/1362014609566269443",
+			"display": "twitter.com/martin_eve/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 17 12:22:42 +0000 2021",
+			"id": 1362014609566269400,
+			"id_str": "1362014609566269443",
+			"full_text": "The Publisher's Association's impact assessment on OA is pretty much as you'd expect https://t.co/aMCk8p0ThL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aMCk8p0ThL",
+						"expanded_url": "https://eve.gd/2021/02/17/the-publishers-associations-impact-assessment-on-oa/",
+						"display_url": "eve.gd/2021/02/17/the…",
+						"indices": [
+							85,
+							108
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118747590,
+				"id_str": "118747590",
+				"name": "Martin Paul Eve",
+				"screen_name": "martin_eve",
+				"location": "London",
+				"description": "Prof. of Literature, Technology and Publishing @birkbeck_etc | I made & run @openlibhums | Music on Tici Taci records | Latest book: https://t.co/aLuhDzLzEH",
+				"url": "https://t.co/hJzA5rwsi6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hJzA5rwsi6",
+								"expanded_url": "http://eve.gd",
+								"display_url": "eve.gd",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/aLuhDzLzEH",
+								"expanded_url": "http://books.eve.gd/reassembling",
+								"display_url": "books.eve.gd/reassembling",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9287,
+				"friends_count": 3511,
+				"listed_count": 334,
+				"created_at": "Mon Mar 01 16:47:22 +0000 2010",
+				"favourites_count": 24675,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 66655,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1337107499498016769/J-VO5Bi-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337107499498016769/J-VO5Bi-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118747590/1581718155",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Insightful analysis, as ever https://t.co/FIMe0W37Fd"
+	},
+	{
 		"created_at": "Wed Feb 17 09:52:50 +0000 2021",
 		"id": 1357066050559479800,
 		"id_str": "1361976895345225731",
