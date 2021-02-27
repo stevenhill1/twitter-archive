@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 26 08:57:42 +0000 2021",
+		"id": 1365224508194455600,
+		"id_str": "1365224508194455554",
+		"full_text": "Important thread, both for correcting the narrative about Modern Languages, and also emphasising the need to *always* scrutinise the numbers https://t.co/8CQ8JQEJnr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8CQ8JQEJnr",
+					"expanded_url": "https://twitter.com/NigelHarkness/status/1365031482851491846",
+					"display_url": "twitter.com/NigelHarkness/…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5190,
+			"friends_count": 755,
+			"listed_count": 174,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365031482851491800,
+		"quoted_status_id_str": "1365031482851491846",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8CQ8JQEJnr",
+			"expanded": "https://twitter.com/NigelHarkness/status/1365031482851491846",
+			"display": "twitter.com/NigelHarkness/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 25 20:10:41 +0000 2021",
+			"id": 1365031482851491800,
+			"id_str": "1365031482851491846",
+			"full_text": "Today I learned a lot about UCAS end-of-cycle data and how Modern Languages degree acceptances are recorded. It started yesterday evening with an article in the THE on significant declines in modern languages acceptances through UCAS. 1/8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 563832173,
+				"id_str": "563832173",
+				"name": "Nigel Harkness",
+				"screen_name": "NigelHarkness",
+				"location": "Newcastle Upon Tyne, England",
+				"description": "Pro-Vice-Chancellor for Humanities and Social Sciences and Professor of French at Newcastle University. All views expressed in a personal capacity.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1334,
+				"friends_count": 1438,
+				"listed_count": 8,
+				"created_at": "Thu Apr 26 15:59:25 +0000 2012",
+				"favourites_count": 5876,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 815,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1040882421372264448/YOX-Te8f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040882421372264448/YOX-Te8f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/563832173/1537002763",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 178,
+			"favorite_count": 480,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Important thread, both for correcting the narrative about Modern Languages, and also emphasising the need to *always* scrutinise the numbers https://t.co/8CQ8JQEJnr"
+	},
+	{
 		"created_at": "Mon Feb 22 13:41:40 +0000 2021",
 		"id": 1363846422878118000,
 		"id_str": "1363846422878117890",
