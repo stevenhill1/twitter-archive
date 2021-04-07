@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 06 18:14:51 +0000 2021",
+		"id": 1379411163725856800,
+		"id_str": "1379497849658949637",
+		"full_text": "The first in the #NextGenerationImpact series focusses on 'Perspectives on Impact', where is impact going? With an esteemed panel from the sector @stevenhill @JulieEBayley @ProfPAPhillips @HauxTina. Join us on Monday 26 April - open to all https://t.co/AZUA4rGxmE #researchimpact https://t.co/N70APUzvMS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NextGenerationImpact",
+					"indices": [
+						17,
+						38
+					]
+				},
+				{
+					"text": "researchimpact",
+					"indices": [
+						264,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						146,
+						157
+					]
+				},
+				{
+					"screen_name": "JulieEBayley",
+					"name": "Julie Bayley",
+					"id": 1666048531,
+					"id_str": "1666048531",
+					"indices": [
+						158,
+						171
+					]
+				},
+				{
+					"screen_name": "ProfPAPhillips",
+					"name": "Paul Phillips",
+					"id": 117778129,
+					"id_str": "117778129",
+					"indices": [
+						172,
+						187
+					]
+				},
+				{
+					"screen_name": "HauxTina",
+					"name": "Dr. Tina Haux",
+					"id": 2999708334,
+					"id_str": "2999708334",
+					"indices": [
+						188,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AZUA4rGxmE",
+					"expanded_url": "https://bit.ly/39MkOWi",
+					"display_url": "bit.ly/39MkOWi",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1379411053872824300,
+					"id_str": "1379411053872824320",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EySnC4lWQAAcyRG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EySnC4lWQAAcyRG.jpg",
+					"url": "https://t.co/N70APUzvMS",
+					"display_url": "pic.twitter.com/N70APUzvMS",
+					"expanded_url": "https://twitter.com/UniKentResearch/status/1379411163725856774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 712,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 403,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379411053872824300,
+					"id_str": "1379411053872824320",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EySnC4lWQAAcyRG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EySnC4lWQAAcyRG.jpg",
+					"url": "https://t.co/N70APUzvMS",
+					"display_url": "pic.twitter.com/N70APUzvMS",
+					"expanded_url": "https://twitter.com/UniKentResearch/status/1379411163725856774/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1139,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 712,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 403,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171003805,
+			"id_str": "171003805",
+			"name": "Research and Innovation Services",
+			"screen_name": "UniKentResearch",
+			"location": "University of Kent",
+			"description": "An ear to the ground in the world of research brought to you by Research Services at the University of Kent",
+			"url": "http://t.co/v0VMMUiTfw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/v0VMMUiTfw",
+							"expanded_url": "http://www.kent.ac.uk/researchservices/",
+							"display_url": "kent.ac.uk/researchservic…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1612,
+			"friends_count": 399,
+			"listed_count": 89,
+			"created_at": "Mon Jul 26 09:33:36 +0000 2010",
+			"favourites_count": 514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243529553445781510/g6TlVwpu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243529553445781510/g6TlVwpu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/171003805/1595932345",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The first in the #NextGenerationImpact series focusses on 'Perspectives on Impact', where is impact going? With an esteemed panel from the sector @stevenhill @JulieEBayley @ProfPAPhillips @HauxTina. Join us on Monday 26 April - open to all https://t.co/AZUA4rGxmE #researchimpact https://t.co/N70APUzvMS"
+	},
+	{
 		"created_at": "Sun Apr 04 14:16:17 +0000 2021",
 		"id": 1378713034890342400,
 		"id_str": "1378713034890342404",
