@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 24 11:37:41 +0000 2021",
+		"id": 1396725162972680200,
+		"id_str": "1396792516075311108",
+		"full_text": "NEW on Wonkhe: Susan Guthrie and Jonathan Grant find that high-performance research relies on a good research culture. https://t.co/6NgmECnbeF https://t.co/TLcAmVKQh2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6NgmECnbeF",
+					"expanded_url": "https://buff.ly/3fgmlqM",
+					"display_url": "buff.ly/3fgmlqM",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1396725159197806600,
+					"id_str": "1396725159197806592",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E2IqIdLWEAAGaR9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2IqIdLWEAAGaR9.jpg",
+					"url": "https://t.co/TLcAmVKQh2",
+					"display_url": "pic.twitter.com/TLcAmVKQh2",
+					"expanded_url": "https://twitter.com/Wonkhe/status/1396725162972680192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1396725159197806600,
+					"id_str": "1396725159197806592",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E2IqIdLWEAAGaR9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2IqIdLWEAAGaR9.jpg",
+					"url": "https://t.co/TLcAmVKQh2",
+					"display_url": "pic.twitter.com/TLcAmVKQh2",
+					"expanded_url": "https://twitter.com/Wonkhe/status/1396725162972680192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245499504,
+			"id_str": "245499504",
+			"name": "Wonkhe",
+			"screen_name": "Wonkhe",
+			"location": "UK",
+			"description": "Home of the UK higher education debate. Founder & Editor in Chief: @markmleach",
+			"url": "https://t.co/AAcTiW7qPe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AAcTiW7qPe",
+							"expanded_url": "http://wonkhe.com",
+							"display_url": "wonkhe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37481,
+			"friends_count": 14917,
+			"listed_count": 695,
+			"created_at": "Mon Jan 31 20:54:22 +0000 2011",
+			"favourites_count": 8247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 32572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213358797038739456/P4RT8ilj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213358797038739456/P4RT8ilj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245499504/1616399507",
+			"profile_link_color": "282746",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW on Wonkhe: Susan Guthrie and Jonathan Grant find that high-performance research relies on a good research culture. https://t.co/6NgmECnbeF https://t.co/TLcAmVKQh2"
+	},
+	{
 		"created_at": "Wed May 12 15:37:59 +0000 2021",
 		"id": 1392504335419035600,
 		"id_str": "1392504335419035649",
