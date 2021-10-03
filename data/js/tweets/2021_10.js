@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 02 08:16:41 +0000 2021",
+		"id": 1444195343797735400,
+		"id_str": "1444214741484834819",
+		"full_text": "Just finished part 3 of @Nature’s Starting up in science series. It’s an absolutely fascinating read: https://t.co/u8k02EXmwc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nature",
+					"name": "nature",
+					"id": 15862891,
+					"id_str": "15862891",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u8k02EXmwc",
+					"expanded_url": "https://www.nature.com/immersive/d41586-021-02563-x/index.html",
+					"display_url": "nature.com/immersive/d415…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 320860919,
+			"id_str": "320860919",
+			"name": "Lewis Dean",
+			"screen_name": "lewisgdean",
+			"location": "",
+			"description": "Head of Research Funding @ResEngland. Mostly research policy, cultural evolution, cricket, primates, food, and gardens. Views my own.",
+			"url": "https://t.co/PTtlAlnAFq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTtlAlnAFq",
+							"expanded_url": "https://www.linkedin.com/in/lewis-dean-30052a39/",
+							"display_url": "linkedin.com/in/lewis-dean-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1460,
+			"friends_count": 1794,
+			"listed_count": 37,
+			"created_at": "Mon Jun 20 17:04:02 +0000 2011",
+			"favourites_count": 9233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1295266778839384064/VCJchJMW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295266778839384064/VCJchJMW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/320860919/1582230309",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just finished part 3 of @Nature’s Starting up in science series. It’s an absolutely fascinating read: https://t.co/u8k02EXmwc"
+	},
+	{
 		"created_at": "Fri Oct 01 18:54:31 +0000 2021",
 		"id": 1443994776131539000,
 		"id_str": "1444012872468729889",
