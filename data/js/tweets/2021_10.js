@@ -1,6 +1,107 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 08:18:51 +0000 2021",
+		"id": 1445298450669740000,
+		"id_str": "1445302451414999045",
+		"full_text": "Publishing a report today &amp; trying publicising on Twitter. So there’ll be lots from me on #valueofQR. If you aren’t into research policy, we’ve done a quick animated summary for you:\nhttps://t.co/npueyDW0Jb\n\nTry that &amp; if you still aren’t interested mute me for the week…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "valueofQR",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/npueyDW0Jb",
+					"expanded_url": "https://www.youtube.com/watch?v=yErgT7_gNs0",
+					"display_url": "youtube.com/watch?v=yErgT7…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 796815535,
+			"id_str": "796815535",
+			"name": "Steven Wooding",
+			"screen_name": "drstevenwooding",
+			"location": "Cambridge, England",
+			"description": "Promoting evidence, science of science, visualising meaning, much else. RTs not endorsements. Res Fellow @CSciPol, @BennettInst @IntellForum, @Cambridge_Uni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 79,
+			"listed_count": 9,
+			"created_at": "Sat Sep 01 20:24:39 +0000 2012",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854216410431721472/uuajH9Dt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854216410431721472/uuajH9Dt_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Publishing a report today &amp; trying publicising on Twitter. So there’ll be lots from me on #valueofQR. If you aren’t into research policy, we’ve done a quick animated summary for you:\nhttps://t.co/npueyDW0Jb\n\nTry that &amp; if you still aren’t interested mute me for the week…"
+	},
+	{
 		"created_at": "Sat Oct 02 08:16:41 +0000 2021",
 		"id": 1444195343797735400,
 		"id_str": "1444214741484834819",
