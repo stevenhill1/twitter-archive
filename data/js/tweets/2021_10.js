@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 15:31:47 +0000 2021",
+		"id": 1445753021598617600,
+		"id_str": "1445773792203079693",
+		"full_text": "Very excited to say that I'll be working with this brilliant international team to drive forward global responsible research assessment. Also, I'll be sharing the role of Chair of the group with Prof. Mohammed Ahmad S. Al-Shamsi. https://t.co/wcm2wpmvYp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wcm2wpmvYp",
+					"expanded_url": "https://twitter.com/grc_research/status/1445745228544192512",
+					"display_url": "twitter.com/grc_research/s…",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455831992,
+			"id_str": "455831992",
+			"name": "Claire",
+			"screen_name": "Fraser14Claire",
+			"location": "Bristol, England",
+			"description": "Senior Policy Adviser @ResEngland working on research assessment and open access. Views are my own. RT not endorsement. She/her.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 922,
+			"listed_count": 9,
+			"created_at": "Thu Jan 05 15:27:23 +0000 2012",
+			"favourites_count": 960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276119972322869248/derJMDkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276119972322869248/derJMDkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/455831992/1425299954",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1445745228544192500,
+		"quoted_status_id_str": "1445745228544192512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wcm2wpmvYp",
+			"expanded": "https://twitter.com/grc_research/status/1445745228544192512",
+			"display": "twitter.com/grc_research/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 06 13:38:17 +0000 2021",
+			"id": 1445745228544192500,
+			"id_str": "1445745228544192512",
+			"full_text": "The GRC Working Group on Responsible Research Assessment has been launched and has held its first meeting. Find out more about the Group's objectives and approach at: https://t.co/kdzP6NZR91 https://t.co/GdJFbc5ch3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kdzP6NZR91",
+						"expanded_url": "https://www.globalresearchcouncil.org/about/responsible-research-assessment-working-group/",
+						"display_url": "globalresearchcouncil.org/about/responsi…",
+						"indices": [
+							167,
+							190
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1445744719254880300,
+						"id_str": "1445744719254880273",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/FBBRKYsVgBE9241.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBBRKYsVgBE9241.jpg",
+						"url": "https://t.co/GdJFbc5ch3",
+						"display_url": "pic.twitter.com/GdJFbc5ch3",
+						"expanded_url": "https://twitter.com/grc_research/status/1445745228544192512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 321,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 567,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1513,
+								"h": 715,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1445744719254880300,
+						"id_str": "1445744719254880273",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/FBBRKYsVgBE9241.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBBRKYsVgBE9241.jpg",
+						"url": "https://t.co/GdJFbc5ch3",
+						"display_url": "pic.twitter.com/GdJFbc5ch3",
+						"expanded_url": "https://twitter.com/grc_research/status/1445745228544192512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 321,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 567,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1513,
+								"h": 715,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1180054884613316600,
+				"id_str": "1180054884613316608",
+				"name": "The Global Research Council (GRC)",
+				"screen_name": "grc_research",
+				"location": "",
+				"description": "The GRC is a virtual organisation dedicated to promoting the sharing of data and best practices for high-quality collaboration among funding agencies worldwide.",
+				"url": "https://t.co/gryvu2nMM0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gryvu2nMM0",
+								"expanded_url": "http://www.globalresearchcouncil.org",
+								"display_url": "globalresearchcouncil.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 621,
+				"friends_count": 306,
+				"listed_count": 5,
+				"created_at": "Fri Oct 04 09:40:01 +0000 2019",
+				"favourites_count": 158,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 145,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1394931004532563970/yTnOOnFo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394931004532563970/yTnOOnFo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180054884613316608/1621412731",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very excited to say that I'll be working with this brilliant international team to drive forward global responsible research assessment. Also, I'll be sharing the role of Chair of the group with Prof. Mohammed Ahmad S. Al-Shamsi. https://t.co/wcm2wpmvYp"
+	},
+	{
 		"created_at": "Tue Oct 05 08:18:51 +0000 2021",
 		"id": 1445298450669740000,
 		"id_str": "1445302451414999045",
