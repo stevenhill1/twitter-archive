@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 12:03:24 +0000 2021",
+		"id": 1450070004695814100,
+		"id_str": "1450070004695814144",
+		"full_text": "Often reflect on this with my (now distant) background in systems biology - naturally evolved systems always have redundancy built in which looks ‘inefficient’, but absolutely isn’t. https://t.co/BLFZb8aKIL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BLFZb8aKIL",
+					"expanded_url": "https://twitter.com/sophiacol/status/1450067721027207176",
+					"display_url": "twitter.com/sophiacol/stat…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5282,
+			"friends_count": 764,
+			"listed_count": 176,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1450067721027207200,
+		"quoted_status_id_str": "1450067721027207176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BLFZb8aKIL",
+			"expanded": "https://twitter.com/sophiacol/status/1450067721027207176",
+			"display": "twitter.com/sophiacol/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 18 11:54:20 +0000 2021",
+			"id": 1450067721027207200,
+			"id_str": "1450067721027207176",
+			"full_text": "Logistics should all be run by people trained in biology. We are the people who understand how systems that actually work, work.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+			"in_reply_to_status_id": 1450067422116028400,
+			"in_reply_to_status_id_str": "1450067422116028420",
+			"in_reply_to_user_id": 245353843,
+			"in_reply_to_user_id_str": "245353843",
+			"in_reply_to_screen_name": "sophiacol",
+			"user": {
+				"id": 245353843,
+				"id_str": "245353843",
+				"name": "Sophia Collins",
+				"screen_name": "sophiacol",
+				"location": "Lauder, Scotland",
+				"description": "Public engagement. Two-way engagement. Co-creation. Co-design. Online.\nNow https://t.co/Ou36irwHYB…\nOnce https://t.co/OHXC1ukkMP",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ou36irwHYB",
+								"expanded_url": "http://blogs.ed.ac.uk/depressiondete",
+								"display_url": "blogs.ed.ac.uk/depressiondete",
+								"indices": [
+									75,
+									98
+								]
+							},
+							{
+								"url": "https://t.co/OHXC1ukkMP",
+								"expanded_url": "http://parentingsciencegang.org.uk",
+								"display_url": "parentingsciencegang.org.uk",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2398,
+				"friends_count": 1509,
+				"listed_count": 118,
+				"created_at": "Mon Jan 31 14:05:17 +0000 2011",
+				"favourites_count": 2212,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28283,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1377910154692280320/H9z2oH19_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377910154692280320/H9z2oH19_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Often reflect on this with my (now distant) background in systems biology - naturally evolved systems always have redundancy built in which looks ‘inefficient’, but absolutely isn’t. https://t.co/BLFZb8aKIL"
+	},
+	{
 		"created_at": "Mon Oct 11 08:45:20 +0000 2021",
 		"id": 1447483444280311800,
 		"id_str": "1447483444280311810",
