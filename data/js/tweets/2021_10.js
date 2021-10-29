@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 28 16:50:43 +0000 2021",
+		"id": 1453363382908711000,
+		"id_str": "1453766188480274433",
+		"full_text": "In this new episode of the Research Talk podcast, creator of Octopus @alex_freeman talks about how the platform could positively disrupt research culture for the better. Listen here 🎙️ https://t.co/UGm83eSFjl #OAWeek @science_octopus https://t.co/GGWh5JIkXQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OAWeek",
+					"indices": [
+						209,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alex_freeman",
+					"name": "Alexandra Freeman",
+					"id": 202342149,
+					"id_str": "202342149",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"screen_name": "science_octopus",
+					"name": "Octopus",
+					"id": 1364598944366530600,
+					"id_str": "1364598944366530565",
+					"indices": [
+						217,
+						233
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UGm83eSFjl",
+					"expanded_url": "https://ji.sc/3nvMjcR",
+					"display_url": "ji.sc/3nvMjcR",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1453363358514647000,
+					"id_str": "1453363358514647043",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1453363358514647043/pu/img/M4zK-Rbhj_0SuGFv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1453363358514647043/pu/img/M4zK-Rbhj_0SuGFv.jpg",
+					"url": "https://t.co/GGWh5JIkXQ",
+					"display_url": "pic.twitter.com/GGWh5JIkXQ",
+					"expanded_url": "https://twitter.com/Jisc/status/1453363382908710917/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1453363358514647000,
+					"id_str": "1453363358514647043",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1453363358514647043/pu/img/M4zK-Rbhj_0SuGFv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1453363358514647043/pu/img/M4zK-Rbhj_0SuGFv.jpg",
+					"url": "https://t.co/GGWh5JIkXQ",
+					"display_url": "pic.twitter.com/GGWh5JIkXQ",
+					"expanded_url": "https://twitter.com/Jisc/status/1453363382908710917/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59666,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1453363358514647043/pu/vid/320x320/McbRLsokx8bmeMlf.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1453363358514647043/pu/vid/720x720/Kh9GDlwR-O2HjzbS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1453363358514647043/pu/pl/d6MmKx4OVOzjLtI4.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1453363358514647043/pu/vid/540x540/mH8Q00d3TPJBwta5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialbakers.com/\" rel=\"nofollow\">Emplifi</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18829580,
+			"id_str": "18829580",
+			"name": "Jisc",
+			"screen_name": "Jisc",
+			"location": "UK",
+			"description": "We work in partnership with the UK’s research and education communities to develop the digital technologies they need to teach, discover and thrive",
+			"url": "http://t.co/kUcntNMBlK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/kUcntNMBlK",
+							"expanded_url": "http://www.jisc.ac.uk",
+							"display_url": "jisc.ac.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63334,
+			"friends_count": 1375,
+			"listed_count": 1980,
+			"created_at": "Sat Jan 10 07:32:44 +0000 2009",
+			"favourites_count": 8268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E3E9EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410973964466282506/pd6TVAEM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410973964466282506/pd6TVAEM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18829580/1585318579",
+			"profile_link_color": "00557F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In this new episode of the Research Talk podcast, creator of Octopus @alex_freeman talks about how the platform could positively disrupt research culture for the better. Listen here 🎙️ https://t.co/UGm83eSFjl #OAWeek @science_octopus https://t.co/GGWh5JIkXQ"
+	},
+	{
 		"created_at": "Sat Oct 23 12:01:06 +0000 2021",
 		"id": 1451881365633372200,
 		"id_str": "1451881365633372165",
