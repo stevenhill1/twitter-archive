@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 31 11:29:16 +0000 2021",
+		"id": 1454388349020561400,
+		"id_str": "1454772455797633028",
+		"full_text": "Here's my piece in full. https://t.co/Q4dgo2O4uh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1454388039153770500,
+					"id_str": "1454388039153770501",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FC8GN0dWYAUSJFF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC8GN0dWYAUSJFF.jpg",
+					"url": "https://t.co/Q4dgo2O4uh",
+					"display_url": "pic.twitter.com/Q4dgo2O4uh",
+					"expanded_url": "https://twitter.com/FryRsquared/status/1454388349020561409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1146,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1454388039153770500,
+					"id_str": "1454388039153770501",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FC8GN0dWYAUSJFF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC8GN0dWYAUSJFF.jpg",
+					"url": "https://t.co/Q4dgo2O4uh",
+					"display_url": "pic.twitter.com/Q4dgo2O4uh",
+					"expanded_url": "https://twitter.com/FryRsquared/status/1454388349020561409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1146,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1466,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1454388039170543600,
+					"id_str": "1454388039170543617",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FC8GN0hWUAECgCb.png",
+					"media_url_https": "https://pbs.twimg.com/media/FC8GN0hWUAECgCb.png",
+					"url": "https://t.co/Q4dgo2O4uh",
+					"display_url": "pic.twitter.com/Q4dgo2O4uh",
+					"expanded_url": "https://twitter.com/FryRsquared/status/1454388349020561409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 653,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1414,
+							"h": 1358,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1454388039162159000,
+					"id_str": "1454388039162159106",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FC8GN0fWYAIWy95.png",
+					"media_url_https": "https://pbs.twimg.com/media/FC8GN0fWYAIWy95.png",
+					"url": "https://t.co/Q4dgo2O4uh",
+					"display_url": "pic.twitter.com/Q4dgo2O4uh",
+					"expanded_url": "https://twitter.com/FryRsquared/status/1454388349020561409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 564,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1382,
+							"h": 650,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1454388344712990700,
+		"in_reply_to_status_id_str": "1454388344712990723",
+		"in_reply_to_user_id": 273375532,
+		"in_reply_to_user_id_str": "273375532",
+		"in_reply_to_screen_name": "FryRsquared",
+		"user": {
+			"id": 273375532,
+			"id_str": "273375532",
+			"name": "Hannah Fry",
+			"screen_name": "FryRsquared",
+			"location": "CASA, UCL, London",
+			"description": "All math and no trousers Touring with @AdamRutherford in November. Tickets here: https://t.co/kkJHRbzN2b",
+			"url": "https://t.co/aYO1ckvzVZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aYO1ckvzVZ",
+							"expanded_url": "https://hannahfry.co.uk/",
+							"display_url": "hannahfry.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kkJHRbzN2b",
+							"expanded_url": "https://bit.ly/RutherfordFrySignedWTS",
+							"display_url": "bit.ly/RutherfordFryS…",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 175670,
+			"friends_count": 2037,
+			"listed_count": 0,
+			"created_at": "Mon Mar 28 11:14:20 +0000 2011",
+			"favourites_count": 10293,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384589122581536770/eRzMPCj0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384589122581536770/eRzMPCj0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/273375532/1623407796",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 377,
+		"favorite_count": 2395,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's my piece in full. https://t.co/Q4dgo2O4uh"
+	},
+	{
 		"created_at": "Thu Oct 28 16:50:43 +0000 2021",
 		"id": 1453363382908711000,
 		"id_str": "1453766188480274433",
