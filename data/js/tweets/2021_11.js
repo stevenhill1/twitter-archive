@@ -1,10 +1,216 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 14:42:45 +0000 2021",
+		"id": 1461334189664620500,
+		"id_str": "1461344129078595584",
+		"full_text": "Research England are recruiting for a new Executive Chair who will be responsible for setting the strategic vision for Research England and contributing to the wider direction of UKRI. \nApplications open until 16 December - https://t.co/g2sMJLlYB8 @ukri_news @beisgovuk https://t.co/qovlhQYbXG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UKRI_News",
+					"name": "UK Research and Innovation",
+					"id": 732141019114930200,
+					"id_str": "732141019114930176",
+					"indices": [
+						248,
+						258
+					]
+				},
+				{
+					"screen_name": "beisgovuk",
+					"name": "Dept for BEIS",
+					"id": 45205091,
+					"id_str": "45205091",
+					"indices": [
+						259,
+						269
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/g2sMJLlYB8",
+					"expanded_url": "https://orlo.uk/qmhfw",
+					"display_url": "orlo.uk/qmhfw",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461334187500310500,
+					"id_str": "1461334187500310531",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FEezs3gXEAMmL3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEezs3gXEAMmL3N.jpg",
+					"url": "https://t.co/qovlhQYbXG",
+					"display_url": "pic.twitter.com/qovlhQYbXG",
+					"expanded_url": "https://twitter.com/ResEngland/status/1461334189664620552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461334187500310500,
+					"id_str": "1461334187500310531",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FEezs3gXEAMmL3N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEezs3gXEAMmL3N.jpg",
+					"url": "https://t.co/qovlhQYbXG",
+					"display_url": "pic.twitter.com/qovlhQYbXG",
+					"expanded_url": "https://twitter.com/ResEngland/status/1461334189664620552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+			"url": "https://t.co/BI90gIR8Ar",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BI90gIR8Ar",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12462,
+			"friends_count": 367,
+			"listed_count": 155,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410530963956842498/aGP6f-Tb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410530963956842498/aGP6f-Tb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1607073170",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Research England are recruiting for a new Executive Chair who will be responsible for setting the strategic vision for Research England and contributing to the wider direction of UKRI. \nApplications open until 16 December - https://t.co/g2sMJLlYB8 @ukri_news @beisgovuk https://t.co/qovlhQYbXG"
+	},
+	{
 		"created_at": "Wed Nov 17 18:53:38 +0000 2021",
 		"id": 1460984098088964000,
 		"id_str": "1461044876255105026",
-		"full_text": "Interested in research policy and funding? Care about responsible research assessment and open access? Join the research team ⁦⁦@ResEngland⁩! There are 2 senior policy advisor roles up for grabs, including one in my team https://t.co/MAdJzxoIqT",
+		"full_text": "Interested in research policy and funding? Care about responsible research assessment and open access? Join the research team @ResEngland! There are 2 senior policy advisor roles up for grabs, including one in my team https://t.co/MAdJzxoIqT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -102,13 +308,13 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Interested in research policy and funding? Care about responsible research assessment and open access? Join the research team ⁦⁦@ResEngland⁩! There are 2 senior policy advisor roles up for grabs, including one in my team https://t.co/MAdJzxoIqT"
+		"text": "Interested in research policy and funding? Care about responsible research assessment and open access? Join the research team @ResEngland! There are 2 senior policy advisor roles up for grabs, including one in my team https://t.co/MAdJzxoIqT"
 	},
 	{
 		"created_at": "Wed Nov 17 18:30:53 +0000 2021",
 		"id": 1460619885877342200,
 		"id_str": "1461039151504048134",
-		"full_text": "How do we make the *culture* of our science, research &amp; innovation fit for global science for global good in an ever more connected world?\n\nGreat to join @ResEngland 🔬@UKRI_News Webinar with 250🧕👨‍🔬👩🏽‍💻👨🏼‍🦼🧑🏽‍🔬researchers on #ResearchCulture @ResFortnight @ResProfNews @royalsociety https://t.co/TN7LcPSevx https://t.co/WD9jFTZrn9",
+		"full_text": "How do we make the *culture* of our science, research &amp; innovation fit for global science for global good in an ever more connected world?\n\nGreat to join @ResEngland 🔬@UKRI_News Webinar with 250🧕👨🔬👩🏽💻👨🏼🦼🧑🏽🔬researchers on #ResearchCulture @ResFortnight @ResProfNews @royalsociety https://t.co/TN7LcPSevx https://t.co/WD9jFTZrn9",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -571,6 +777,6 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "How do we make the *culture* of our science, research &amp; innovation fit for global science for global good in an ever more connected world?\n\nGreat to join @ResEngland 🔬@UKRI_News Webinar with 250🧕👨‍🔬👩🏽‍💻👨🏼‍🦼🧑🏽‍🔬researchers on #ResearchCulture @ResFortnight @ResProfNews @royalsociety https://t.co/TN7LcPSevx https://t.co/WD9jFTZrn9"
+		"text": "How do we make the *culture* of our science, research &amp; innovation fit for global science for global good in an ever more connected world?\n\nGreat to join @ResEngland 🔬@UKRI_News Webinar with 250🧕👨🔬👩🏽💻👨🏼🦼🧑🏽🔬researchers on #ResearchCulture @ResFortnight @ResProfNews @royalsociety https://t.co/TN7LcPSevx https://t.co/WD9jFTZrn9"
 	}
 ]
