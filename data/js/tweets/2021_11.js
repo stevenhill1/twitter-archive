@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 12:03:26 +0000 2021",
+		"id": 1461634981239963600,
+		"id_str": "1461666425647648775",
+		"full_text": "To realise the potential of the world-changing work we do, we need to break out of the shackles of competition and rankings. That goes for research in particular, which is being stifled by a culture in which it can almost feel like an Olympic sport. https://t.co/kcsdYu5WJ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kcsdYu5WJ5",
+					"expanded_url": "https://medium.com/university-of-leeds/a-place-on-the-podium-what-is-university-research-for-d4d03fd7bd28",
+					"display_url": "medium.com/university-of-…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 139663411,
+			"id_str": "139663411",
+			"name": "Prof Simone E. Buitendijk",
+			"screen_name": "SEBuitendijk",
+			"location": "Leeds, UK",
+			"description": "Vice-Chancellor (President) University of Leeds. Creating strong, inclusive, local and global communities. Research and education to decrease inequalities.",
+			"url": "https://t.co/v5msPSuDr3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v5msPSuDr3",
+							"expanded_url": "https://simone-buitendijk.medium.com",
+							"display_url": "simone-buitendijk.medium.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7352,
+			"friends_count": 6331,
+			"listed_count": 88,
+			"created_at": "Mon May 03 09:09:37 +0000 2010",
+			"favourites_count": 9034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301116984982151169/wPjEFdQS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301116984982151169/wPjEFdQS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/139663411/1637101798",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To realise the potential of the world-changing work we do, we need to break out of the shackles of competition and rankings. That goes for research in particular, which is being stifled by a culture in which it can almost feel like an Olympic sport. https://t.co/kcsdYu5WJ5"
+	},
+	{
 		"created_at": "Thu Nov 18 14:42:45 +0000 2021",
 		"id": 1461334189664620500,
 		"id_str": "1461344129078595584",
