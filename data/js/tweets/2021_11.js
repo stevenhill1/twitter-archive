@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 19:01:35 +0000 2021",
+		"id": 1462847175298322400,
+		"id_str": "1462858816656232453",
+		"full_text": "A really valuable guide for any organisation thinking about evaluating research. Very proud that FRAP features as a case study! Thanks to @LizzieGadd for introducing me to SCOPE https://t.co/WGlL4MxHQj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LizzieGadd",
+					"name": "Dr Elizabeth Gadd 💙",
+					"id": 47917199,
+					"id_str": "47917199",
+					"indices": [
+						138,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WGlL4MxHQj",
+					"expanded_url": "https://twitter.com/inorms_rewg/status/1462730074851921928",
+					"display_url": "twitter.com/inorms_rewg/st…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1421360563,
+			"id_str": "1421360563",
+			"name": "Dr Catriona Firth",
+			"screen_name": "firthcat",
+			"location": "Bristol, England",
+			"description": "Assoc director for research environment at @ResEngland. Pretty lazy on here so mainly HE-related retweets. She/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 705,
+			"listed_count": 21,
+			"created_at": "Sat May 11 18:51:16 +0000 2013",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/859823673968123904/APN2vdKC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/859823673968123904/APN2vdKC_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462730074851922000,
+		"quoted_status_id_str": "1462730074851921928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WGlL4MxHQj",
+			"expanded": "https://twitter.com/inorms_rewg/status/1462730074851921928",
+			"display": "twitter.com/inorms_rewg/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 22 10:30:00 +0000 2021",
+			"id": 1462730074851922000,
+			"id_str": "1462730074851921928",
+			"full_text": "*NEW* Full 18-page guide to the SCOPE Framework for responsible research evaluation is now available! It includes case studies from funders, publishers and institutions. Huge thanks to our publishing partner @EmeraldGlobal !\n\nhttps://t.co/0f3gDNnRRo https://t.co/WxOA7zo5fh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmeraldGlobal",
+						"name": "Emerald Publishing",
+						"id": 28085576,
+						"id_str": "28085576",
+						"indices": [
+							208,
+							222
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0f3gDNnRRo",
+						"expanded_url": "https://inorms.net/scope-framework-for-research-evaluation/",
+						"display_url": "inorms.net/scope-framewor…",
+						"indices": [
+							226,
+							249
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1461014689736007700,
+						"id_str": "1461014689736007695",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/FEaRHplXoA8wwaM.png",
+						"media_url_https": "https://pbs.twimg.com/media/FEaRHplXoA8wwaM.png",
+						"url": "https://t.co/WxOA7zo5fh",
+						"display_url": "pic.twitter.com/WxOA7zo5fh",
+						"expanded_url": "https://twitter.com/INORMS_REWG/status/1462730074851921928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 458,
+								"h": 649,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 458,
+								"h": 649,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 458,
+								"h": 649,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1461014689736007700,
+						"id_str": "1461014689736007695",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/FEaRHplXoA8wwaM.png",
+						"media_url_https": "https://pbs.twimg.com/media/FEaRHplXoA8wwaM.png",
+						"url": "https://t.co/WxOA7zo5fh",
+						"display_url": "pic.twitter.com/WxOA7zo5fh",
+						"expanded_url": "https://twitter.com/INORMS_REWG/status/1462730074851921928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 458,
+								"h": 649,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 458,
+								"h": 649,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 458,
+								"h": 649,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1238497904958091300,
+				"id_str": "1238497904958091264",
+				"name": "INORMS Research Evaluation Group",
+				"screen_name": "INORMS_REWG",
+				"location": "",
+				"description": "The International Network of Research Management Societies (INORMS) Research Evaluation Group seeks better, fairer & more meaningful research evaluation.",
+				"url": "https://t.co/tBwFJba2Ru",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tBwFJba2Ru",
+								"expanded_url": "https://inorms.net/activities/research-evaluation-group/",
+								"display_url": "inorms.net/activities/res…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 372,
+				"friends_count": 92,
+				"listed_count": 7,
+				"created_at": "Fri Mar 13 16:14:14 +0000 2020",
+				"favourites_count": 453,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 275,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410941444358086660/yhT_zNx5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410941444358086660/yhT_zNx5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1238497904958091264/1584117329",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A really valuable guide for any organisation thinking about evaluating research. Very proud that FRAP features as a case study! Thanks to @LizzieGadd for introducing me to SCOPE https://t.co/WGlL4MxHQj"
+	},
+	{
 		"created_at": "Fri Nov 19 12:03:26 +0000 2021",
 		"id": 1461634981239963600,
 		"id_str": "1461666425647648775",
