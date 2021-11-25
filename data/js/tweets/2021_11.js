@@ -1,6 +1,1075 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 24 14:43:25 +0000 2021",
+		"id": 1463516519997059000,
+		"id_str": "1463518623763423236",
+		"full_text": "What do researchers think of the Research Excellence Framework (REF)? Read our review, published by @RANDEurope today, here: https://t.co/7GFbUfIosz\n\nIt includes insights gathered from survey responses by 3,000+ researchers and will inform thinking on future research assessment.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RANDEurope",
+					"name": "RAND Europe",
+					"id": 22954137,
+					"id_str": "22954137",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7GFbUfIosz",
+					"expanded_url": "https://orlo.uk/XqzOd",
+					"display_url": "orlo.uk/XqzOd",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+			"url": "https://t.co/BI90gIR8Ar",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BI90gIR8Ar",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12505,
+			"friends_count": 367,
+			"listed_count": 157,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410530963956842498/aGP6f-Tb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410530963956842498/aGP6f-Tb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1607073170",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What do researchers think of the Research Excellence Framework (REF)? Read our review, published by @RANDEurope today, here: https://t.co/7GFbUfIosz\n\nIt includes insights gathered from survey responses by 3,000+ researchers and will inform thinking on future research assessment."
+	},
+	{
+		"created_at": "Wed Nov 24 14:04:45 +0000 2021",
+		"id": 1463487123089240000,
+		"id_str": "1463508894697857032",
+		"full_text": "📣⭐️We're really excited to announce that we're involved in several successful bids from the @officestudents/@ResEngland 💰 \n\nOur focus is on increasing the number of Black researchers, more equitable processes in funding &amp; pushing for more inclusive research communities. https://t.co/tvXb4YYi8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "officestudents",
+					"name": "The Office for Students (OfS)",
+					"id": 801389270485307400,
+					"id_str": "801389270485307392",
+					"indices": [
+						92,
+						107
+					]
+				},
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tvXb4YYi8c",
+					"expanded_url": "https://twitter.com/uclnews/status/1463468167062331392",
+					"display_url": "twitter.com/uclnews/status…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3368128996,
+			"id_str": "3368128996",
+			"name": "Leading Routes",
+			"screen_name": "LeadingRoutes",
+			"location": "",
+			"description": "🎓 Preparing the next generation of Black academics #BlackInAcademia ®️ #PathsToUniversity #FutureScholars | Nxt event: Future Scholars Welcome - Nov 2021",
+			"url": "https://t.co/1owQ7B9koH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1owQ7B9koH",
+							"expanded_url": "http://linktr.ee/leadingroutes",
+							"display_url": "linktr.ee/leadingroutes",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4740,
+			"friends_count": 2287,
+			"listed_count": 21,
+			"created_at": "Thu Jul 09 18:26:35 +0000 2015",
+			"favourites_count": 3665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110403445314514944/fVZIdWj1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110403445314514944/fVZIdWj1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3368128996/1619766322",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1463468167062331400,
+		"quoted_status_id_str": "1463468167062331392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tvXb4YYi8c",
+			"expanded": "https://twitter.com/uclnews/status/1463468167062331392",
+			"display": "twitter.com/uclnews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 24 11:22:55 +0000 2021",
+			"id": 1463468167062331400,
+			"id_str": "1463468167062331392",
+			"full_text": "Dr @michaelsulu @UCLEngineering, @pwi11iams @LeadingRoutes and UCL students speak to Pallab Ghosh @BBCPallab @BBCNews about new schemes launched today by @UKRI_CEO @UKRI_News that aim to boost the number of ethnic minority students in research (from 23.20) https://t.co/SGp6DPLnhA https://t.co/OFgl2nK1Mj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "michaelsulu",
+						"name": "Michael Sulu",
+						"id": 29991228,
+						"id_str": "29991228",
+						"indices": [
+							3,
+							15
+						]
+					},
+					{
+						"screen_name": "UCLEngineering",
+						"name": "UCL Engineering",
+						"id": 313255854,
+						"id_str": "313255854",
+						"indices": [
+							16,
+							31
+						]
+					},
+					{
+						"screen_name": "pwi11iams",
+						"name": "Paulette Williams",
+						"id": 1539046496,
+						"id_str": "1539046496",
+						"indices": [
+							33,
+							43
+						]
+					},
+					{
+						"screen_name": "LeadingRoutes",
+						"name": "Leading Routes",
+						"id": 3368128996,
+						"id_str": "3368128996",
+						"indices": [
+							44,
+							58
+						]
+					},
+					{
+						"screen_name": "BBCPallab",
+						"name": "Pallab Ghosh",
+						"id": 329600057,
+						"id_str": "329600057",
+						"indices": [
+							98,
+							108
+						]
+					},
+					{
+						"screen_name": "BBCNews",
+						"name": "BBC News (UK)",
+						"id": 612473,
+						"id_str": "612473",
+						"indices": [
+							109,
+							117
+						]
+					},
+					{
+						"screen_name": "UKRI_CEO",
+						"name": "Professor Dame Ottoline Leyser",
+						"id": 868114803507810300,
+						"id_str": "868114803507810305",
+						"indices": [
+							154,
+							163
+						]
+					},
+					{
+						"screen_name": "UKRI_News",
+						"name": "UK Research and Innovation",
+						"id": 732141019114930200,
+						"id_str": "732141019114930176",
+						"indices": [
+							164,
+							174
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SGp6DPLnhA",
+						"expanded_url": "https://www.bbc.co.uk/iplayer/episode/m0011vt0/bbc-news-at-ten-23112021",
+						"display_url": "bbc.co.uk/iplayer/episod…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1463467666220408800,
+						"id_str": "1463467666220408839",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FE9IFrFWYAceqTh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FE9IFrFWYAceqTh.jpg",
+						"url": "https://t.co/OFgl2nK1Mj",
+						"display_url": "pic.twitter.com/OFgl2nK1Mj",
+						"expanded_url": "https://twitter.com/uclnews/status/1463468167062331392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1463467666220408800,
+						"id_str": "1463467666220408839",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FE9IFrFWYAceqTh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FE9IFrFWYAceqTh.jpg",
+						"url": "https://t.co/OFgl2nK1Mj",
+						"display_url": "pic.twitter.com/OFgl2nK1Mj",
+						"expanded_url": "https://twitter.com/uclnews/status/1463468167062331392/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40234732,
+				"id_str": "40234732",
+				"name": "UCL News",
+				"screen_name": "uclnews",
+				"location": "London",
+				"description": "News/media from UCL, updated by UCL Media Relations. DM or email your news tips: mynews@ucl.ac.uk. Follow @ucl for highlights of UCL life & @uclevents",
+				"url": "http://t.co/mLIL16fCpx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/mLIL16fCpx",
+								"expanded_url": "http://www.ucl.ac.uk/news/",
+								"display_url": "ucl.ac.uk/news/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 54254,
+				"friends_count": 2229,
+				"listed_count": 753,
+				"created_at": "Fri May 15 13:02:15 +0000 2009",
+				"favourites_count": 454,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11816,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1331586161240838144/yahGpjuv_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331586161240838144/yahGpjuv_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40234732/1606309857",
+				"profile_link_color": "1E8B92",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📣⭐️We're really excited to announce that we're involved in several successful bids from the @officestudents/@ResEngland 💰 \n\nOur focus is on increasing the number of Black researchers, more equitable processes in funding &amp; pushing for more inclusive research communities. https://t.co/tvXb4YYi8c"
+	},
+	{
+		"created_at": "Wed Nov 24 11:39:24 +0000 2021",
+		"id": 1463467445520416800,
+		"id_str": "1463472315635744773",
+		"full_text": "Well done to colleagues in @ResEngland and @officestudents for all your work to deliver this programme.  Terrific projects taking positive action to address race and ethnic disparities in postgraduate education. https://t.co/tbZXDWaFk4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "officestudents",
+					"name": "The Office for Students (OfS)",
+					"id": 801389270485307400,
+					"id_str": "801389270485307392",
+					"indices": [
+						43,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tbZXDWaFk4",
+					"expanded_url": "https://twitter.com/ukri_news/status/1463462167118815237",
+					"display_url": "twitter.com/ukri_news/stat…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906936724944760800,
+			"id_str": "906936724944760836",
+			"name": "Chris Millward",
+			"screen_name": "Millward_Ch",
+			"location": "",
+			"description": "Director for Fair Access and Participation, @officestudents; joining @unibirmingham as Professor of Practice in Education Policy from 2022.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 658,
+			"friends_count": 159,
+			"listed_count": 2,
+			"created_at": "Sun Sep 10 17:45:40 +0000 2017",
+			"favourites_count": 415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026201477776384003/BsvcMk6a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026201477776384003/BsvcMk6a_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1463462167118815200,
+		"quoted_status_id_str": "1463462167118815237",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tbZXDWaFk4",
+			"expanded": "https://twitter.com/ukri_news/status/1463462167118815237",
+			"display": "twitter.com/ukri_news/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 24 10:59:05 +0000 2021",
+			"id": 1463462167118815200,
+			"id_str": "1463462167118815237",
+			"full_text": "Read more about the new projects that will be delivered over the next four years to improve access and participation for Black, Asian and minority ethnic students in postgraduate research: https://t.co/RtMV3tCPGs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RtMV3tCPGs",
+						"expanded_url": "https://www.ukri.org/news/improving-minority-ethnic-groups-access-to-postgraduate-research/",
+						"display_url": "ukri.org/news/improving…",
+						"indices": [
+							189,
+							212
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1463462165340381200,
+			"in_reply_to_status_id_str": "1463462165340381186",
+			"in_reply_to_user_id": 732141019114930200,
+			"in_reply_to_user_id_str": "732141019114930176",
+			"in_reply_to_screen_name": "UKRI_News",
+			"user": {
+				"id": 732141019114930200,
+				"id_str": "732141019114930176",
+				"name": "UK Research and Innovation",
+				"screen_name": "UKRI_News",
+				"location": "United Kingdom",
+				"description": "We support world-leading research and innovation to push the frontiers of human knowledge and generate social, cultural and economic impact. Learn more here 👇",
+				"url": "https://t.co/rbC2DHMUJc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rbC2DHMUJc",
+								"expanded_url": "https://www.ukri.org/about-us/",
+								"display_url": "ukri.org/about-us/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70837,
+				"friends_count": 576,
+				"listed_count": 680,
+				"created_at": "Mon May 16 09:29:56 +0000 2016",
+				"favourites_count": 4513,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9682,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410526214452830216/87FcZqxZ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410526214452830216/87FcZqxZ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/732141019114930176/1607072509",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well done to colleagues in @ResEngland and @officestudents for all your work to deliver this programme.  Terrific projects taking positive action to address race and ethnic disparities in postgraduate education. https://t.co/tbZXDWaFk4"
+	},
+	{
+		"created_at": "Wed Nov 24 11:10:46 +0000 2021",
+		"id": 1463463047356461000,
+		"id_str": "1463465107816603649",
+		"full_text": "‼️ I am so excited to share news of my appointment to Co-Chair the expert panel for the @officestudents  and @ResEngland funding competition to support more students of colour into PGR study! Huge S/O @aimafidon, @AkinbosedeD, @drarunverma, @Asantewah_a + Kamna Patel 👏🏽👇🏽 https://t.co/XrUvp5FtRv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "officestudents",
+					"name": "The Office for Students (OfS)",
+					"id": 801389270485307400,
+					"id_str": "801389270485307392",
+					"indices": [
+						88,
+						103
+					]
+				},
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"screen_name": "aimafidon",
+					"name": "Dr Anne-Marie Imafidon MBE",
+					"id": 278035184,
+					"id_str": "278035184",
+					"indices": [
+						201,
+						211
+					]
+				},
+				{
+					"screen_name": "AkinbosedeD",
+					"name": "Daniel Akinbosede",
+					"id": 1181137725963079700,
+					"id_str": "1181137725963079680",
+					"indices": [
+						213,
+						225
+					]
+				},
+				{
+					"screen_name": "drarunverma",
+					"name": "Dr Arun Verma (he/him)",
+					"id": 1675067046,
+					"id_str": "1675067046",
+					"indices": [
+						227,
+						239
+					]
+				},
+				{
+					"screen_name": "Asantewah_a",
+					"name": "Louise Banahene",
+					"id": 1219732958870954000,
+					"id_str": "1219732958870953991",
+					"indices": [
+						241,
+						253
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XrUvp5FtRv",
+					"expanded_url": "https://twitter.com/ukri_news/status/1463462165340381186",
+					"display_url": "twitter.com/ukri_news/stat…",
+					"indices": [
+						273,
+						296
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 382826458,
+			"id_str": "382826458",
+			"name": "Maisha Islam",
+			"screen_name": "MaishaIslam_28",
+			"location": "Southampton",
+			"description": "Student Engagement Research & Projects Coordinator @_UoW丨@officestudents Student Panel Member | AFHEA丨EdD student丨Views = own",
+			"url": "https://t.co/BD7YM8NjCe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BD7YM8NjCe",
+							"expanded_url": "https://www.linkedin.com/in/maisha-islam/",
+							"display_url": "linkedin.com/in/maisha-isla…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 886,
+			"friends_count": 628,
+			"listed_count": 3,
+			"created_at": "Fri Sep 30 19:15:03 +0000 2011",
+			"favourites_count": 5381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317200301171015681/XCvoyl4h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317200301171015681/XCvoyl4h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/382826458/1561835679",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "28efe4bb73fff781",
+			"url": "https://api.twitter.com/1.1/geo/id/28efe4bb73fff781.json",
+			"place_type": "city",
+			"name": "Winchester",
+			"full_name": "Winchester, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.35777,
+							51.039926
+						],
+						[
+							-1.293321,
+							51.039926
+						],
+						[
+							-1.293321,
+							51.088554
+						],
+						[
+							-1.35777,
+							51.088554
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1463462165340381200,
+		"quoted_status_id_str": "1463462165340381186",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XrUvp5FtRv",
+			"expanded": "https://twitter.com/ukri_news/status/1463462165340381186",
+			"display": "twitter.com/ukri_news/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 24 10:59:04 +0000 2021",
+			"id": 1463462165340381200,
+			"id_str": "1463462165340381186",
+			"full_text": "Panel co-Chairs Dr Anne-Marie Imafidon MBE @aimafidon and Maisha Islam @MaishaIslam_28: “This is only one of many first steps, as systemic inequalities will not vanish overnight. We're aware of how much further the sector needs to go before people of all backgrounds can flourish”",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aimafidon",
+						"name": "Dr Anne-Marie Imafidon MBE",
+						"id": 278035184,
+						"id_str": "278035184",
+						"indices": [
+							43,
+							53
+						]
+					},
+					{
+						"screen_name": "MaishaIslam_28",
+						"name": "Maisha Islam",
+						"id": 382826458,
+						"id_str": "382826458",
+						"indices": [
+							71,
+							86
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1463462162807021600,
+			"in_reply_to_status_id_str": "1463462162807021574",
+			"in_reply_to_user_id": 732141019114930200,
+			"in_reply_to_user_id_str": "732141019114930176",
+			"in_reply_to_screen_name": "UKRI_News",
+			"user": {
+				"id": 732141019114930200,
+				"id_str": "732141019114930176",
+				"name": "UK Research and Innovation",
+				"screen_name": "UKRI_News",
+				"location": "United Kingdom",
+				"description": "We support world-leading research and innovation to push the frontiers of human knowledge and generate social, cultural and economic impact. Learn more here 👇",
+				"url": "https://t.co/rbC2DHMUJc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rbC2DHMUJc",
+								"expanded_url": "https://www.ukri.org/about-us/",
+								"display_url": "ukri.org/about-us/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70837,
+				"friends_count": 576,
+				"listed_count": 680,
+				"created_at": "Mon May 16 09:29:56 +0000 2016",
+				"favourites_count": 4513,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9682,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410526214452830216/87FcZqxZ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410526214452830216/87FcZqxZ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/732141019114930176/1607072509",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 13,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‼️ I am so excited to share news of my appointment to Co-Chair the expert panel for the @officestudents  and @ResEngland funding competition to support more students of colour into PGR study! Huge S/O @aimafidon, @AkinbosedeD, @drarunverma, @Asantewah_a + Kamna Patel 👏🏽👇🏽 https://t.co/XrUvp5FtRv"
+	},
+	{
 		"created_at": "Mon Nov 22 19:01:35 +0000 2021",
 		"id": 1462847175298322400,
 		"id_str": "1462858816656232453",
