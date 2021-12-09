@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 15:53:05 +0000 2021",
+		"id": 1468609586596778000,
+		"id_str": "1468609586596777990",
+		"full_text": "As a former trustee, I can only confirm the huge positive impact that Katherine has had at the BSA. It was a real pleasure to work with her.\n\nAnd congratulations @Kath_Math on the exciting new role at the @Ri_Science! https://t.co/UsU4i3UVeL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kath_Math",
+					"name": "Katherine Mathieson",
+					"id": 202048021,
+					"id_str": "202048021",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"screen_name": "Ri_Science",
+					"name": "Royal Institution",
+					"id": 58431280,
+					"id_str": "58431280",
+					"indices": [
+						205,
+						216
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UsU4i3UVeL",
+					"expanded_url": "https://twitter.com/BritSciAssoc/status/1468602068713758721",
+					"display_url": "twitter.com/BritSciAssoc/s…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5283,
+			"friends_count": 768,
+			"listed_count": 173,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468602068713758700,
+		"quoted_status_id_str": "1468602068713758721",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UsU4i3UVeL",
+			"expanded": "https://twitter.com/BritSciAssoc/status/1468602068713758721",
+			"display": "twitter.com/BritSciAssoc/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 08 15:23:13 +0000 2021",
+			"id": 1468602068713758700,
+			"id_str": "1468602068713758721",
+			"full_text": "The BSA has today announced that its Chief Executive, @Kath_Math, will be leaving the organisation next spring.\n\nKatherine has had a huge impact on the BSA and will be greatly missed.\n\nFind out more on our website 🔗 https://t.co/4TYBgaByEv (1/2) https://t.co/4TweFLTnVV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Kath_Math",
+						"name": "Katherine Mathieson",
+						"id": 202048021,
+						"id_str": "202048021",
+						"indices": [
+							54,
+							64
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/4TYBgaByEv",
+						"expanded_url": "https://www.britishscienceassociation.org/british-science-association-chief-executive-to-step-down-2021",
+						"display_url": "britishscienceassociation.org/british-scienc…",
+						"indices": [
+							216,
+							239
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1468597077169037300,
+						"id_str": "1468597077169037312",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/FGGBQr7WYAAOqxT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGGBQr7WYAAOqxT.jpg",
+						"url": "https://t.co/4TweFLTnVV",
+						"display_url": "pic.twitter.com/4TweFLTnVV",
+						"expanded_url": "https://twitter.com/BritSciAssoc/status/1468602068713758721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1468597077169037300,
+						"id_str": "1468597077169037312",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/media/FGGBQr7WYAAOqxT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGGBQr7WYAAOqxT.jpg",
+						"url": "https://t.co/4TweFLTnVV",
+						"display_url": "pic.twitter.com/4TweFLTnVV",
+						"expanded_url": "https://twitter.com/BritSciAssoc/status/1468602068713758721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 442847698,
+				"id_str": "442847698",
+				"name": "British Science Association",
+				"screen_name": "BritSciAssoc",
+				"location": "London",
+				"description": "Our vision is a future where science is more relevant, representative, and connected to society.",
+				"url": "http://t.co/xffbzLXKst",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xffbzLXKst",
+								"expanded_url": "http://www.britishscienceassociation.org",
+								"display_url": "britishscienceassociation.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58641,
+				"friends_count": 3563,
+				"listed_count": 666,
+				"created_at": "Wed Dec 21 14:49:07 +0000 2011",
+				"favourites_count": 29125,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14756,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "111111",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1407277719264636929/XbzY3TgK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407277719264636929/XbzY3TgK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/442847698/1498467665",
+				"profile_link_color": "25A09A",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As a former trustee, I can only confirm the huge positive impact that Katherine has had at the BSA. It was a real pleasure to work with her.\n\nAnd congratulations @Kath_Math on the exciting new role at the @Ri_Science! https://t.co/UsU4i3UVeL"
+	},
+	{
 		"created_at": "Fri Dec 03 13:29:45 +0000 2021",
 		"id": 1466752758149783600,
 		"id_str": "1466761576158007297",
