@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 20 13:02:45 +0000 2021",
+		"id": 1472914681828421600,
+		"id_str": "1472915376375742471",
+		"full_text": "Are you interested in the next steps for the Research Excellence Framework? Join @WHEFEvents on the 11th March with speakers including @Susan_Guthrie @stevenhill @sjh5000 @CMManville @saskiawalcott73 @unisouthampton @ResEngland @RANDEurope! More info: https://t.co/2VWeaEs6aA https://t.co/RgWvfbvEtx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WHEFEvents",
+					"name": "WHEF Events",
+					"id": 428885362,
+					"id_str": "428885362",
+					"indices": [
+						81,
+						92
+					]
+				},
+				{
+					"screen_name": "Susan_Guthrie",
+					"name": "Sue Guthrie",
+					"id": 469459208,
+					"id_str": "469459208",
+					"indices": [
+						135,
+						149
+					]
+				},
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"screen_name": "sjh5000",
+					"name": "Simon Hettrick",
+					"id": 36956198,
+					"id_str": "36956198",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"screen_name": "CMManville",
+					"name": "Catriona Manville",
+					"id": 583645190,
+					"id_str": "583645190",
+					"indices": [
+						171,
+						182
+					]
+				},
+				{
+					"screen_name": "saskiawalcott73",
+					"name": "Saskia Walcott",
+					"id": 187579150,
+					"id_str": "187579150",
+					"indices": [
+						183,
+						199
+					]
+				},
+				{
+					"screen_name": "unisouthampton",
+					"name": "University of Southampton",
+					"id": 26203004,
+					"id_str": "26203004",
+					"indices": [
+						200,
+						215
+					]
+				},
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						216,
+						227
+					]
+				},
+				{
+					"screen_name": "RANDEurope",
+					"name": "RAND Europe",
+					"id": 22954137,
+					"id_str": "22954137",
+					"indices": [
+						228,
+						239
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2VWeaEs6aA",
+					"expanded_url": "https://bit.ly/3GQenzD",
+					"display_url": "bit.ly/3GQenzD",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1472879664070860800,
+					"id_str": "1472879664070860802",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FHC4QDXXIAIgpf_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHC4QDXXIAIgpf_.jpg",
+					"url": "https://t.co/RgWvfbvEtx",
+					"display_url": "pic.twitter.com/RgWvfbvEtx",
+					"expanded_url": "https://twitter.com/wfpevents/status/1472914681828421632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472879664070860800,
+					"id_str": "1472879664070860802",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FHC4QDXXIAIgpf_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHC4QDXXIAIgpf_.jpg",
+					"url": "https://t.co/RgWvfbvEtx",
+					"display_url": "pic.twitter.com/RgWvfbvEtx",
+					"expanded_url": "https://twitter.com/wfpevents/status/1472914681828421632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 234334860,
+			"id_str": "234334860",
+			"name": "WFPEvents",
+			"screen_name": "wfpevents",
+			"location": "Central London and Westminster",
+			"description": "WFP operates a group of influential, impartial and cross-party public policy forums, bringing policymakers together with stakeholders on a wide range of issues.",
+			"url": "http://t.co/HyLlvflM4T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HyLlvflM4T",
+							"expanded_url": "http://www.westminsterforumprojects.co.uk/",
+							"display_url": "westminsterforumprojects.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2379,
+			"friends_count": 1707,
+			"listed_count": 349,
+			"created_at": "Wed Jan 05 12:02:02 +0000 2011",
+			"favourites_count": 1500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F7F7E9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/987256782274875392/csPTngpp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/987256782274875392/csPTngpp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/234334860/1409321124",
+			"profile_link_color": "7F0219",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you interested in the next steps for the Research Excellence Framework? Join @WHEFEvents on the 11th March with speakers including @Susan_Guthrie @stevenhill @sjh5000 @CMManville @saskiawalcott73 @unisouthampton @ResEngland @RANDEurope! More info: https://t.co/2VWeaEs6aA https://t.co/RgWvfbvEtx"
+	},
+	{
 		"created_at": "Wed Dec 08 15:53:05 +0000 2021",
 		"id": 1468609586596778000,
 		"id_str": "1468609586596777990",
