@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 30 15:55:12 +0000 2021",
+		"id": 1476582650219430000,
+		"id_str": "1476582650219429890",
+		"full_text": "@mobilemobilizer Worth looking at https://t.co/26tGgS7PAV\n\nAnd\n\nhttps://t.co/jpxgZ2FxXD",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mobilemobilizer",
+					"name": "David Phipps (he/him/his)",
+					"id": 321351109,
+					"id_str": "321351109",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/26tGgS7PAV",
+					"expanded_url": "https://blogs.lse.ac.uk/impactofsocialsciences/2018/03/08/the-gendered-impact-agenda-how-might-more-female-academics-research-be-submitted-as-ref-impact-case-studies/",
+					"display_url": "blogs.lse.ac.uk/impactofsocial…",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/jpxgZ2FxXD",
+					"expanded_url": "https://www.nature.com/articles/s41599-020-0438-z",
+					"display_url": "nature.com/articles/s4159…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1476576683985707000,
+		"in_reply_to_status_id_str": "1476576683985707012",
+		"in_reply_to_user_id": 321351109,
+		"in_reply_to_user_id_str": "321351109",
+		"in_reply_to_screen_name": "mobilemobilizer",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5279,
+			"friends_count": 771,
+			"listed_count": 173,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mobilemobilizer Worth looking at https://t.co/26tGgS7PAV\n\nAnd\n\nhttps://t.co/jpxgZ2FxXD"
+	},
+	{
 		"created_at": "Mon Dec 20 13:02:45 +0000 2021",
 		"id": 1472914681828421600,
 		"id_str": "1472915376375742471",
