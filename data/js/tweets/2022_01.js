@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 08 10:08:50 +0000 2022",
+		"id": 1479453238684487700,
+		"id_str": "1479756976104091652",
+		"full_text": "\"The science of the future should be responsible, equitable and sustainable. It should build future skills, places, and communities that regenerate our world...\nIt needs arts and humanities at its core.\"\n\nMy blog on the #humanity at the heart of #science https://t.co/QHQZ3e8n7p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "humanity",
+					"indices": [
+						220,
+						229
+					]
+				},
+				{
+					"text": "science",
+					"indices": [
+						246,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QHQZ3e8n7p",
+					"expanded_url": "https://www.ukri.org/blog/the-humanity-at-the-heart-of-science/",
+					"display_url": "ukri.org/blog/the-human…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 917016474409193500,
+			"id_str": "917016474409193472",
+			"name": "Christopher Smith",
+			"screen_name": "rometostandrews",
+			"location": "",
+			"description": "Historian, University of St Andrews; Executive Chair, AHRC @ahrcpress; International Champion UKRI @UKRI_News\n\nAll views (but none of the poetry!) my own.",
+			"url": "https://t.co/zFY3o24ms5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zFY3o24ms5",
+							"expanded_url": "https://anatomiesofpower.wordpress.com/",
+							"display_url": "anatomiesofpower.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2538,
+			"friends_count": 1107,
+			"listed_count": 26,
+			"created_at": "Sun Oct 08 13:18:59 +0000 2017",
+			"favourites_count": 12164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/917024699556691970/Tc-tRPy0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/917024699556691970/Tc-tRPy0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/917016474409193472/1507470844",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The science of the future should be responsible, equitable and sustainable. It should build future skills, places, and communities that regenerate our world...\nIt needs arts and humanities at its core.\"\n\nMy blog on the #humanity at the heart of #science https://t.co/QHQZ3e8n7p"
+	},
+	{
 		"created_at": "Wed Jan 05 18:00:42 +0000 2022",
 		"id": 1478478094335946800,
 		"id_str": "1478788563319898119",
