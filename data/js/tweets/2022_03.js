@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 31 19:39:46 +0000 2022",
+		"id": 1509534055401934800,
+		"id_str": "1509616462352240644",
+		"full_text": "It’s one year since 185,000 research outputs were submitted by 157 universities for assessment by our expert panels.\n\n🗓️ 12 May\n\nIn exactly six weeks' time, we will release the outcomes of the 2021 REF on https://t.co/XC0NVyXbrI.\n\n#REFResults https://t.co/tiEK25Usjf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REFResults",
+					"indices": [
+						231,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XC0NVyXbrI",
+					"expanded_url": "https://www.ref.ac.uk/",
+					"display_url": "ref.ac.uk",
+					"indices": [
+						205,
+						228
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1509532782288015400,
+					"id_str": "1509532782288015378",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FPLwEVEVkBIIZ8_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPLwEVEVkBIIZ8_.jpg",
+					"url": "https://t.co/tiEK25Usjf",
+					"display_url": "pic.twitter.com/tiEK25Usjf",
+					"expanded_url": "https://twitter.com/REF_2021/status/1509534055401934855/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1509532782288015400,
+					"id_str": "1509532782288015378",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/FPLwEVEVkBIIZ8_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPLwEVEVkBIIZ8_.jpg",
+					"url": "https://t.co/tiEK25Usjf",
+					"display_url": "pic.twitter.com/tiEK25Usjf",
+					"expanded_url": "https://twitter.com/REF_2021/status/1509534055401934855/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822173125639110700,
+			"id_str": "822173125639110657",
+			"name": "REF2021",
+			"screen_name": "REF_2021",
+			"location": "United Kingdom",
+			"description": "Official account of the Research Excellence Framework 2021, undertaken by the four UK HE funding bodies. Twitter page managed by the REF team at @ResEngland.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8589,
+			"friends_count": 2,
+			"listed_count": 79,
+			"created_at": "Thu Jan 19 20:05:23 +0000 2017",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903598145699020802/ad8FE4_d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903598145699020802/ad8FE4_d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822173125639110657/1504267792",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s one year since 185,000 research outputs were submitted by 157 universities for assessment by our expert panels.\n\n🗓️ 12 May\n\nIn exactly six weeks' time, we will release the outcomes of the 2021 REF on https://t.co/XC0NVyXbrI.\n\n#REFResults https://t.co/tiEK25Usjf"
+	},
+	{
 		"created_at": "Sun Mar 13 11:34:26 +0000 2022",
 		"id": 1502971343754698800,
 		"id_str": "1502971343754698754",
