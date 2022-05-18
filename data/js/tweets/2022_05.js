@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 09:29:12 +0000 2022",
+		"id": 1526494594237665300,
+		"id_str": "1526495039161081856",
+		"full_text": "The Metric Tide Revisited: hot on the heels of last week’s #REF2021 results, @ResEngland &amp; other UK funders have asked @LizzieGadd @Stephen_Curry &amp; me to take a fresh look at the possibilities &amp; pitfalls of metrics in research assessment https://t.co/gz63uMowit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REF2021",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						77,
+						88
+					]
+				},
+				{
+					"screen_name": "LizzieGadd",
+					"name": "Dr Elizabeth Gadd 🇺🇦",
+					"id": 47917199,
+					"id_str": "47917199",
+					"indices": [
+						123,
+						134
+					]
+				},
+				{
+					"screen_name": "Stephen_Curry",
+					"name": "Stephen Curry",
+					"id": 41358714,
+					"id_str": "41358714",
+					"indices": [
+						135,
+						149
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gz63uMowit",
+					"expanded_url": "https://www.jisc.ac.uk/future-research-assessment-programme/evaluation-activities#",
+					"display_url": "jisc.ac.uk/future-researc…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 276224538,
+			"id_str": "276224538",
+			"name": "James Wilsdon",
+			"screen_name": "jameswilsdon",
+			"location": "Sheffield",
+			"description": "director @RoRInstitute | @digitalsci professor of research policy @sheffielduni",
+			"url": "https://t.co/qVzmqY8Qu6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qVzmqY8Qu6",
+							"expanded_url": "https://www.sheffield.ac.uk/is/people/academic/james-wilsdon",
+							"display_url": "sheffield.ac.uk/is/people/acad…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11137,
+			"friends_count": 1952,
+			"listed_count": 360,
+			"created_at": "Sat Apr 02 22:47:09 +0000 2011",
+			"favourites_count": 7442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151830369987178496/MVGhpTqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151830369987178496/MVGhpTqq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/276224538/1579965225",
+			"profile_link_color": "FF002B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Metric Tide Revisited: hot on the heels of last week’s #REF2021 results, @ResEngland &amp; other UK funders have asked @LizzieGadd @Stephen_Curry &amp; me to take a fresh look at the possibilities &amp; pitfalls of metrics in research assessment https://t.co/gz63uMowit"
+	},
+	{
 		"created_at": "Mon May 16 10:41:53 +0000 2022",
 		"id": 1526150738992418800,
 		"id_str": "1526150942441328641",
