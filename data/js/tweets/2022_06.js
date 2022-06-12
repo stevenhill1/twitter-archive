@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 11 16:40:46 +0000 2022",
+		"id": 1535663341800243200,
+		"id_str": "1535663341800243201",
+		"full_text": "I agree with this. The challenge is how to structure incentives and how to choose the projects/people. Not just about funder incentives, but also the intrinsic reward/recognition systems within research. https://t.co/1UgaRBbnn2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1UgaRBbnn2",
+					"expanded_url": "https://twitter.com/kevin2kelly/status/1535639549875191809",
+					"display_url": "twitter.com/kevin2kelly/st…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5315,
+			"friends_count": 789,
+			"listed_count": 171,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1535639549875191800,
+		"quoted_status_id_str": "1535639549875191809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1UgaRBbnn2",
+			"expanded": "https://twitter.com/kevin2kelly/status/1535639549875191809",
+			"display": "twitter.com/kevin2kelly/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 11 15:06:14 +0000 2022",
+			"id": 1535639549875191800,
+			"id_str": "1535639549875191809",
+			"full_text": "My post for today: The need for long-range research. Why we should create incentives for research that won't be done or payout for 25 years or more. https://t.co/2ypQrzUIUZ #mypostfortoday",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mypostfortoday",
+						"indices": [
+							173,
+							188
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2ypQrzUIUZ",
+						"expanded_url": "https://kk.org/thetechnium/the-need-for-long-term-research/",
+						"display_url": "kk.org/thetechnium/th…",
+						"indices": [
+							149,
+							172
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1532061,
+				"id_str": "1532061",
+				"name": "Kevin Kelly",
+				"screen_name": "kevin2kelly",
+				"location": "Pacifica, CA",
+				"description": "Senior Maverick at Wired, author of bestseller book, The Inevitable. Also Cool Tool maven, Recomendo chief, Asia-holic, and True Film buff.",
+				"url": "http://t.co/5nim73hK7O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5nim73hK7O",
+								"expanded_url": "http://www.kk.org/kk",
+								"display_url": "kk.org/kk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 105512,
+				"friends_count": 456,
+				"listed_count": 3705,
+				"created_at": "Mon Mar 19 17:27:38 +0000 2007",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6195,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E8E69A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/65000713/KKlaughsm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/65000713/KKlaughsm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1532061/1457469389",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FBF918",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I agree with this. The challenge is how to structure incentives and how to choose the projects/people. Not just about funder incentives, but also the intrinsic reward/recognition systems within research. https://t.co/1UgaRBbnn2"
+	},
+	{
 		"created_at": "Thu Jun 09 17:19:55 +0000 2022",
 		"id": 1534948416073105400,
 		"id_str": "1534948416073105408",
