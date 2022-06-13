@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 19:16:16 +0000 2022",
+		"id": 1535300039395922000,
+		"id_str": "1536064863285411843",
+		"full_text": "Are you a researcher looking for a better way to publish your work? Octopus (@science_octopus) is a new way to register research that's fast, free and fair. Sign up to our launch event on 29th June to find out more: https://t.co/AKcT9ZFRcX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "science_octopus",
+					"name": "Octopus",
+					"id": 1364598944366530600,
+					"id_str": "1364598944366530565",
+					"indices": [
+						77,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AKcT9ZFRcX",
+					"expanded_url": "https://beta.jisc.ac.uk/events/the-launch-of-octopus-the-new-primary-research-record",
+					"display_url": "beta.jisc.ac.uk/events/the-lau…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2161609544,
+			"id_str": "2161609544",
+			"name": "Liz Bal",
+			"screen_name": "Liz_Bal",
+			"location": "London",
+			"description": "Director of open research services @Jisc. All views are my own. She/her.",
+			"url": "https://t.co/EIQjk4YhwK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EIQjk4YhwK",
+							"expanded_url": "http://www.jisc.ac.uk",
+							"display_url": "jisc.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 720,
+			"friends_count": 972,
+			"listed_count": 33,
+			"created_at": "Mon Oct 28 21:08:43 +0000 2013",
+			"favourites_count": 257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086376723686608896/NTWLqe4m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086376723686608896/NTWLqe4m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2161609544/1435658846",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you a researcher looking for a better way to publish your work? Octopus (@science_octopus) is a new way to register research that's fast, free and fair. Sign up to our launch event on 29th June to find out more: https://t.co/AKcT9ZFRcX"
+	},
+	{
+		"created_at": "Sun Jun 12 19:15:43 +0000 2022",
+		"id": 1536053268010438700,
+		"id_str": "1536064722210107398",
+		"full_text": "Come along to our virtual launch. Virtual means no free drinks I’m afraid but on the plus side you can hear why UKRI, UKRN, JISC and others think Octopus worth your attention if you’re a researcher without travel and from the comfort of wherever you want to be... https://t.co/A3aRn7U1K8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A3aRn7U1K8",
+					"expanded_url": "https://twitter.com/liz_bal/status/1535300039395921920",
+					"display_url": "twitter.com/liz_bal/status…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 202342149,
+			"id_str": "202342149",
+			"name": "Alexandra Freeman",
+			"screen_name": "alex_freeman",
+			"location": "",
+			"description": "Executive Director of the Winton Centre for Risk & Evidence Communication, University of Cambridge. \nCreator of Octopus: https://t.co/UszH5Sg2O4",
+			"url": "https://t.co/NpvDLcYBFo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NpvDLcYBFo",
+							"expanded_url": "http://wintoncentre.maths.cam.ac.uk",
+							"display_url": "wintoncentre.maths.cam.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UszH5Sg2O4",
+							"expanded_url": "https://octopuspublishing.org",
+							"display_url": "octopuspublishing.org",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4602,
+			"friends_count": 277,
+			"listed_count": 81,
+			"created_at": "Wed Oct 13 20:55:01 +0000 2010",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2278997187/a0qqbj0zq92a5w2mo4cs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2278997187/a0qqbj0zq92a5w2mo4cs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/202342149/1478083370",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1535300039395922000,
+		"quoted_status_id_str": "1535300039395921920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/A3aRn7U1K8",
+			"expanded": "https://twitter.com/liz_bal/status/1535300039395921920",
+			"display": "twitter.com/liz_bal/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 10 16:37:08 +0000 2022",
+			"id": 1535300039395922000,
+			"id_str": "1535300039395921920",
+			"full_text": "Are you a researcher looking for a better way to publish your work? Octopus (@science_octopus) is a new way to register research that's fast, free and fair. Sign up to our launch event on 29th June to find out more: https://t.co/AKcT9ZFRcX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "science_octopus",
+						"name": "Octopus",
+						"id": 1364598944366530600,
+						"id_str": "1364598944366530565",
+						"indices": [
+							77,
+							93
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AKcT9ZFRcX",
+						"expanded_url": "https://beta.jisc.ac.uk/events/the-launch-of-octopus-the-new-primary-research-record",
+						"display_url": "beta.jisc.ac.uk/events/the-lau…",
+						"indices": [
+							216,
+							239
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2161609544,
+				"id_str": "2161609544",
+				"name": "Liz Bal",
+				"screen_name": "Liz_Bal",
+				"location": "London",
+				"description": "Director of open research services @Jisc. All views are my own. She/her.",
+				"url": "https://t.co/EIQjk4YhwK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EIQjk4YhwK",
+								"expanded_url": "http://www.jisc.ac.uk",
+								"display_url": "jisc.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 720,
+				"friends_count": 972,
+				"listed_count": 33,
+				"created_at": "Mon Oct 28 21:08:43 +0000 2013",
+				"favourites_count": 257,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1304,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1086376723686608896/NTWLqe4m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086376723686608896/NTWLqe4m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2161609544/1435658846",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come along to our virtual launch. Virtual means no free drinks I’m afraid but on the plus side you can hear why UKRI, UKRN, JISC and others think Octopus worth your attention if you’re a researcher without travel and from the comfort of wherever you want to be... https://t.co/A3aRn7U1K8"
+	},
+	{
+		"created_at": "Sun Jun 12 17:49:37 +0000 2022",
+		"id": 1536043057682034700,
+		"id_str": "1536043057682034688",
+		"full_text": "@AnnetteB_N8 Yes, and measuring the sort of research on a 25 year timescale is especially hard.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnnetteB_N8",
+					"name": "Dr Annette Bramley",
+					"id": 3369526871,
+					"id_str": "3369526871",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1535923663106715600,
+		"in_reply_to_status_id_str": "1535923663106715649",
+		"in_reply_to_user_id": 3369526871,
+		"in_reply_to_user_id_str": "3369526871",
+		"in_reply_to_screen_name": "AnnetteB_N8",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5316,
+			"friends_count": 789,
+			"listed_count": 171,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AnnetteB_N8 Yes, and measuring the sort of research on a 25 year timescale is especially hard."
+	},
+	{
 		"created_at": "Sat Jun 11 16:40:46 +0000 2022",
 		"id": 1535663341800243200,
 		"id_str": "1535663341800243201",
