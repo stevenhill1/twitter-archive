@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 12:17:13 +0000 2022",
+		"id": 1544987514330660900,
+		"id_str": "1545019102871289857",
+		"full_text": "@stevenhill Too much excitement today - this is the link you want:\n\nhttps://t.co/Tl7qT8vDYU",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Tl7qT8vDYU",
+					"expanded_url": "https://www.jobs.cam.ac.uk/job/35409/",
+					"display_url": "jobs.cam.ac.uk/job/35409/",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1544981972203733000,
+		"in_reply_to_status_id_str": "1544981972203732996",
+		"in_reply_to_user_id": 796815535,
+		"in_reply_to_user_id_str": "796815535",
+		"in_reply_to_screen_name": "drstevenwooding",
+		"user": {
+			"id": 796815535,
+			"id_str": "796815535",
+			"name": "Steven Wooding",
+			"screen_name": "drstevenwooding",
+			"location": "Cambridge, England",
+			"description": "Promoting evidence, science of science, visualising meaning, much else. RTs not endorsements. Res Fellow @CSciPol, @BennettInst @IntellForum, @Cambridge_Uni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 422,
+			"friends_count": 89,
+			"listed_count": 10,
+			"created_at": "Sat Sep 01 20:24:39 +0000 2012",
+			"favourites_count": 197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854216410431721472/uuajH9Dt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854216410431721472/uuajH9Dt_normal.jpg",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@stevenhill Too much excitement today - this is the link you want:\n\nhttps://t.co/Tl7qT8vDYU"
+	},
+	{
 		"created_at": "Wed Jul 06 11:20:59 +0000 2022",
 		"id": 1544642293709344800,
 		"id_str": "1544642563952476162",
