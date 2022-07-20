@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 10:35:44 +0000 2022",
+		"id": 1549342218581938200,
+		"id_str": "1549342218581938182",
+		"full_text": "@sophiacol @sburall https://t.co/fJj9ygDGs7 is very good",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sophiacol",
+					"name": "Sophia Collins",
+					"id": 245353843,
+					"id_str": "245353843",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "sburall",
+					"name": "Simon Burall",
+					"id": 56477130,
+					"id_str": "56477130",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fJj9ygDGs7",
+					"expanded_url": "http://www.seat61.com",
+					"display_url": "seat61.com",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1549341502287106000,
+		"in_reply_to_status_id_str": "1549341502287106048",
+		"in_reply_to_user_id": 245353843,
+		"in_reply_to_user_id_str": "245353843",
+		"in_reply_to_screen_name": "sophiacol",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5342,
+			"friends_count": 797,
+			"listed_count": 173,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sophiacol @sburall https://t.co/fJj9ygDGs7 is very good"
+	},
+	{
 		"created_at": "Thu Jul 14 11:22:31 +0000 2022",
 		"id": 1547542051205664800,
 		"id_str": "1547542051205664769",
