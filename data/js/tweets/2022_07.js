@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 23 07:02:22 +0000 2022",
+		"id": 1550604812881866800,
+		"id_str": "1550738070995144705",
+		"full_text": "I must admit, part of me just thinks \"Well, why not have a big team of science historians actually try to understand how our understanding has evolved in detail, and forget about the citations?\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1550604355794915300,
+		"in_reply_to_status_id_str": "1550604355794915328",
+		"in_reply_to_user_id": 15626406,
+		"in_reply_to_user_id_str": "15626406",
+		"in_reply_to_screen_name": "michael_nielsen",
+		"user": {
+			"id": 15626406,
+			"id_str": "15626406",
+			"name": "Michael is finishing a metascience essay",
+			"screen_name": "michael_nielsen",
+			"location": "San Francisco, CA",
+			"description": "A cunning arrangement of 10^29 protons, neutrons, & electrons\n🇦🇺 🇨🇦, now home in 🇺🇸\nResearcher @AsteraInstitute\nThinking out loud at https://t.co/maezekQUWb",
+			"url": "https://t.co/f0lkuxwyG4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f0lkuxwyG4",
+							"expanded_url": "https://michaelnielsen.org/",
+							"display_url": "michaelnielsen.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/maezekQUWb",
+							"expanded_url": "http://michaelnotebook.com",
+							"display_url": "michaelnotebook.com",
+							"indices": [
+								133,
+								156
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 76112,
+			"friends_count": 4985,
+			"listed_count": 2145,
+			"created_at": "Mon Jul 28 01:47:10 +0000 2008",
+			"favourites_count": 74136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1462265339438190592/TmJkD-wB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1462265339438190592/TmJkD-wB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15626406/1614638795",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I must admit, part of me just thinks \"Well, why not have a big team of science historians actually try to understand how our understanding has evolved in detail, and forget about the citations?\""
+	},
+	{
+		"created_at": "Sat Jul 23 06:59:22 +0000 2022",
+		"id": 1550737315743555600,
+		"id_str": "1550737315743555584",
+		"full_text": "@michael_nielsen @mattsclancy Will read the essay (thanks for highlighting). Does it consider the postive feedback loop involving citation and discoverability, which is another big problem in my view. https://t.co/EwEeOsOl7O",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michael_nielsen",
+					"name": "Michael is finishing a metascience essay",
+					"id": 15626406,
+					"id_str": "15626406",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "mattsclancy",
+					"name": "Matt Clancy",
+					"id": 537715934,
+					"id_str": "537715934",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EwEeOsOl7O",
+					"expanded_url": "https://stevenhill.org.uk//posts/citations-and-the-attention-loop",
+					"display_url": "stevenhill.org.uk//posts/citatio…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1550604314678202400,
+		"in_reply_to_status_id_str": "1550604314678202368",
+		"in_reply_to_user_id": 15626406,
+		"in_reply_to_user_id_str": "15626406",
+		"in_reply_to_screen_name": "michael_nielsen",
+		"user": {
+			"id": 7731752,
+			"id_str": "7731752",
+			"name": "Steven Hill",
+			"screen_name": "stevenhill",
+			"location": "Wiltshire, UK",
+			"description": "Director of Research at Research England, a council of UK Research and Innovation. Interested in research policy, science, evidence and innovation.",
+			"url": "https://t.co/pEfaOcJfMm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pEfaOcJfMm",
+							"expanded_url": "http://stevenhill.org.uk/",
+							"display_url": "stevenhill.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5345,
+			"friends_count": 797,
+			"listed_count": 173,
+			"created_at": "Thu Jul 26 08:20:58 +0000 2007",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/594767200/Steven_Hill_photo_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@michael_nielsen @mattsclancy Will read the essay (thanks for highlighting). Does it consider the postive feedback loop involving citation and discoverability, which is another big problem in my view. https://t.co/EwEeOsOl7O"
+	},
+	{
 		"created_at": "Tue Jul 19 10:35:44 +0000 2022",
 		"id": 1549342218581938200,
 		"id_str": "1549342218581938182",
