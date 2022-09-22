@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 17:33:48 +0000 2022",
+		"id": 1572531099900981200,
+		"id_str": "1572640251482443778",
+		"full_text": "To ensure that the peer review systems we operate are effective, we need to investigate the best approaches to use and under what conditions these should be. Read about our plans for this in @UKRI_CEO's blog. ⬇️ #PeerReviewWeek22 https://t.co/IO0E9GQA4e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PeerReviewWeek22",
+					"indices": [
+						212,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UKRI_CEO",
+					"name": "Professor Dame Ottoline Leyser",
+					"id": 868114803507810300,
+					"id_str": "868114803507810305",
+					"indices": [
+						191,
+						200
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IO0E9GQA4e",
+					"expanded_url": "https://orlo.uk/LYIcM",
+					"display_url": "orlo.uk/LYIcM",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732141019114930200,
+			"id_str": "732141019114930176",
+			"name": "UK Research and Innovation",
+			"screen_name": "UKRI_News",
+			"location": "United Kingdom",
+			"description": "We support world-leading research and innovation to push the frontiers of human knowledge and generate social, cultural and economic impact. Learn more here 👇",
+			"url": "https://t.co/90MfgtCRow",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/90MfgtCRow",
+							"expanded_url": "https://www.ukri.org/about-us/",
+							"display_url": "ukri.org/about-us/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84665,
+			"friends_count": 643,
+			"listed_count": 751,
+			"created_at": "Mon May 16 09:29:56 +0000 2016",
+			"favourites_count": 5304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572143479307882496/WTV19YDN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572143479307882496/WTV19YDN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732141019114930176/1663663190",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To ensure that the peer review systems we operate are effective, we need to investigate the best approaches to use and under what conditions these should be. Read about our plans for this in @UKRI_CEO's blog. ⬇️ #PeerReviewWeek22 https://t.co/IO0E9GQA4e"
+	},
+	{
 		"created_at": "Sun Sep 04 11:42:02 +0000 2022",
 		"id": 1566391132514394000,
 		"id_str": "1566391132514394112",
