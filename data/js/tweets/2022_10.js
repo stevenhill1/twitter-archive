@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 09:05:16 +0000 2022",
+		"id": 1584470627762598000,
+		"id_str": "1584471071843041280",
+		"full_text": "We're recruiting six expert panel members to join @nickmerriman01 in reviewing our Museums, Galleries and Collections Fund. Through this, we aim to better support higher education museums, galleries and collections to serve the wider R&amp;I community. More ⬇️ https://t.co/cFYuoJx3Aw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nickmerriman01",
+					"name": "Nick Merriman",
+					"id": 51071614,
+					"id_str": "51071614",
+					"indices": [
+						50,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cFYuoJx3Aw",
+					"expanded_url": "https://orlo.uk/So6YS",
+					"display_url": "orlo.uk/So6YS",
+					"indices": [
+						261,
+						284
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+			"url": "https://t.co/PRp31Hz3Vd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PRp31Hz3Vd",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14281,
+			"friends_count": 369,
+			"listed_count": 178,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1663663644",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're recruiting six expert panel members to join @nickmerriman01 in reviewing our Museums, Galleries and Collections Fund. Through this, we aim to better support higher education museums, galleries and collections to serve the wider R&amp;I community. More ⬇️ https://t.co/cFYuoJx3Aw"
+	},
+	{
 		"created_at": "Mon Oct 10 16:17:43 +0000 2022",
 		"id": 1579506474367475700,
 		"id_str": "1579506474367475712",
