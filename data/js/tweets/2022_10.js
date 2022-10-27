@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 10:23:37 +0000 2022",
+		"id": 1585188577323155500,
+		"id_str": "1585215566490525698",
+		"full_text": "We're pleased to announce @ResEngland has awarded £3.9m in funding, over three years, to a consortium led by @YorkshireUnis to establish us: \n\nY-PERN: #Yorkshire and #Humber Policy Engagement and Research Network\n\n🧵below https://t.co/ssR9YkdX0f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Yorkshire",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"text": "Humber",
+					"indices": [
+						166,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "YorkshireUnis",
+					"name": "Yorkshire Universities",
+					"id": 143372005,
+					"id_str": "143372005",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585187724499239000,
+					"id_str": "1585187724499238912",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff-31jUWQAAUM67.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ff-31jUWQAAUM67.png",
+					"url": "https://t.co/ssR9YkdX0f",
+					"display_url": "pic.twitter.com/ssR9YkdX0f",
+					"expanded_url": "https://twitter.com/Y_PERN_/status/1585188577323155456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585187724499239000,
+					"id_str": "1585187724499238912",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff-31jUWQAAUM67.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ff-31jUWQAAUM67.png",
+					"url": "https://t.co/ssR9YkdX0f",
+					"display_url": "pic.twitter.com/ssR9YkdX0f",
+					"expanded_url": "https://twitter.com/Y_PERN_/status/1585188577323155456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1584462049781989400,
+			"id_str": "1584462049781989377",
+			"name": "Y-PERN",
+			"screen_name": "Y_PERN_",
+			"location": "Yorkshire & Humber, UK",
+			"description": "Y-PERN: Yorkshire & Humber Policy Engagement & Research Network. Providing new evidence and fresh insights to inform policymaking.",
+			"url": "https://t.co/QcS8YS0wP2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QcS8YS0wP2",
+							"expanded_url": "https://yorkshireuniversities.ac.uk/y-pern/",
+							"display_url": "yorkshireuniversities.ac.uk/y-pern/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54,
+			"friends_count": 89,
+			"listed_count": 0,
+			"created_at": "Mon Oct 24 08:30:18 +0000 2022",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1584463897897172992/rdJmCLb6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1584463897897172992/rdJmCLb6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1584462049781989377/1666601098",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're pleased to announce @ResEngland has awarded £3.9m in funding, over three years, to a consortium led by @YorkshireUnis to establish us: \n\nY-PERN: #Yorkshire and #Humber Policy Engagement and Research Network\n\n🧵below https://t.co/ssR9YkdX0f"
+	},
+	{
 		"created_at": "Mon Oct 24 09:05:16 +0000 2022",
 		"id": 1584470627762598000,
 		"id_str": "1584471071843041280",
