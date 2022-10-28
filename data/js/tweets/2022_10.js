@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 10:39:24 +0000 2022",
+		"id": 1585575731274326000,
+		"id_str": "1585581927234519041",
+		"full_text": "@JessicaCorner To help assess applications for the second round of E3 funding, we're now recruiting an expert panel. If you'd like to be part of this work to support the growth of excellent research in our universities, find out more here: https://t.co/ASPF8ZHVJa",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JessicaCorner",
+					"name": "Dame Jessica Corner",
+					"id": 231203203,
+					"id_str": "231203203",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ASPF8ZHVJa",
+					"expanded_url": "https://orlo.uk/39biK",
+					"display_url": "orlo.uk/39biK",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": 1585575444325204000,
+		"in_reply_to_status_id_str": "1585575444325203968",
+		"in_reply_to_user_id": 823853384138637300,
+		"in_reply_to_user_id_str": "823853384138637313",
+		"in_reply_to_screen_name": "ResEngland",
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+			"url": "https://t.co/PRp31Hz3Vd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PRp31Hz3Vd",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14301,
+			"friends_count": 369,
+			"listed_count": 178,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1663663644",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JessicaCorner To help assess applications for the second round of E3 funding, we're now recruiting an expert panel. If you'd like to be part of this work to support the growth of excellent research in our universities, find out more here: https://t.co/ASPF8ZHVJa"
+	},
+	{
+		"created_at": "Thu Oct 27 10:39:21 +0000 2022",
+		"id": 1585575444325204000,
+		"id_str": "1585581913808461826",
+		"full_text": "On E3's second round of funding, Executive Chair Professor Dame @JessicaCorner says: \"I particularly look forward to seeing the impacts this will have on the talent pipeline and on providing a stepping stone to the financial sustainability of small, excellent research units.” https://t.co/sr50jRZGVS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JessicaCorner",
+					"name": "Dame Jessica Corner",
+					"id": 231203203,
+					"id_str": "231203203",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585575441619878000,
+					"id_str": "1585575441619877888",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FgEYdqJWAAAZaZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgEYdqJWAAAZaZR.jpg",
+					"url": "https://t.co/sr50jRZGVS",
+					"display_url": "pic.twitter.com/sr50jRZGVS",
+					"expanded_url": "https://twitter.com/ResEngland/status/1585575444325203968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585575441619878000,
+					"id_str": "1585575441619877888",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FgEYdqJWAAAZaZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgEYdqJWAAAZaZR.jpg",
+					"url": "https://t.co/sr50jRZGVS",
+					"display_url": "pic.twitter.com/sr50jRZGVS",
+					"expanded_url": "https://twitter.com/ResEngland/status/1585575444325203968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": 1585574857684680700,
+		"in_reply_to_status_id_str": "1585574857684680708",
+		"in_reply_to_user_id": 823853384138637300,
+		"in_reply_to_user_id_str": "823853384138637313",
+		"in_reply_to_screen_name": "ResEngland",
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+			"url": "https://t.co/PRp31Hz3Vd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PRp31Hz3Vd",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14301,
+			"friends_count": 369,
+			"listed_count": 178,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1663663644",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On E3's second round of funding, Executive Chair Professor Dame @JessicaCorner says: \"I particularly look forward to seeing the impacts this will have on the talent pipeline and on providing a stepping stone to the financial sustainability of small, excellent research units.” https://t.co/sr50jRZGVS"
+	},
+	{
 		"created_at": "Wed Oct 26 10:23:37 +0000 2022",
 		"id": 1585188577323155500,
 		"id_str": "1585215566490525698",
