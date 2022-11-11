@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 19:27:21 +0000 2022",
+		"id": 1590715945722396700,
+		"id_str": "1590788217263034379",
+		"full_text": "🆕UKRI has signed the Agreement on Reforming Research Assessment, committing us to a common vision for the reward and recognition of research, researchers and research organisations.\n\nhttps://t.co/TAopEr6XfD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TAopEr6XfD",
+					"expanded_url": "https://www.ukri.org/news/ukri-signs-agreement-on-reforming-research-assessment/",
+					"display_url": "ukri.org/news/ukri-sign…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732141019114930200,
+			"id_str": "732141019114930176",
+			"name": "UK Research and Innovation",
+			"screen_name": "UKRI_News",
+			"location": "United Kingdom",
+			"description": "We support world-leading research and innovation to push the frontiers of human knowledge and generate social, cultural and economic impact. Learn more here 👇",
+			"url": "https://t.co/90MfgtCRow",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/90MfgtCRow",
+							"expanded_url": "https://www.ukri.org/about-us/",
+							"display_url": "ukri.org/about-us/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86460,
+			"friends_count": 649,
+			"listed_count": 759,
+			"created_at": "Mon May 16 09:29:56 +0000 2016",
+			"favourites_count": 5447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572143479307882496/WTV19YDN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572143479307882496/WTV19YDN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732141019114930176/1663663190",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🆕UKRI has signed the Agreement on Reforming Research Assessment, committing us to a common vision for the reward and recognition of research, researchers and research organisations.\n\nhttps://t.co/TAopEr6XfD"
+	},
+	{
 		"created_at": "Fri Nov 04 08:41:27 +0000 2022",
 		"id": 1588451345052455000,
 		"id_str": "1588451345052454914",
