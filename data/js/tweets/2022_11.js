@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 18:35:28 +0000 2022",
+		"id": 1593238421363101700,
+		"id_str": "1593674266406445057",
+		"full_text": "It was my pleasure to present a keynote at this excellent @ResEngland event showcasing #participatoryresearch. The value of #PAR in strengthening civic roles of universities is clear and research culture in HE has a lot to gain from embracing PAR and its principles. https://t.co/nkpDFIgMfm https://t.co/uqTNrKRyRn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			290
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "participatoryresearch",
+					"indices": [
+						87,
+						109
+					]
+				},
+				{
+					"text": "PAR",
+					"indices": [
+						124,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						58,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nkpDFIgMfm",
+					"expanded_url": "https://twitter.com/ResEngland/status/1592859102807740418",
+					"display_url": "twitter.com/ResEngland/sta…",
+					"indices": [
+						267,
+						290
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1593238011646738400,
+					"id_str": "1593238011646738432",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/media/FhxRh77agAA811g.png",
+					"media_url_https": "https://pbs.twimg.com/media/FhxRh77agAA811g.png",
+					"url": "https://t.co/uqTNrKRyRn",
+					"display_url": "pic.twitter.com/uqTNrKRyRn",
+					"expanded_url": "https://twitter.com/nicstaffs/status/1593238421363101698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1593238011646738400,
+					"id_str": "1593238011646738432",
+					"indices": [
+						291,
+						314
+					],
+					"media_url": "http://pbs.twimg.com/media/FhxRh77agAA811g.png",
+					"media_url_https": "https://pbs.twimg.com/media/FhxRh77agAA811g.png",
+					"url": "https://t.co/uqTNrKRyRn",
+					"display_url": "pic.twitter.com/uqTNrKRyRn",
+					"expanded_url": "https://twitter.com/nicstaffs/status/1593238421363101698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 370024817,
+			"id_str": "370024817",
+			"name": "Nic Gratton",
+			"screen_name": "nicstaffs",
+			"location": "Staffordshire University",
+			"description": "Associate Professor of Community and Civic Engagement @StaffsUni. Making the world a fairer place. Inclusion and justice. Collective action. All views my own.",
+			"url": "https://t.co/V5B0xVBXQM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V5B0xVBXQM",
+							"expanded_url": "http://blogs.staffs.ac.uk/connections/",
+							"display_url": "blogs.staffs.ac.uk/connections/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1779,
+			"friends_count": 1123,
+			"listed_count": 27,
+			"created_at": "Thu Sep 08 10:19:39 +0000 2011",
+			"favourites_count": 10642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1299640993386573824/-r9TiTT6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299640993386573824/-r9TiTT6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/370024817/1542664406",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1592859102807740400,
+		"quoted_status_id_str": "1592859102807740418",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nkpDFIgMfm",
+			"expanded": "https://twitter.com/ResEngland/status/1592859102807740418",
+			"display": "twitter.com/ResEngland/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 16 12:36:18 +0000 2022",
+			"id": 1592859102807740400,
+			"id_str": "1592859102807740418",
+			"full_text": "Our showcase event this afternoon will focus on the HE sector's diverse approaches to participatory research. We look forward to exploring benefits &amp; challenges and to hear learnings from universities. The event will start with a welcome from Exec Chair, Prof Dame @JessicaCorner.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JessicaCorner",
+						"name": "Dame Jessica Corner",
+						"id": 231203203,
+						"id_str": "231203203",
+						"indices": [
+							269,
+							283
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 823853384138637300,
+				"id_str": "823853384138637313",
+				"name": "Research England",
+				"screen_name": "ResEngland",
+				"location": "Bristol",
+				"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+				"url": "https://t.co/PRp31Hz3Vd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PRp31Hz3Vd",
+								"expanded_url": "https://re.ukri.org/",
+								"display_url": "re.ukri.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14355,
+				"friends_count": 367,
+				"listed_count": 177,
+				"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+				"favourites_count": 1462,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1729,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1663663644",
+				"profile_link_color": "ACBD37",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was my pleasure to present a keynote at this excellent @ResEngland event showcasing #participatoryresearch. The value of #PAR in strengthening civic roles of universities is clear and research culture in HE has a lot to gain from embracing PAR and its principles. https://t.co/nkpDFIgMfm https://t.co/uqTNrKRyRn"
+	},
+	{
 		"created_at": "Wed Nov 16 14:16:02 +0000 2022",
 		"id": 1592859102807740400,
 		"id_str": "1592884200998596610",
