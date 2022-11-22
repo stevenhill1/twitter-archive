@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Mon Nov 21 18:43:52 +0000 2022",
+		"id": 1594714958092243000,
+		"id_str": "1594763544507170816",
+		"full_text": "We’re delivering £100m in additional QR funding to help universities and research institutions target priority issues, like developing and supporting international collaborations and partnerships, supporting blue skies research and retaining talent. More: https://t.co/TUPVzAAgMt https://t.co/NQklILWNwO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TUPVzAAgMt",
+					"expanded_url": "https://www.ukri.org/news/280m-to-support-uk-research-and-innovation-during-horizon-europe-delay/",
+					"display_url": "ukri.org/news/280m-to-s…",
+					"indices": [
+						256,
+						279
+					]
+				},
+				{
+					"url": "https://t.co/NQklILWNwO",
+					"expanded_url": "https://twitter.com/UKRI_News/status/1594713744604626947",
+					"display_url": "twitter.com/UKRI_News/stat…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+			"url": "https://t.co/PRp31Hz3Vd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PRp31Hz3Vd",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14336,
+			"friends_count": 367,
+			"listed_count": 177,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1730,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1663663644",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1594713744604627000,
+		"quoted_status_id_str": "1594713744604626947",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NQklILWNwO",
+			"expanded": "https://twitter.com/UKRI_News/status/1594713744604626947",
+			"display": "twitter.com/UKRI_News/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 21 15:25:59 +0000 2022",
+			"id": 1594713744604627000,
+			"id_str": "1594713744604626947",
+			"full_text": "New: We will deliver £280 million in new funding to help address the impacts of the ongoing delay in UK association to #HorizonEurope. \n\nDetails here: https://t.co/2fGkoKYbUH or 🧵👇 /1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HorizonEurope",
+						"indices": [
+							119,
+							133
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2fGkoKYbUH",
+						"expanded_url": "https://www.ukri.org/news/support-for-research-and-innovation-during-horizon-europe-delay/",
+						"display_url": "ukri.org/news/support-f…",
+						"indices": [
+							151,
+							174
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 732141019114930200,
+				"id_str": "732141019114930176",
+				"name": "UK Research and Innovation",
+				"screen_name": "UKRI_News",
+				"location": "United Kingdom",
+				"description": "We support world-leading research and innovation to push the frontiers of human knowledge and generate social, cultural and economic impact. Learn more here 👇",
+				"url": "https://t.co/90MfgtCRow",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/90MfgtCRow",
+								"expanded_url": "https://www.ukri.org/about-us/",
+								"display_url": "ukri.org/about-us/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86609,
+				"friends_count": 651,
+				"listed_count": 758,
+				"created_at": "Mon May 16 09:29:56 +0000 2016",
+				"favourites_count": 5480,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11428,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1572143479307882496/WTV19YDN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572143479307882496/WTV19YDN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/732141019114930176/1663663190",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re delivering £100m in additional QR funding to help universities and research institutions target priority issues, like developing and supporting international collaborations and partnerships, supporting blue skies research and retaining talent. More: https://t.co/TUPVzAAgMt https://t.co/NQklILWNwO"
+	},
+	{
+		"created_at": "Mon Nov 21 18:43:39 +0000 2022",
+		"id": 1594713766377435100,
+		"id_str": "1594763487015800855",
+		"full_text": "£100m in additional quality-related research (QR) funding through @ResEngland will help recipients to address priority issues, like long-term, risky, curiosity-driven research. \n\nhttps://t.co/msbfoO1nYz /4 https://t.co/Dp8HjFrPkF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						66,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/msbfoO1nYz",
+					"expanded_url": "https://www.ukri.org/news/support-for-research-and-innovation-during-horizon-europe-delay",
+					"display_url": "ukri.org/news/support-f…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1594700563983356000,
+					"id_str": "1594700563983355907",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FiGDtr9X0AML94J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiGDtr9X0AML94J.jpg",
+					"url": "https://t.co/Dp8HjFrPkF",
+					"display_url": "pic.twitter.com/Dp8HjFrPkF",
+					"expanded_url": "https://twitter.com/UKRI_News/status/1594713766377435136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1594700563983356000,
+					"id_str": "1594700563983355907",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FiGDtr9X0AML94J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiGDtr9X0AML94J.jpg",
+					"url": "https://t.co/Dp8HjFrPkF",
+					"display_url": "pic.twitter.com/Dp8HjFrPkF",
+					"expanded_url": "https://twitter.com/UKRI_News/status/1594713766377435136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1594713759922135000,
+		"in_reply_to_status_id_str": "1594713759922135042",
+		"in_reply_to_user_id": 732141019114930200,
+		"in_reply_to_user_id_str": "732141019114930176",
+		"in_reply_to_screen_name": "UKRI_News",
+		"user": {
+			"id": 732141019114930200,
+			"id_str": "732141019114930176",
+			"name": "UK Research and Innovation",
+			"screen_name": "UKRI_News",
+			"location": "United Kingdom",
+			"description": "We support world-leading research and innovation to push the frontiers of human knowledge and generate social, cultural and economic impact. Learn more here 👇",
+			"url": "https://t.co/90MfgtCRow",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/90MfgtCRow",
+							"expanded_url": "https://www.ukri.org/about-us/",
+							"display_url": "ukri.org/about-us/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86609,
+			"friends_count": 651,
+			"listed_count": 758,
+			"created_at": "Mon May 16 09:29:56 +0000 2016",
+			"favourites_count": 5480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572143479307882496/WTV19YDN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572143479307882496/WTV19YDN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732141019114930176/1663663190",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "£100m in additional quality-related research (QR) funding through @ResEngland will help recipients to address priority issues, like long-term, risky, curiosity-driven research. \n\nhttps://t.co/msbfoO1nYz /4 https://t.co/Dp8HjFrPkF"
+	},
+	{
 		"created_at": "Fri Nov 18 18:35:28 +0000 2022",
 		"id": 1593238421363101700,
 		"id_str": "1593674266406445057",
