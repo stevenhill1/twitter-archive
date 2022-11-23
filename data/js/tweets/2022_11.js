@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 22 20:11:36 +0000 2022",
+		"id": 1595058972117057500,
+		"id_str": "1595148009301590031",
+		"full_text": "Researchers: want access to specialist leadership training, networks, mentors &amp; collaborative opportunities?\n\nThe PATHWAY programme has places for 60 researchers across the UKRI community to join the Future Leaders Fellows Development Network.\nApply➡️https://t.co/np4bXjd9XQ 1/2 https://t.co/K8YP06aJL1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/np4bXjd9XQ",
+					"expanded_url": "https://www.surveymonkey.co.uk/r/88MHX6V",
+					"display_url": "surveymonkey.co.uk/r/88MHX6V",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1595057262996889600,
+					"id_str": "1595057262996889601",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/FiLIITVWIAE4ydw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiLIITVWIAE4ydw.jpg",
+					"url": "https://t.co/K8YP06aJL1",
+					"display_url": "pic.twitter.com/K8YP06aJL1",
+					"expanded_url": "https://twitter.com/UKRI_News/status/1595058972117057536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1595057262996889600,
+					"id_str": "1595057262996889601",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/FiLIITVWIAE4ydw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FiLIITVWIAE4ydw.jpg",
+					"url": "https://t.co/K8YP06aJL1",
+					"display_url": "pic.twitter.com/K8YP06aJL1",
+					"expanded_url": "https://twitter.com/UKRI_News/status/1595058972117057536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732141019114930200,
+			"id_str": "732141019114930176",
+			"name": "UK Research and Innovation",
+			"screen_name": "UKRI_News",
+			"location": "United Kingdom",
+			"description": "We support world-leading research and innovation to push the frontiers of human knowledge and generate social, cultural and economic impact. Learn more here 👇",
+			"url": "https://t.co/90MfgtCRow",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/90MfgtCRow",
+							"expanded_url": "https://www.ukri.org/about-us/",
+							"display_url": "ukri.org/about-us/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86632,
+			"friends_count": 653,
+			"listed_count": 758,
+			"created_at": "Mon May 16 09:29:56 +0000 2016",
+			"favourites_count": 5488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572143479307882496/WTV19YDN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572143479307882496/WTV19YDN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732141019114930176/1663663190",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Researchers: want access to specialist leadership training, networks, mentors &amp; collaborative opportunities?\n\nThe PATHWAY programme has places for 60 researchers across the UKRI community to join the Future Leaders Fellows Development Network.\nApply➡️https://t.co/np4bXjd9XQ 1/2 https://t.co/K8YP06aJL1"
+	},
+	{
 		"created_at": "Mon Nov 21 18:43:52 +0000 2022",
 		"id": 1594714958092243000,
 		"id_str": "1594763544507170816",
