@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 08 12:04:18 +0000 2022",
+		"id": 1600817394355769300,
+		"id_str": "1600823582053081090",
+		"full_text": "We are allocating up to £180 million over 5 years to support a second phase of exciting and imaginative schemes in university research units and departments, which have potential to grow but are limited by resources. Find out more about our E3 fund: https://t.co/ZTwR2908Ll (2/2)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZTwR2908Ll",
+					"expanded_url": "https://orlo.uk/P1p6a",
+					"display_url": "orlo.uk/P1p6a",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": 1600817136661848000,
+		"in_reply_to_status_id_str": "1600817136661848066",
+		"in_reply_to_user_id": 823853384138637300,
+		"in_reply_to_user_id_str": "823853384138637313",
+		"in_reply_to_screen_name": "ResEngland",
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+			"url": "https://t.co/PRp31Hz3Vd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PRp31Hz3Vd",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14376,
+			"friends_count": 367,
+			"listed_count": 176,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1663663644",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are allocating up to £180 million over 5 years to support a second phase of exciting and imaginative schemes in university research units and departments, which have potential to grow but are limited by resources. Find out more about our E3 fund: https://t.co/ZTwR2908Ll (2/2)"
+	},
+	{
 		"created_at": "Tue Dec 06 18:50:05 +0000 2022",
 		"id": 1600200926203084800,
 		"id_str": "1600200926203084800",
