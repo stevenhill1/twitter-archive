@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Thu Jan 12 12:33:40 +0000 2023",
+		"id": 1613511208748851200,
+		"id_str": "1613514546857099265",
+		"full_text": "Delighted to announce that our forthcoming \n @CultureImpacts Evidence Cafe 8: Reflections on REF 2021 is on 23 Feb. We will be joined by Dr Federica Rossi, @Birkbeck_CIMR, @stevenhill from @ResEngland and @mmdelgado1 from @CSSDLondon \n\nhttps://t.co/wycGHUemAt @Eventbrite",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CultureImpacts",
+					"name": "National Centre for Academic and Cultural Exchange",
+					"id": 1321502224678346800,
+					"id_str": "1321502224678346753",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "Birkbeck_CIMR",
+					"name": "BBK_CIMR",
+					"id": 1382699493032915000,
+					"id_str": "1382699493032914947",
+					"indices": [
+						156,
+						170
+					]
+				},
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						172,
+						183
+					]
+				},
+				{
+					"screen_name": "ResEngland",
+					"name": "Research England",
+					"id": 823853384138637300,
+					"id_str": "823853384138637313",
+					"indices": [
+						189,
+						200
+					]
+				},
+				{
+					"screen_name": "mmdelgado1",
+					"name": "Maria M Delgado",
+					"id": 3028918138,
+					"id_str": "3028918138",
+					"indices": [
+						205,
+						216
+					]
+				},
+				{
+					"screen_name": "CSSDLondon",
+					"name": "Central",
+					"id": 167341264,
+					"id_str": "167341264",
+					"indices": [
+						222,
+						233
+					]
+				},
+				{
+					"screen_name": "eventbrite",
+					"name": "Eventbrite",
+					"id": 5625972,
+					"id_str": "5625972",
+					"indices": [
+						260,
+						271
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wycGHUemAt",
+					"expanded_url": "https://www.eventbrite.co.uk/e/ncace-evidence-cafe-8-reflections-on-ref-2021-tickets-513112331797?aff=estw&utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-source=tw&utm-term=listing",
+					"display_url": "eventbrite.co.uk/e/ncace-eviden…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 815555120,
+			"id_str": "815555120",
+			"name": "Evelyn Wilson",
+			"screen_name": "evelyntcce",
+			"location": "London",
+			"description": "Director TCCE (@infoTCCE) and Co-Director NCACE (@CultureImpacts).",
+			"url": "https://t.co/YGCPwoATWW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YGCPwoATWW",
+							"expanded_url": "http://www.tcce.co.uk",
+							"display_url": "tcce.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1672,
+			"listed_count": 28,
+			"created_at": "Mon Sep 10 16:27:32 +0000 2012",
+			"favourites_count": 5640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1304377172656873473/sWFPdZwy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304377172656873473/sWFPdZwy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/815555120/1599822727",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Delighted to announce that our forthcoming \n @CultureImpacts Evidence Cafe 8: Reflections on REF 2021 is on 23 Feb. We will be joined by Dr Federica Rossi, @Birkbeck_CIMR, @stevenhill from @ResEngland and @mmdelgado1 from @CSSDLondon \n\nhttps://t.co/wycGHUemAt @Eventbrite"
+	},
+	{
 		"created_at": "Tue Jan 10 15:12:16 +0000 2023",
 		"id": 1612829686832275500,
 		"id_str": "1612829686832275456",
