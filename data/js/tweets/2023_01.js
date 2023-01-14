@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 13 15:51:33 +0000 2023",
+		"id": 1613921313034207200,
+		"id_str": "1613926732620333056",
+		"full_text": "Are you interested in Next steps for the Research Excellence Framework?\n\nJoin @WHEFEvents on the 16th June to discuss this with speakers including @stevenhill @Meagostinho @RoySocChem @jameswilsdon @uniofleicester @dr_joe_marshall!\n\nMore information: https://t.co/eoqI7ViX7B https://t.co/tVbbtCrP6E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WHEFEvents",
+					"name": "WHEF Events",
+					"id": 428885362,
+					"id_str": "428885362",
+					"indices": [
+						78,
+						89
+					]
+				},
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						147,
+						158
+					]
+				},
+				{
+					"screen_name": "Meagostinho",
+					"name": "Marta Agostinho",
+					"id": 757435321,
+					"id_str": "757435321",
+					"indices": [
+						159,
+						171
+					]
+				},
+				{
+					"screen_name": "RoySocChem",
+					"name": "Royal Society of Chemistry",
+					"id": 309087942,
+					"id_str": "309087942",
+					"indices": [
+						172,
+						183
+					]
+				},
+				{
+					"screen_name": "jameswilsdon",
+					"name": "James Wilsdon",
+					"id": 276224538,
+					"id_str": "276224538",
+					"indices": [
+						184,
+						197
+					]
+				},
+				{
+					"screen_name": "uniofleicester",
+					"name": "University of Leicester",
+					"id": 81089247,
+					"id_str": "81089247",
+					"indices": [
+						198,
+						213
+					]
+				},
+				{
+					"screen_name": "dr_joe_marshall",
+					"name": "Joe Marshall",
+					"id": 823572265266716700,
+					"id_str": "823572265266716673",
+					"indices": [
+						214,
+						230
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eoqI7ViX7B",
+					"expanded_url": "https://bit.ly/3GAVTVm",
+					"display_url": "bit.ly/3GAVTVm",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1613111888052633600,
+					"id_str": "1613111888052633600",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FmLsty5WQAAij5A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmLsty5WQAAij5A.jpg",
+					"url": "https://t.co/tVbbtCrP6E",
+					"display_url": "pic.twitter.com/tVbbtCrP6E",
+					"expanded_url": "https://twitter.com/WHEFEvents/status/1613921313034207238/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1613111888052633600,
+					"id_str": "1613111888052633600",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FmLsty5WQAAij5A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FmLsty5WQAAij5A.jpg",
+					"url": "https://t.co/tVbbtCrP6E",
+					"display_url": "pic.twitter.com/tVbbtCrP6E",
+					"expanded_url": "https://twitter.com/WHEFEvents/status/1613921313034207238/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 428885362,
+			"id_str": "428885362",
+			"name": "WHEF Events",
+			"screen_name": "WHEFEvents",
+			"location": "Central London and Westminster",
+			"description": "Informative and impartial higher education policy seminars from the Westminster Higher Education Forum #WHEFEvents\nRetweets ≠ Endorsement",
+			"url": "https://t.co/ZQJIT9HZmB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZQJIT9HZmB",
+							"expanded_url": "http://www.westminsterhighereducationforum.co.uk/",
+							"display_url": "westminsterhighereducationforum.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1582,
+			"friends_count": 309,
+			"listed_count": 52,
+			"created_at": "Mon Dec 05 09:05:31 +0000 2011",
+			"favourites_count": 415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/987258958862782464/XgszfsfV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/987258958862782464/XgszfsfV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/428885362/1406734574",
+			"profile_link_color": "7F0219",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you interested in Next steps for the Research Excellence Framework?\n\nJoin @WHEFEvents on the 16th June to discuss this with speakers including @stevenhill @Meagostinho @RoySocChem @jameswilsdon @uniofleicester @dr_joe_marshall!\n\nMore information: https://t.co/eoqI7ViX7B https://t.co/tVbbtCrP6E"
+	},
+	{
 		"created_at": "Thu Jan 12 12:33:40 +0000 2023",
 		"id": 1613511208748851200,
 		"id_str": "1613514546857099265",
