@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 25 19:30:10 +0000 2023",
+		"id": 1618186551380545500,
+		"id_str": "1618330403705880581",
+		"full_text": "Join us Jan 31 for this session delving into a new Policy Note by HEPI’s Dr. Laura Brassington and T&amp;F's Victoria Gardner on making research accessible outside of academia: https://t.co/3szFRMWCnI\n@sarahchaytor @stevenhill @nickhillman @L_Brassington @HEPI_news @senseaboutsci https://t.co/3Fj2XOSurt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sarahchaytor",
+					"name": "sarah :) :) ",
+					"id": 2262197927,
+					"id_str": "2262197927",
+					"indices": [
+						201,
+						214
+					]
+				},
+				{
+					"screen_name": "stevenhill",
+					"name": "Steven Hill",
+					"id": 7731752,
+					"id_str": "7731752",
+					"indices": [
+						215,
+						226
+					]
+				},
+				{
+					"screen_name": "nickhillman",
+					"name": "Nick Hillman",
+					"id": 80848486,
+					"id_str": "80848486",
+					"indices": [
+						227,
+						239
+					]
+				},
+				{
+					"screen_name": "L_Brassington",
+					"name": "Laura Brassington",
+					"id": 1515968636,
+					"id_str": "1515968636",
+					"indices": [
+						240,
+						254
+					]
+				},
+				{
+					"screen_name": "HEPI_news",
+					"name": "Higher Education Policy Institute",
+					"id": 299638999,
+					"id_str": "299638999",
+					"indices": [
+						255,
+						265
+					]
+				},
+				{
+					"screen_name": "senseaboutsci",
+					"name": "Sense about Science",
+					"id": 45579282,
+					"id_str": "45579282",
+					"indices": [
+						266,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3szFRMWCnI",
+					"expanded_url": "https://us06web.zoom.us/webinar/register/WN_hq6ujtwyQ1uLpLDCYZJjWA",
+					"display_url": "us06web.zoom.us/webinar/regist…",
+					"indices": [
+						177,
+						200
+					]
+				},
+				{
+					"url": "https://t.co/3Fj2XOSurt",
+					"expanded_url": "https://twitter.com/HEPI_news/status/1618155879085531138",
+					"display_url": "twitter.com/HEPI_news/stat…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 922434822999609300,
+			"id_str": "922434822999609345",
+			"name": "Taylor & Francis",
+			"screen_name": "WeAreTandF",
+			"location": "Abingdon, England",
+			"description": "Taylor & Francis Group partners with researchers, scholarly societies, universities and libraries worldwide to bring knowledge to life.",
+			"url": "https://t.co/r6jfvuhIx9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r6jfvuhIx9",
+							"expanded_url": "https://taylorandfrancis.com/",
+							"display_url": "taylorandfrancis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1141,
+			"friends_count": 1255,
+			"listed_count": 12,
+			"created_at": "Mon Oct 23 12:09:34 +0000 2017",
+			"favourites_count": 438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2384,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1557737595832266752/RUb5ZUfm_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1557737595832266752/RUb5ZUfm_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/922434822999609345/1659524233",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1618155879085531100,
+		"quoted_status_id_str": "1618155879085531138",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3Fj2XOSurt",
+			"expanded": "https://twitter.com/HEPI_news/status/1618155879085531138",
+			"display": "twitter.com/HEPI_news/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 25 07:56:40 +0000 2023",
+			"id": 1618155879085531100,
+			"id_str": "1618155879085531138",
+			"full_text": "We’ll be addressing some of these issues at a free webinar with @WeAreTandF next week: https://t.co/uWBoe04B4l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WeAreTandF",
+						"name": "Taylor & Francis",
+						"id": 922434822999609300,
+						"id_str": "922434822999609345",
+						"indices": [
+							64,
+							75
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/uWBoe04B4l",
+						"expanded_url": "https://twitter.com/ka81/status/1618155367489470465",
+						"display_url": "twitter.com/ka81/status/16…",
+						"indices": [
+							87,
+							110
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 299638999,
+				"id_str": "299638999",
+				"name": "Higher Education Policy Institute",
+				"screen_name": "HEPI_news",
+				"location": "",
+				"description": "The Higher Education Policy Institute is the UK's only think tank devoted exclusively to higher education. The Director is @nickhillman. RTs aren’t endorsements",
+				"url": "https://t.co/laRIHAUjyY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/laRIHAUjyY",
+								"expanded_url": "http://www.hepi.ac.uk",
+								"display_url": "hepi.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21512,
+				"friends_count": 5917,
+				"listed_count": 362,
+				"created_at": "Mon May 16 13:00:59 +0000 2011",
+				"favourites_count": 2901,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17277,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1109880448656777222/7mn_DTO7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109880448656777222/7mn_DTO7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/299638999/1514371353",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1618155367489470500,
+			"quoted_status_id_str": "1618155367489470465",
+			"quoted_status_permalink": {
+				"url": "https://t.co/uWBoe04B4l",
+				"expanded": "https://twitter.com/ka81/status/1618155367489470465",
+				"display": "twitter.com/ka81/status/16…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us Jan 31 for this session delving into a new Policy Note by HEPI’s Dr. Laura Brassington and T&amp;F's Victoria Gardner on making research accessible outside of academia: https://t.co/3szFRMWCnI\n@sarahchaytor @stevenhill @nickhillman @L_Brassington @HEPI_news @senseaboutsci https://t.co/3Fj2XOSurt"
+	},
+	{
 		"created_at": "Thu Jan 19 09:22:19 +0000 2023",
 		"id": 1615998762379509800,
 		"id_str": "1616003108949082113",
