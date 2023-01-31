@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 30 15:28:27 +0000 2023",
+		"id": 1620031529056612400,
+		"id_str": "1620081516423565312",
+		"full_text": "New job klaxon. I've moved over to Research Culture and today I start a new job as the Head of R&amp;I Culture Strategy.\n\nBoth thrilled and terrified which I think is a good place to be with a new job.  \n\nLooking forward to working with the team.\n\nI've lots of questions still... 1/2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28188415,
+			"id_str": "28188415",
+			"name": "kirsty grainger",
+			"screen_name": "kirstygrainger",
+			"location": "Wiltshire",
+			"description": "Optimist. I like asking questions. What if? Why not? Can I have a cuppa? She/her. @kirstygrainger@mastodon.social\nhttps://t.co/cJ3DqxDK76…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cJ3DqxDK76",
+							"expanded_url": "http://linkedin.com/in/kirsty-grai",
+							"display_url": "linkedin.com/in/kirsty-grai",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2659,
+			"friends_count": 629,
+			"listed_count": 21,
+			"created_at": "Wed Apr 01 20:33:25 +0000 2009",
+			"favourites_count": 10503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "153B5C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283078317491576832/7sE_zA32_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283078317491576832/7sE_zA32_normal.jpg",
+			"profile_link_color": "492754",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "New job klaxon. I've moved over to Research Culture and today I start a new job as the Head of R&amp;I Culture Strategy.\n\nBoth thrilled and terrified which I think is a good place to be with a new job.  \n\nLooking forward to working with the team.\n\nI've lots of questions still... 1/2"
+	},
+	{
 		"created_at": "Wed Jan 25 19:30:10 +0000 2023",
 		"id": 1618186551380545500,
 		"id_str": "1618330403705880581",
