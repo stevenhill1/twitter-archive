@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Wed Feb 08 16:26:56 +0000 2023",
+		"id": 1623353934755795000,
+		"id_str": "1623357724837744646",
+		"full_text": "If you're planning to apply to the E3 fund for support to help grow your small &amp; excellent research units - we've recently held a webinar for potential applicants. Watch this for guidance and tips ➡️ https://t.co/eXFuszDzrQ https://t.co/VO73VSftVn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eXFuszDzrQ",
+					"expanded_url": "https://youtu.be/ZJcW5LXyXOI",
+					"display_url": "youtu.be/ZJcW5LXyXOI",
+					"indices": [
+						204,
+						227
+					]
+				},
+				{
+					"url": "https://t.co/VO73VSftVn",
+					"expanded_url": "https://twitter.com/ResEngland/status/1622988569869426688",
+					"display_url": "twitter.com/ResEngland/sta…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823853384138637300,
+			"id_str": "823853384138637313",
+			"name": "Research England",
+			"screen_name": "ResEngland",
+			"location": "Bristol",
+			"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+			"url": "https://t.co/PRp31Hz3Vd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PRp31Hz3Vd",
+							"expanded_url": "https://re.ukri.org/",
+							"display_url": "re.ukri.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14494,
+			"friends_count": 367,
+			"listed_count": 177,
+			"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+			"favourites_count": 1466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1663663644",
+			"profile_link_color": "ACBD37",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1622988569869426700,
+		"quoted_status_id_str": "1622988569869426688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VO73VSftVn",
+			"expanded": "https://twitter.com/ResEngland/status/1622988569869426688",
+			"display": "twitter.com/ResEngland/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 07 16:00:03 +0000 2023",
+			"id": 1622988569869426700,
+			"id_str": "1622988569869426688",
+			"full_text": "English HE providers: Don't miss your chance to apply for funding to scale up your small &amp; excellent research units through our Expanding Excellence in England (E3) fund. Expressions of interest close on 24 Feb https://t.co/59C1SbAnIS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/59C1SbAnIS",
+						"expanded_url": "https://orlo.uk/q34BZ",
+						"display_url": "orlo.uk/q34BZ",
+						"indices": [
+							215,
+							238
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 823853384138637300,
+				"id_str": "823853384138637313",
+				"name": "Research England",
+				"screen_name": "ResEngland",
+				"location": "Bristol",
+				"description": "We create and sustain the conditions for a healthy, dynamic research and knowledge exchange system in England's universities. We are part of @UKRI_News.",
+				"url": "https://t.co/PRp31Hz3Vd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PRp31Hz3Vd",
+								"expanded_url": "https://re.ukri.org/",
+								"display_url": "re.ukri.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14494,
+				"friends_count": 367,
+				"listed_count": 177,
+				"created_at": "Tue Jan 24 11:22:08 +0000 2017",
+				"favourites_count": 1466,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1763,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572145382649389056/LtGf6oxt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/823853384138637313/1663663644",
+				"profile_link_color": "ACBD37",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you're planning to apply to the E3 fund for support to help grow your small &amp; excellent research units - we've recently held a webinar for potential applicants. Watch this for guidance and tips ➡️ https://t.co/eXFuszDzrQ https://t.co/VO73VSftVn"
+	},
+	{
 		"created_at": "Mon Feb 06 20:34:44 +0000 2023",
 		"id": 1622541092481560600,
 		"id_str": "1622695310731448341",
